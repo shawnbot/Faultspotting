@@ -1,6 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71443530,1,"Thursday, August 19, 2010 05:58:37 UTC",38.8092,-122.8125,1.5,2.20,29,"Northern California"
-ci,10781973,2,"Thursday, August 19, 2010 05:52:47 UTC",32.2617,-116.5808,1.8,9.40,23,"Baja California, Mexico"
-ci,10781965,2,"Thursday, August 19, 2010 05:44:42 UTC",35.6460,-117.4942,2.0,5.50,37,"Southern California"
-ci,10781941,2,"Thursday, August 19, 2010 05:23:24 UTC",32.6492,-115.9487,1.5,4.70,14,"Southern California"
-us,2010adau,7,"Thursday, August 19, 2010 05:12:08 UTC",-10.1122,161.0077,5.1,91.10,59,"Solomon Islands"

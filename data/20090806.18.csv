@@ -1,5 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71261216,0,"Friday, August  7, 2009 00:58:25 UTC",38.7482,-122.7183,1.0,0.80, 9,"Northern California"
-nc,71261211,0,"Friday, August  7, 2009 00:52:22 UTC",38.7510,-122.7237,1.1,0.00,10,"Northern California"
-hv,00034980,0,"Friday, August  7, 2009 00:42:34 UTC",19.1673,-155.4850,1.7,30.00, 0,"Island of Hawaii, Hawaii"
-ci,14496832,1,"Friday, August  7, 2009 00:34:47 UTC",33.4146,-116.6835,1.0,2.70,34,"Southern California"

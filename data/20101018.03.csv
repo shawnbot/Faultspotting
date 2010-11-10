@@ -1,6 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71475656,1,"Monday, October 18, 2010 09:28:40 UTC",38.8443,-122.8263,1.7,1.50,28,"Northern California"
-nc,71475646,1,"Monday, October 18, 2010 09:22:26 UTC",38.8108,-122.8153,1.8,2.70,27,"Northern California"
-ci,14862732,2,"Monday, October 18, 2010 09:13:04 UTC",32.6835,-115.8152,1.6,9.20,15,"Southern California"
-us,a00041bf,7,"Monday, October 18, 2010 09:09:45 UTC",-21.9039,-175.3517,4.8,46.90,54,"Tonga"
-uu,00004514,1,"Monday, October 18, 2010 08:53:24 UTC",44.6525,-111.1986,1.4,0.90, 6,"western Montana"

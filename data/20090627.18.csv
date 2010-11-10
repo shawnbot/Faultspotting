@@ -1,5 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71240036,0,"Sunday, June 28, 2009 00:42:50 UTC",38.8207,-122.8008,1.2,3.30,17,"Northern California"
-ak,00110594,1,"Sunday, June 28, 2009 00:23:58 UTC",61.0123,-143.1008,1.0,35.60,04,"Southern Alaska"
-ak,00110592,1,"Sunday, June 28, 2009 00:18:15 UTC",64.4903,-147.0490,1.2,0.00, 4,"Central Alaska"
-us,2009ikab,6,"Sunday, June 28, 2009 00:04:26 UTC",-31.7581,58.3418,4.9,32.20,36,"Southwest Indian Ridge"

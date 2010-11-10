@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71294555,0,"Thursday, October 15, 2009 06:22:55 UTC",38.8170,-122.7953,1.5,2.70,26,"Northern California"
-nc,71294550,0,"Thursday, October 15, 2009 06:07:31 UTC",37.8362,-122.0060,1.7,4.70,11,"San Francisco Bay area, California"
-ci,10481245,1,"Thursday, October 15, 2009 06:01:37 UTC",33.2741,-116.4600,1.8,3.50,76,"Southern California"
-nc,71294540,0,"Thursday, October 15, 2009 06:01:19 UTC",38.7913,-122.7560,1.2,2.70,19,"Northern California"
-nc,71294535,0,"Thursday, October 15, 2009 05:59:10 UTC",37.8312,-122.0108,1.8,3.30,12,"San Francisco Bay area, California"
-us,2009mubh,7,"Thursday, October 15, 2009 05:52:55 UTC",-33.3877,-178.8053,5.1,35.00,20,"south of the Kermadec Islands"

@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,14491848,1,"Monday, July 27, 2009 19:58:31 UTC",33.7656,-116.9441,1.0,0.00,16,"Southern California"
-ci,14491840,1,"Monday, July 27, 2009 19:58:20 UTC",33.7180,-116.8055,1.2,16.80,30,"Southern California"
-nc,71254981,0,"Monday, July 27, 2009 19:51:46 UTC",37.8355,-122.0162,2.1,5.70,25,"San Francisco Bay area, California"
-ci,14491832,1,"Monday, July 27, 2009 19:50:37 UTC",32.1163,-115.7720,2.9,0.30,12,"Baja California, Mexico"
-us,2009jpbi,7,"Monday, July 27, 2009 19:16:17 UTC",43.9407,145.2484,4.8,142.60,42,"Hokkaido, Japan region"
-nn,00288845,1,"Monday, July 27, 2009 19:10:15 UTC",38.9980,-117.0560,1.9,2.00,15,"Nevada"

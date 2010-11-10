@@ -1,6 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,14864092,2,"Tuesday, October 19, 2010 19:51:54 UTC",34.1713,-117.2127,1.7,13.10,13,"Greater Los Angeles area, California"
-nn,00319065,7,"Tuesday, October 19, 2010 19:36:50 UTC",36.3675,-116.3270,1.6,0.50,16,"Nevada"
-nn,00319063,7,"Tuesday, October 19, 2010 19:09:33 UTC",38.7768,-117.0336,1.8,2.00, 7,"Nevada"
-ak,10103818,1,"Tuesday, October 19, 2010 19:01:48 UTC",63.2048,-150.0133,1.4,120.40,15,"Central Alaska"
-ci,14864052,2,"Tuesday, October 19, 2010 19:00:56 UTC",36.0373,-117.7712,1.1,4.50,12,"Central California"

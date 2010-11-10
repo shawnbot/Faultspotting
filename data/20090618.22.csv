@@ -1,5 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,14476512,1,"Friday, June 19, 2009 04:48:41 UTC",33.3408,-116.3840,1.2,9.30,36,"Southern California"
-nc,40238368,1,"Friday, June 19, 2009 04:47:03 UTC",38.9145,-122.6372,2.9,2.30,80,"Northern California"
-nc,40238366,1,"Friday, June 19, 2009 04:30:42 UTC",38.9162,-122.6377,2.4,3.40,23,"Northern California"
-ci,14476496,1,"Friday, June 19, 2009 04:08:49 UTC",33.1503,-117.4326,2.4,18.30,76,"Gulf of Santa Catalina, California"

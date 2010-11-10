@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71445120,0,"Sunday, August 22, 2010 08:35:46 UTC",38.7788,-122.7237,1.2,2.30,23,"Northern California"
-ci,10784165,2,"Sunday, August 22, 2010 08:30:36 UTC",33.4612,-116.7597,1.7,0.10,21,"Southern California"
-nn,00315484,7,"Sunday, August 22, 2010 08:19:06 UTC",38.5083,-118.3462,2.2,6.30,35,"Nevada"
-us,2010agau,6,"Sunday, August 22, 2010 08:15:58 UTC",2.0591,96.7071,4.7,36.30,25,"Simeulue, Indonesia"
-ci,10784157,2,"Sunday, August 22, 2010 08:10:50 UTC",32.6293,-115.7435,1.5,3.80,24,"Baja California, Mexico"
-us,2010agar,6,"Sunday, August 22, 2010 08:06:29 UTC",-21.1406,-67.2529,5.1,126.80,27,"Potosi, Bolivia"

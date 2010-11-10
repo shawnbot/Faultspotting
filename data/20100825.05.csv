@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-uw,08251149,0,"Wednesday, August 25, 2010 11:49:08 UTC",45.9903,-122.1041,2.1,7.60,32,"Washington"
-ci,10785829,2,"Wednesday, August 25, 2010 11:45:25 UTC",34.1723,-116.8512,1.3,6.30,31,"Southern California"
-ci,10785821,2,"Wednesday, August 25, 2010 11:38:53 UTC",32.8498,-116.0517,1.3,7.30,38,"Southern California"
-us,2010ajbf,6,"Wednesday, August 25, 2010 11:36:39 UTC",-27.1382,-70.8959,4.5,35.10,31,"Atacama, Chile"
-nc,71446495,1,"Wednesday, August 25, 2010 11:22:08 UTC",36.7810,-121.4898,1.7,4.10,31,"Central California"
-ak,10074007,1,"Wednesday, August 25, 2010 11:03:23 UTC",59.0226,-152.4308,2.0,88.70,21,"Southern Alaska"

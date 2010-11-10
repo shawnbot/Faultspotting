@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-us,2009klan,7,"Tuesday, August 18, 2009 04:33:00 UTC",54.6030,168.3474,4.7,19.80,50,"Komandorskiye Ostrova, Russia region"
-nc,71267146,0,"Tuesday, August 18, 2009 04:25:55 UTC",36.6422,-121.2372,1.6,7.60,19,"Central California"
-ci,14501648,1,"Tuesday, August 18, 2009 04:10:41 UTC",33.3590,-116.4040,1.1,14.30,44,"Southern California"
-ci,14501640,1,"Tuesday, August 18, 2009 04:08:45 UTC",33.3533,-116.4231,1.1,12.10,54,"Southern California"
-ci,14501632,1,"Tuesday, August 18, 2009 04:08:35 UTC",33.3655,-116.3948,1.1,12.40,34,"Southern California"
-ak,10005268,1,"Tuesday, August 18, 2009 04:08:24 UTC",51.7840,179.0600,1.8,220.00, 6,"Rat Islands, Aleutian Islands, Alaska"

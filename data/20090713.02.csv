@@ -1,6 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ak,10000389,1,"Monday, July 13, 2009 08:37:58 UTC",51.9252,-179.1031,3.3,100.00,17,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10000388,1,"Monday, July 13, 2009 08:24:49 UTC",60.2558,-143.7460,1.2,8.90, 4,"Southern Alaska"
-hv,00034723,0,"Monday, July 13, 2009 08:03:57 UTC",19.4545,-154.8825,1.7,5.30,00,"Hawaii region, Hawaii"
-pr,p0919407,1,"Monday, July 13, 2009 08:01:14 UTC",18.1033,-67.3478,2.9,10.90,21,"Mona Passage, Puerto Rico"
-nc,71247796,0,"Monday, July 13, 2009 08:00:49 UTC",36.7633,-121.2618,1.1,5.80,10,"Central California"

@@ -1,5 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71262076,0,"Saturday, August  8, 2009 13:59:41 UTC",38.7883,-122.7367,1.4,2.10,18,"Northern California"
-us,2009kbay,6,"Saturday, August  8, 2009 13:31:52 UTC",28.8171,141.4312,4.8,57.70,15,"Bonin Islands, Japan region"
-ak,10003792,1,"Saturday, August  8, 2009 13:31:43 UTC",61.7113,-146.5150,1.7,17.00,23,"Southern Alaska"
-ak,10003787,1,"Saturday, August  8, 2009 13:08:24 UTC",62.7194,-152.0547,1.3,14.30, 8,"Central Alaska"

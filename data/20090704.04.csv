@@ -1,6 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,10434449,1,"Saturday, July  4, 2009 10:43:22 UTC",33.3773,-116.3925,1.1,13.00,33,"Southern California"
-ak,00111361,1,"Saturday, July  4, 2009 10:37:40 UTC",60.0500,-153.2116,2.0,100.00,14,"Southern Alaska"
-ak,00111359,1,"Saturday, July  4, 2009 10:36:07 UTC",61.0480,-150.7192,1.5,27.20, 9,"Southern Alaska"
-ak,00111360,1,"Saturday, July  4, 2009 10:34:10 UTC",64.1270,-150.5360,1.4,39.50,04,"Central Alaska"
-us,2009iraq,Q,"Saturday, July  4, 2009 10:21:45 UTC",-21.3951,-174.0926,4.9,35.00,59,"Tonga"

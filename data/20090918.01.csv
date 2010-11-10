@@ -1,5 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,14511812,1,"Friday, September 18, 2009 07:55:21 UTC",33.4586,-116.5930,1.1,11.30,55,"Southern California"
-ak,10010304,1,"Friday, September 18, 2009 07:19:27 UTC",60.1659,-152.7703,2.3,100.00,22,"Southern Alaska"
-nc,71282771,0,"Friday, September 18, 2009 07:12:28 UTC",38.8122,-122.8285,1.2,2.20,22,"Northern California"
-nn,00292806,1,"Friday, September 18, 2009 07:09:18 UTC",38.6010,-118.0380,1.9,0.00,34,"Nevada"

@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,14469928,1,"Sunday, June  7, 2009 15:54:11 UTC",32.8801,-116.3740,1.5,7.00,18,"Southern California"
-ak,00107962,1,"Sunday, June  7, 2009 15:46:59 UTC",60.6915,-142.6261,1.2,0.00, 4,"Southern Alaska"
-nn,00285507,1,"Sunday, June  7, 2009 15:45:31 UTC",36.2830,-115.4250,1.8,0.00,42,"Nevada"
-ci,14469912,1,"Sunday, June  7, 2009 15:42:35 UTC",33.8525,-118.2816,1.7,18.60,41,"Greater Los Angeles area, California"
-ak,00107961,1,"Sunday, June  7, 2009 15:42:22 UTC",51.6287,178.8026,2.4,34.10, 9,"Rat Islands, Aleutian Islands, Alaska"
-us,2009hpa1,6,"Sunday, June  7, 2009 15:05:26 UTC",-18.0758,167.9591,4.9,59.80,15,"Vanuatu"

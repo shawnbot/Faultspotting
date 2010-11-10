@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-pr,p0916107,1,"Wednesday, June 10, 2009 23:40:44 UTC",18.9937,-65.1202,3.3,28.90,16,"Virgin Islands region"
-hv,00034305,0,"Wednesday, June 10, 2009 23:37:47 UTC",19.2997,-155.2188,2.1,7.20, 0,"Island of Hawaii, Hawaii"
-nn,00285827,1,"Wednesday, June 10, 2009 23:25:33 UTC",37.8070,-116.4380,2.1,16.00,10,"Nevada"
-us,2009hscd,6,"Wednesday, June 10, 2009 23:13:22 UTC",-41.6127,-83.8042,5.7,10.00,96,"West Chile Rise"
-us,2009hscc,6,"Wednesday, June 10, 2009 23:09:03 UTC",-17.0423,168.1986,5.4,222.10,50,"Vanuatu"
-ak,00108542,1,"Wednesday, June 10, 2009 23:05:25 UTC",65.0117,-147.3349,1.2,0.00, 5,"northern Alaska"

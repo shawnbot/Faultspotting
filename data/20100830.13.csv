@@ -1,6 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,10789501,2,"Monday, August 30, 2010 19:40:33 UTC",36.0060,-117.7892,1.1,8.50,11,"Central California"
-nc,71448655,0,"Monday, August 30, 2010 19:38:40 UTC",38.8330,-122.8813,1.0,1.80,12,"Northern California"
-nc,71448645,0,"Monday, August 30, 2010 19:13:41 UTC",36.5612,-121.1205,1.4,3.60, 9,"Central California"
-nn,00315953,7,"Monday, August 30, 2010 19:08:36 UTC",36.1290,-115.1388,1.5,1.40,11,"Las Vegas urban area, Nevada"
-nn,00315952,7,"Monday, August 30, 2010 19:07:30 UTC",38.5790,-116.9642,1.8,1.60,18,"Nevada"

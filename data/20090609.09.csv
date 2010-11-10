@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,40237872,1,"Tuesday, June  9, 2009 15:57:50 UTC",38.7587,-122.7278,1.7,1.80,11,"Northern California"
-nc,40237871,1,"Tuesday, June  9, 2009 15:57:37 UTC",38.7598,-122.7280,1.6,1.80,11,"Northern California"
-nc,40237867,1,"Tuesday, June  9, 2009 15:46:06 UTC",38.7577,-122.7283,1.2,1.50, 9,"Northern California"
-ak,00108390,1,"Tuesday, June  9, 2009 15:34:36 UTC",61.6215,-139.5682,1.8,5.10, 4,"Southern Yukon Territory, Canada"
-ak,00108387,1,"Tuesday, June  9, 2009 15:21:58 UTC",62.3998,-149.6802,2.0,5.70,07,"Central Alaska"
-us,2009hra7,6,"Tuesday, June  9, 2009 15:15:35 UTC",-56.2603,-26.5257,5.2,90.40,26,"South Sandwich Islands region"

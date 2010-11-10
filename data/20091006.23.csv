@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-pt,09280000,A,"Wednesday, October  7, 2009 05:38:38 UTC",52.0600,178.0700,5.8,141.00,23,"Rat Islands, Aleutian Islands, Alaska"
-ci,14524020,1,"Wednesday, October  7, 2009 05:25:46 UTC",33.1896,-115.5593,1.5,2.10,20,"Southern California"
-pr,p0928002,1,"Wednesday, October  7, 2009 05:24:04 UTC",18.8452,-64.3957,3.1,24.00,10,"Virgin Islands region"
-ci,14524012,1,"Wednesday, October  7, 2009 05:22:31 UTC",33.1993,-115.5556,1.3,1.10,18,"Southern California"
-nc,71295446,0,"Wednesday, October  7, 2009 05:11:26 UTC",38.8377,-122.7852,1.2,1.30,15,"Northern California"
-us,2009mlan,7,"Wednesday, October  7, 2009 05:08:56 UTC",-13.6146,165.9425,4.9,35.00,29,"Vanuatu"

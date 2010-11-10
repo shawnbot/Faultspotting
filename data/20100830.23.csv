@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71448845,1,"Tuesday, August 31, 2010 05:44:58 UTC",38.8423,-122.8268,2.0,2.00,24,"Northern California"
-hv,60175746,1,"Tuesday, August 31, 2010 05:44:01 UTC",19.4422,-155.4252,2.7,8.90,45,"Island of Hawaii, Hawaii"
-uw,08310537,0,"Tuesday, August 31, 2010 05:37:46 UTC",46.2005,-122.1865,2.3,3.70,10,"Mount St. Helens area, Washington"
-nc,71448835,0,"Tuesday, August 31, 2010 05:25:01 UTC",38.8315,-122.8087,1.4,2.00,13,"Northern California"
-nc,71448830,1,"Tuesday, August 31, 2010 05:24:36 UTC",38.8330,-122.8102,1.8,2.10,25,"Northern California"
-ak,10075195,1,"Tuesday, August 31, 2010 05:16:51 UTC",63.2651,-151.4385,1.9,0.50, 9,"Central Alaska"

@@ -1,5 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71295171,0,"Tuesday, October  6, 2009 18:11:56 UTC",36.8890,-121.6097,1.9,1.80, 9,"Central California"
-ci,14523684,1,"Tuesday, October  6, 2009 18:10:20 UTC",36.4100,-117.8448,1.7,1.20,18,"Central California"
-ci,14523676,C,"Tuesday, October  6, 2009 18:06:34 UTC",36.4186,-117.8506,4.1,0.20,36,"Central California"
-ci,14523668,1,"Tuesday, October  6, 2009 18:01:45 UTC",35.9388,-117.1738,1.4,7.00,11,"Central California"

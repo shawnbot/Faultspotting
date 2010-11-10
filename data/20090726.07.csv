@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,14491536,1,"Sunday, July 26, 2009 13:54:36 UTC",33.6348,-116.7163,1.8,15.60,57,"Southern California"
-hv,00034897,0,"Sunday, July 26, 2009 13:45:08 UTC",19.2297,-155.5783,1.7,5.50,00,"Island of Hawaii, Hawaii"
-us,2009jnbi,6,"Sunday, July 26, 2009 13:29:14 UTC",10.6661,94.2964,5.1,10.00,18,"Andaman Islands, India region"
-ci,14491520,1,"Sunday, July 26, 2009 13:28:51 UTC",34.0328,-116.7420,1.6,11.90,46,"Southern California"
-ak,10001877,1,"Sunday, July 26, 2009 13:20:08 UTC",52.2852,-176.7788,2.2,97.30, 7,"Andreanof Islands, Aleutian Islands, Alaska"
-nc,71254301,0,"Sunday, July 26, 2009 13:18:43 UTC",35.5638,-120.8117,1.0,6.20, 8,"Central California"

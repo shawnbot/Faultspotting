@@ -1,5 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-pr,10241001,0,"Sunday, August 29, 2010 07:38:13 UTC",18.7989,-65.3550,2.7,20.00,04,"Puerto Rico region"
-nc,71447985,0,"Sunday, August 29, 2010 07:36:53 UTC",38.8363,-122.7753,1.0,2.30,12,"Northern California"
-ak,10074839,1,"Sunday, August 29, 2010 07:33:31 UTC",63.1101,-144.3654,1.6,0.00, 9,"Central Alaska"
-ak,10074835,1,"Sunday, August 29, 2010 07:03:01 UTC",60.3063,-141.0890,1.8,23.40,15,"Southern Alaska"

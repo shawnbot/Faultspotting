@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71446930,0,"Thursday, August 26, 2010 15:53:24 UTC",35.7512,-120.2965,1.5,8.50,22,"Central California"
-ci,10786693,2,"Thursday, August 26, 2010 15:52:57 UTC",33.6485,-116.7873,1.1,12.90,31,"Southern California"
-nc,71446925,1,"Thursday, August 26, 2010 15:48:19 UTC",35.7523,-120.3028,2.4,9.00,47,"Central California"
-ci,10786637,2,"Thursday, August 26, 2010 15:08:34 UTC",33.7158,-116.7572,1.1,18.20,25,"Southern California"
-us,2010akbn,7,"Thursday, August 26, 2010 15:08:05 UTC",36.0888,136.7708,5.4,283.50,281,"near the west coast of Honshu, Japan"
-nn,00315768,7,"Thursday, August 26, 2010 15:05:37 UTC",36.1193,-114.8068,1.8,0.00,13,"Nevada"

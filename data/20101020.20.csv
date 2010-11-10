@@ -1,6 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71476921,0,"Thursday, October 21, 2010 02:50:30 UTC",37.4705,-118.6957,1.0,7.00, 6,"Central California"
-ci,10823701,2,"Thursday, October 21, 2010 02:30:01 UTC",33.4237,-116.5952,1.0,13.80,37,"Southern California"
-ak,10104834,1,"Thursday, October 21, 2010 02:29:24 UTC",63.0266,-150.5085,1.8,113.00,12,"Central Alaska"
-ak,10104829,1,"Thursday, October 21, 2010 02:23:57 UTC",60.7248,-149.2771,2.4,21.90,36,"Kenai Peninsula, Alaska"
-ci,10823685,2,"Thursday, October 21, 2010 02:19:31 UTC",33.7415,-116.1037,1.0,4.10,38,"Southern California"

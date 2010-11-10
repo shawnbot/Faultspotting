@@ -1,6 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71295400,0,"Saturday, October 17, 2009 05:45:53 UTC",38.8070,-122.7908,1.2,3.30,20,"Northern California"
-us,2009mwat,6,"Saturday, October 17, 2009 05:23:05 UTC",51.6049,176.5791,4.5,8.10,35,"Rat Islands, Aleutian Islands, Alaska"
-ak,10015426,1,"Saturday, October 17, 2009 05:13:49 UTC",59.9112,-153.7220,2.8,186.10,40,"Southern Alaska"
-ci,10482109,1,"Saturday, October 17, 2009 05:08:45 UTC",36.3950,-117.8495,1.6,5.10,20,"Central California"
-ci,10482101,C,"Saturday, October 17, 2009 04:53:44 UTC",34.1716,-119.1200,3.2,1.50,42,"Greater Los Angeles area, California"

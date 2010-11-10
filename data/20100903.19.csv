@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71450550,0,"Saturday, September  4, 2010 01:56:24 UTC",38.7795,-122.6952,1.0,0.00, 5,"Northern California"
-nc,71450545,0,"Saturday, September  4, 2010 01:52:08 UTC",38.8227,-122.8003,1.0,3.00,15,"Northern California"
-ci,10792053,2,"Saturday, September  4, 2010 01:27:53 UTC",33.7992,-117.0723,2.7,17.80,146,"Southern California"
-us,2010auag,6,"Saturday, September  4, 2010 01:26:13 UTC",52.8930,-166.8110,4.7,27.50,100,"Fox Islands, Aleutian Islands, Alaska"
-ak,10076160,1,"Saturday, September  4, 2010 01:12:14 UTC",63.5612,-147.8360,1.7,0.10,15,"Central Alaska"
-ak,10076158,1,"Saturday, September  4, 2010 01:08:58 UTC",60.1279,-141.4354,1.9,0.30,16,"Southern Alaska"

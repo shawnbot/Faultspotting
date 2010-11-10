@@ -1,9 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-uw,06130251,0,"Saturday, June 13, 2009 02:51:25 UTC",48.3834,-122.2456,1.9,13.90,17,"Washington"
-ak,00108851,1,"Saturday, June 13, 2009 02:42:03 UTC",60.7873,-147.7298,1.8,6.10, 6,"Southern Alaska"
-ci,14473064,1,"Saturday, June 13, 2009 02:38:34 UTC",33.4768,-116.4715,1.6,12.90,66,"Southern California"
-ci,14473056,1,"Saturday, June 13, 2009 02:28:09 UTC",33.4563,-116.5955,1.9,10.20,70,"Southern California"
-ak,00108849,1,"Saturday, June 13, 2009 02:24:39 UTC",51.4766,-178.3206,1.9,0.00, 5,"Andreanof Islands, Aleutian Islands, Alaska"
-nc,40238095,1,"Saturday, June 13, 2009 02:23:01 UTC",35.7282,-121.0390,1.4,6.50,15,"Central California"
-nc,40238094,1,"Saturday, June 13, 2009 02:22:10 UTC",36.0013,-120.8768,1.9,13.90,27,"Central California"
-ci,14473040,1,"Saturday, June 13, 2009 02:11:18 UTC",34.0500,-118.8010,1.9,11.10,26,"Greater Los Angeles area, California"

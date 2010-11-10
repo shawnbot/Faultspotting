@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,40238060,1,"Friday, June 12, 2009 09:49:08 UTC",37.6083,-121.7563,1.8,7.90,23,"Northern California"
-at,00479986,1,"Friday, June 12, 2009 09:44:20 UTC",-17.8240,167.7240,6.1,31.00,15,"Vanuatu"
-ak,00108740,1,"Friday, June 12, 2009 09:41:39 UTC",51.6554,-177.1582,2.1,67.20,10,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,00108739,1,"Friday, June 12, 2009 09:31:32 UTC",60.0496,-152.5254,1.9,72.10,07,"Southern Alaska"
-us,2009huar,7,"Friday, June 12, 2009 09:24:45 UTC",-17.5396,167.6769,5.0,53.60,18,"Vanuatu"
-ak,00108737,1,"Friday, June 12, 2009 09:02:24 UTC",63.8279,-148.8295,1.1,50.70,07,"Central Alaska"

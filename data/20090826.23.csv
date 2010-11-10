@@ -1,5 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71272021,0,"Thursday, August 27, 2009 05:37:02 UTC",38.7905,-122.7525,1.6,4.60,16,"Northern California"
-ak,10006539,1,"Thursday, August 27, 2009 05:36:32 UTC",61.3837,-147.3928,1.7,20.40,11,"Southern Alaska"
-ci,14502812,1,"Thursday, August 27, 2009 05:36:15 UTC",33.8765,-116.8420,1.4,14.80,31,"Southern California"
-us,2009kvap,7,"Thursday, August 27, 2009 05:05:31 UTC",-10.2327,161.4642,4.9,82.80,30,"Solomon Islands"

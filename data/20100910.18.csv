@@ -1,6 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-hv,60178596,1,"Saturday, September 11, 2010 00:34:12 UTC",19.3885,-155.2512,2.4,2.90, 9,"Island of Hawaii, Hawaii"
-us,2010bbad,6,"Saturday, September 11, 2010 00:23:55 UTC",47.1062,152.8148,4.5,72.60,42,"Kuril Islands"
-nc,71453720,1,"Saturday, September 11, 2010 00:16:55 UTC",38.7768,-122.7713,1.6,0.00,21,"Northern California"
-ci,10795685,2,"Friday, September 10, 2010 23:58:49 UTC",32.8882,-116.7053,1.1,0.10,11,"Southern California"
-ci,10795677,2,"Friday, September 10, 2010 23:58:18 UTC",32.4310,-116.3622,1.7,8.30,18,"Baja California, Mexico"

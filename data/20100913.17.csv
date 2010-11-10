@@ -1,5 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71455020,0,"Monday, September 13, 2010 23:54:48 UTC",37.2488,-121.2478,1.0,14.10, 5,"Northern California"
-ak,10078348,1,"Monday, September 13, 2010 23:13:22 UTC",61.8856,-149.2477,2.0,2.20,19,"Southern Alaska"
-ak,10078344,1,"Monday, September 13, 2010 23:07:26 UTC",63.5486,-147.3138,1.8,0.00,21,"Central Alaska"
-us,2010bdeh,6,"Monday, September 13, 2010 23:05:19 UTC",32.1314,141.5993,5.2,40.50,225,"Izu Islands, Japan region"

@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nn,00292948,1,"Saturday, September 19, 2009 14:44:16 UTC",37.4560,-117.4830,1.0,0.00,12,"Nevada"
-us,2009lta5,6,"Saturday, September 19, 2009 14:43:58 UTC",11.3940,125.3411,4.8,96.80,43,"Samar, Philippines"
-ci,14512220,1,"Saturday, September 19, 2009 14:43:50 UTC",33.4578,-116.5920,1.7,10.60,63,"Southern California"
-ci,14512212,1,"Saturday, September 19, 2009 14:43:25 UTC",33.4656,-116.5500,1.6,5.10,15,"Southern California"
-ci,14512204,1,"Saturday, September 19, 2009 14:41:29 UTC",33.4111,-116.9628,1.1,5.00,30,"Southern California"
-pr,p0926204,1,"Saturday, September 19, 2009 14:07:48 UTC",18.7073,-67.7488,3.1,70.70,20,"Dominican Republic region"

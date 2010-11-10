@@ -1,6 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nn,00288155,1,"Thursday, July 16, 2009 23:48:52 UTC",36.3390,-115.2240,1.3,0.00,25,"Nevada"
-ak,10000890,1,"Thursday, July 16, 2009 23:42:50 UTC",64.9821,-147.3305,1.2,1.20,08,"Central Alaska"
-nc,71249316,0,"Thursday, July 16, 2009 23:32:38 UTC",35.6423,-120.9377,2.3,5.50,42,"Central California"
-nc,71249296,0,"Thursday, July 16, 2009 23:14:04 UTC",37.5700,-118.8630,1.3,6.10,18,"Central California"
-us,2009jdcl,7,"Thursday, July 16, 2009 23:01:09 UTC",-46.1537,166.3143,5.0,47.90,11,"off the west coast of the South Island of New Zealand"

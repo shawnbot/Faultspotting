@@ -1,9 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,14475648,1,"Wednesday, June 17, 2009 15:46:33 UTC",32.3053,-116.6776,1.8,16.70,22,"Baja California, Mexico"
-ak,00109341,1,"Wednesday, June 17, 2009 15:18:12 UTC",54.8587,-160.4856,3.1,25.90,09,"Alaska Peninsula"
-ak,00109339,1,"Wednesday, June 17, 2009 15:13:49 UTC",65.3111,-146.0839,1.5,19.90,05,"northern Alaska"
-hv,00034362,0,"Wednesday, June 17, 2009 15:13:29 UTC",19.4272,-155.3080,2.1,5.70,00,"Island of Hawaii, Hawaii"
-nc,40238307,1,"Wednesday, June 17, 2009 15:11:44 UTC",38.8082,-122.7958,1.8,3.10,24,"Northern California"
-ak,00109340,1,"Wednesday, June 17, 2009 15:08:42 UTC",61.2600,-146.8485,1.4,27.90,07,"Southern Alaska"
-hv,00034361,0,"Wednesday, June 17, 2009 15:07:13 UTC",19.7498,-155.0615,2.2,16.90, 0,"Island of Hawaii, Hawaii"
-ak,00109338,1,"Wednesday, June 17, 2009 15:03:14 UTC",62.5448,-149.9060,2.2,34.30,10,"Central Alaska"

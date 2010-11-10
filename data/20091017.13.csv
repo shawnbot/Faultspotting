@@ -1,5 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-pr,p0929007,1,"Saturday, October 17, 2009 19:19:23 UTC",19.2818,-66.5297,3.2,30.00,16,"Puerto Rico region"
-pr,p0929006,1,"Saturday, October 17, 2009 19:16:51 UTC",18.9628,-66.6058,3.0,78.20,14,"Puerto Rico region"
-ci,10482333,1,"Saturday, October 17, 2009 19:11:31 UTC",33.9211,-118.3980,1.8,15.60,23,"Greater Los Angeles area, California"
-nn,00295521,1,"Saturday, October 17, 2009 19:00:21 UTC",37.1950,-117.3340,1.2,2.00, 8,"Nevada"

@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-pt,10230001,c,"Wednesday, August 18, 2010 16:28:20 UTC",12.2099,141.4564,6.1,43.10,114,"Mariana Islands region"
-us,2010aca6,8,"Wednesday, August 18, 2010 16:28:20 UTC",12.2099,141.4564,6.1,43.10,114,"Mariana Islands region"
-hv,60172971,1,"Wednesday, August 18, 2010 16:15:45 UTC",19.1218,-155.4808,1.8,12.00,17,"Island of Hawaii, Hawaii"
-nc,71443195,0,"Wednesday, August 18, 2010 16:09:14 UTC",38.8328,-122.8012,1.4,2.40,18,"Northern California"
-ci,10781501,2,"Wednesday, August 18, 2010 16:05:29 UTC",33.0023,-116.4640,2.0,9.30,79,"Southern California"
-hv,60172966,1,"Wednesday, August 18, 2010 15:58:46 UTC",19.3608,-155.1435,1.9,3.20,10,"Island of Hawaii, Hawaii"

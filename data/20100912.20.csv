@@ -1,5 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-us,2010bda6,6,"Monday, September 13, 2010 02:43:53 UTC",43.1148,-110.7473,3.4,5.00,36,"Wyoming"
-ci,10796965,2,"Monday, September 13, 2010 02:41:26 UTC",32.5122,-115.6000,2.4,9.80,32,"Baja California, Mexico"
-ak,10077959,1,"Monday, September 13, 2010 02:18:33 UTC",58.1250,-151.1662,1.9,75.50, 9,"Kodiak Island region, Alaska"
-ak,10077957,1,"Monday, September 13, 2010 02:14:09 UTC",60.4069,-150.6356,1.5,49.90,11,"Kenai Peninsula, Alaska"

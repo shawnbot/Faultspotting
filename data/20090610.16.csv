@@ -1,8 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,14471808,1,"Wednesday, June 10, 2009 22:53:43 UTC",35.1648,-118.2098,1.4,4.70,12,"Southern California"
-nc,40237969,1,"Wednesday, June 10, 2009 22:43:10 UTC",38.7928,-122.7570,1.2,1.60,16,"Northern California"
-nc,40237970,1,"Wednesday, June 10, 2009 22:43:04 UTC",40.3005,-123.4632,2.5,30.00,36,"Northern California"
-nc,40237968,1,"Wednesday, June 10, 2009 22:36:49 UTC",38.7413,-122.6910,1.1,0.20,12,"Northern California"
-nc,40237967,1,"Wednesday, June 10, 2009 22:35:43 UTC",38.7487,-122.7023,2.6,2.20,48,"Northern California"
-ci,14471768,C,"Wednesday, June 10, 2009 22:05:41 UTC",32.0395,-115.4881,3.5,7.10,10,"Baja California, Mexico"
-us,2009hsb7,6,"Wednesday, June 10, 2009 22:05:35 UTC",-41.7963,-84.0170,5.2,10.00,34,"West Chile Rise"

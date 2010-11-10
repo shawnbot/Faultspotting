@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71272256,0,"Thursday, August 27, 2009 19:47:17 UTC",36.0117,-120.5963,1.5,2.30,17,"Central California"
-ci,14503044,1,"Thursday, August 27, 2009 19:40:29 UTC",33.4305,-116.9545,1.4,11.10,50,"Southern California"
-ak,10006687,1,"Thursday, August 27, 2009 19:28:40 UTC",59.8947,-153.6471,2.7,100.00,27,"Southern Alaska"
-ak,10006685,1,"Thursday, August 27, 2009 19:21:33 UTC",54.2328,-163.5054,3.5,35.20,22,"Unimak Island region, Alaska"
-nn,00291128,1,"Thursday, August 27, 2009 19:15:19 UTC",38.7170,-117.0600,2.1,0.00,32,"Nevada"
-pr,p0923912,1,"Thursday, August 27, 2009 19:05:12 UTC",18.3955,-66.2598,2.5,15.90, 6,"Puerto Rico"

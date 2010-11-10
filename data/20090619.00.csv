@@ -1,6 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,14476552,1,"Friday, June 19, 2009 06:42:48 UTC",33.1866,-116.0240,1.3,9.80,51,"Southern California"
-mb,20183,1,"Friday, June 19, 2009 06:30:32 UTC",47.0943,-112.9420,1.0,7.70,22,"western Montana"
-ci,14476544,1,"Friday, June 19, 2009 06:27:50 UTC",34.0476,-117.5510,3.0,5.00,145,"Greater Los Angeles area, California"
-ci,14476536,1,"Friday, June 19, 2009 06:23:21 UTC",33.3500,-116.3021,1.2,11.70,57,"Southern California"
-nc,40238370,1,"Friday, June 19, 2009 06:16:07 UTC",36.5988,-121.6863,1.4,12.40, 8,"Central California"

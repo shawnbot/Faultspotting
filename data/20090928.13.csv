@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,14516500,1,"Monday, September 28, 2009 20:00:36 UTC",33.5155,-116.4660,1.0,21.60,34,"Southern California"
-ci,14516492,1,"Monday, September 28, 2009 19:57:37 UTC",35.0618,-118.9261,1.9,19.60,31,"Central California"
-nc,71287716,0,"Monday, September 28, 2009 19:50:54 UTC",38.8143,-122.8127,2.0,2.80,34,"Northern California"
-us,2009mcbr,6,"Monday, September 28, 2009 19:22:57 UTC",27.9433,127.8672,5.9,10.00,95,"Ryukyu Islands, Japan"
-nn,00293456,1,"Monday, September 28, 2009 19:20:59 UTC",39.0180,-117.0560,1.9,4.00,14,"Nevada"
-ak,10011699,1,"Monday, September 28, 2009 19:06:27 UTC",63.2746,-151.2002,1.6,0.40,11,"Central Alaska"

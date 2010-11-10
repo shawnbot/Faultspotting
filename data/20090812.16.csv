@@ -1,6 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-pt,09224002,A,"Wednesday, August 12, 2009 22:48:58 UTC",32.8500,140.4700,6.6,122.00,11,"Izu Islands, Japan region"
-nn,00290004,1,"Wednesday, August 12, 2009 22:45:40 UTC",38.9780,-117.1080,1.9,2.00,17,"Nevada"
-nn,00290000,1,"Wednesday, August 12, 2009 22:40:28 UTC",36.6790,-115.1860,1.2,16.00,23,"Nevada"
-ci,14499480,1,"Wednesday, August 12, 2009 22:16:32 UTC",34.4108,-116.4838,2.2,7.40,71,"Southern California"
-ak,10004495,1,"Wednesday, August 12, 2009 22:06:18 UTC",57.4068,-142.6363,3.0,5.50,21,"Gulf of Alaska"

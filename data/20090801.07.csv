@@ -1,9 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ak,10002659,1,"Saturday, August  1, 2009 09:50:48 UTC",51.5923,179.2260,2.1,0.00, 4,"Rat Islands, Aleutian Islands, Alaska"
-ci,14493928,1,"Saturday, August  1, 2009 09:50:46 UTC",33.1623,-116.0025,1.7,1.60,18,"Southern California"
-ci,14493920,1,"Saturday, August  1, 2009 09:49:47 UTC",33.2633,-115.5826,1.8,0.00,17,"Southern California"
-ci,14493912,1,"Saturday, August  1, 2009 09:49:23 UTC",33.1896,-115.6033,1.7,2.80,19,"Southern California"
-ci,14493896,1,"Saturday, August  1, 2009 09:46:19 UTC",33.2458,-115.6713,1.7,3.80,20,"Southern California"
-ci,14493888,1,"Saturday, August  1, 2009 09:44:56 UTC",33.6596,-116.5726,1.6,7.20,24,"Southern California"
-ci,14493840,1,"Saturday, August  1, 2009 09:39:08 UTC",33.2096,-115.5983,1.5,1.30,18,"Southern California"
-nc,71258336,0,"Saturday, August  1, 2009 09:36:40 UTC",36.4838,-120.6068,2.0,16.00,10,"Central California"

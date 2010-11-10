@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,10785565,2,"Tuesday, August 24, 2010 23:46:22 UTC",32.7775,-116.0503,1.6,12.30,12,"Southern California"
-nc,71446315,0,"Tuesday, August 24, 2010 23:46:05 UTC",37.2078,-122.1162,1.2,11.70,10,"Northern California"
-nn,00315648,7,"Tuesday, August 24, 2010 23:34:16 UTC",37.3408,-117.1197,1.1,7.00,12,"Nevada"
-ak,10073807,1,"Tuesday, August 24, 2010 23:33:10 UTC",57.4994,-154.1228,2.4,20.90, 8,"Kodiak Island region, Alaska"
-nc,71446300,1,"Tuesday, August 24, 2010 23:09:59 UTC",38.7863,-122.7752,2.1,2.50,28,"Northern California"
-ak,10073805,1,"Tuesday, August 24, 2010 22:56:24 UTC",61.5418,-146.3605,2.0,32.50,19,"Southern Alaska"

@@ -1,5 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71269806,0,"Sunday, August 23, 2009 01:28:18 UTC",37.6255,-118.9602,1.2,10.50, 8,"Long Valley area, California"
-ci,14501356,1,"Sunday, August 23, 2009 01:15:30 UTC",34.0243,-116.6186,1.4,12.60,26,"Southern California"
-ak,10006008,1,"Sunday, August 23, 2009 01:15:01 UTC",63.5633,-147.1865,1.8,4.30,14,"Central Alaska"
-ci,14501348,1,"Sunday, August 23, 2009 00:45:57 UTC",36.0563,-117.8871,1.7,3.30,41,"Central California"

@@ -1,5 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,14501020,1,"Saturday, August 22, 2009 13:50:34 UTC",35.9281,-117.7141,1.3,3.40,23,"Central California"
-ci,14501012,1,"Saturday, August 22, 2009 13:38:24 UTC",33.7730,-116.1455,1.0,6.60,49,"Southern California"
-ak,10005958,1,"Saturday, August 22, 2009 13:25:31 UTC",51.9557,-178.8506,1.7,3.90, 4,"Andreanof Islands, Aleutian Islands, Alaska"
-us,2009kqbd,6,"Saturday, August 22, 2009 13:18:35 UTC",46.4181,150.0077,5.1,169.40,189,"Kuril Islands"

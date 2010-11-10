@@ -1,7 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ak,10007678,1,"Wednesday, September  2, 2009 12:43:18 UTC",61.5126,-151.5616,1.9,83.20, 7,"Southern Alaska"
-ak,10007675,1,"Wednesday, September  2, 2009 12:36:44 UTC",58.3921,-150.4869,2.8,12.20,22,"Gulf of Alaska"
-ak,10007672,1,"Wednesday, September  2, 2009 12:31:53 UTC",63.7998,-149.9081,1.6,28.60,06,"Central Alaska"
-us,2009lbbc,7,"Wednesday, September  2, 2009 12:24:40 UTC",43.9025,147.8023,5.0,54.60,56,"Kuril Islands"
-nn,00291644,1,"Wednesday, September  2, 2009 12:23:06 UTC",38.7720,-119.6350,1.9,0.00,34,"Nevada"
-nc,71274556,0,"Wednesday, September  2, 2009 12:06:19 UTC",38.7568,-122.7273,1.5,2.70, 8,"Northern California"

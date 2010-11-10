@@ -1,9 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-ci,14507052,1,"Sunday, September  6, 2009 09:52:55 UTC",34.3145,-116.4671,1.6,8.00,52,"Southern California"
-nc,71271995,3,"Sunday, September  6, 2009 09:47:15 UTC",36.8513,-121.4112,4.0,9.50,75,"Central California"
-ak,10008297,1,"Sunday, September  6, 2009 09:27:14 UTC",60.2182,-141.6499,1.1,10.10, 7,"Southern Alaska"
-nc,71271975,0,"Sunday, September  6, 2009 09:26:19 UTC",35.5625,-120.7965,1.8,6.00,31,"Central California"
-pr,p0924903,1,"Sunday, September  6, 2009 09:19:50 UTC",18.2065,-67.6088,3.3,130.00,30,"Mona Passage, Puerto Rico"
-us,2009lfaz,6,"Sunday, September  6, 2009 09:19:28 UTC",12.8517,144.6102,5.2,74.60,80,"Guam region"
-ak,10008289,1,"Sunday, September  6, 2009 09:13:18 UTC",59.5802,-153.1131,2.6,100.00,62,"Southern Alaska"
-ak,10008287,1,"Sunday, September  6, 2009 09:07:38 UTC",64.3895,-146.8202,2.2,6.10,17,"Central Alaska"

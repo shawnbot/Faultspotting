@@ -1,8 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71296025,0,"Sunday, October 18, 2009 08:39:53 UTC",38.7512,-122.7005,1.5,1.30,13,"Northern California"
-nc,71296020,0,"Sunday, October 18, 2009 08:39:39 UTC",38.7477,-122.6952,1.0,1.70, 9,"Northern California"
-us,2009mxau,7,"Sunday, October 18, 2009 08:26:17 UTC",-3.6238,123.3527,5.4,43.90,68,"Sulawesi, Indonesia"
-us,2009mxas,7,"Sunday, October 18, 2009 08:23:28 UTC",-3.6901,123.2320,5.4,40.10,46,"Sulawesi, Indonesia"
-ak,10015768,1,"Sunday, October 18, 2009 08:22:04 UTC",61.8560,-146.5778,1.3,35.50,12,"Southern Alaska"
-ak,10015764,1,"Sunday, October 18, 2009 08:10:43 UTC",63.0743,-148.4464,1.3,54.10, 7,"Central Alaska"
-ak,10015761,1,"Sunday, October 18, 2009 08:00:23 UTC",61.7052,-146.5972,1.5,24.90,14,"Southern Alaska"

@@ -1,8 +1,0 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nc,71476491,1,"Wednesday, October 20, 2010 00:52:05 UTC",38.8038,-122.7973,1.8,2.80,29,"Northern California"
-ci,14864316,2,"Wednesday, October 20, 2010 00:31:47 UTC",35.9665,-117.6600,1.2,4.40,14,"Central California"
-ak,10104089,1,"Wednesday, October 20, 2010 00:26:22 UTC",63.9508,-148.9760,1.6,0.00, 9,"Central Alaska"
-nc,71476486,0,"Wednesday, October 20, 2010 00:25:11 UTC",40.3437,-124.3435,1.8,16.20, 6,"Northern California"
-nn,00319094,7,"Wednesday, October 20, 2010 00:17:27 UTC",39.0895,-119.6352,1.4,14.10, 7,"Nevada"
-pr,10293000,0,"Wednesday, October 20, 2010 00:00:36 UTC",18.1959,-67.2770,2.5,17.00, 9,"Mona Passage, Puerto Rico"
-ci,14864300,2,"Tuesday, October 19, 2010 23:59:39 UTC",34.3050,-117.4575,2.0,0.10,13,"Southern California"
