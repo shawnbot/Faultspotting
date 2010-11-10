@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009meav,6,"Wednesday, September 30, 2009 01:39:42 UTC",4.9142,126.7274,5.6,72.20,60,"Kepulauan Talaud, Indonesia"
+uw,09300138,0,"Wednesday, September 30, 2009 01:38:58 UTC",46.3405,-122.2368,1.8,8.40,30,"Washington"
+us,2009meau,6,"Wednesday, September 30, 2009 01:30:40 UTC",-15.5261,-172.5812,4.9,10.00,26,"Samoa Islands region"
+us,2009meaq,6,"Wednesday, September 30, 2009 01:16:18 UTC",-15.5767,-172.0426,4.9,10.00,40,"Samoa Islands region"
+us,2009mean,6,"Wednesday, September 30, 2009 01:09:29 UTC",-14.9717,-173.6118,5.1,10.00,57,"Samoa Islands region"

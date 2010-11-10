@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14469336,1,"Saturday, June  6, 2009 10:45:44 UTC",35.1903,-119.2851,1.7,17.90,19,"Central California"
+us,2009hnbc,7,"Saturday, June  6, 2009 10:37:54 UTC",44.5373,148.9834,4.9,41.30,63,"Kuril Islands"
+ak,00107844,1,"Saturday, June  6, 2009 10:35:35 UTC",64.7782,-148.0580,2.7,11.50,24,"Central Alaska"
+hv,00034261,0,"Saturday, June  6, 2009 10:27:16 UTC",19.8050,-155.3755,2.1,26.30, 0,"Island of Hawaii, Hawaii"
+ci,14469328,1,"Saturday, June  6, 2009 10:27:02 UTC",33.9018,-117.2098,1.8,6.70,20,"Greater Los Angeles area, California"
+nc,40237715,1,"Saturday, June  6, 2009 10:16:51 UTC",38.8060,-122.8147,2.0,0.10,24,"Northern California"
+nc,40237713,1,"Saturday, June  6, 2009 10:02:44 UTC",38.7967,-122.7633,1.0,1.30,11,"Northern California"

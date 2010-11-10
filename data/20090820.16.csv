@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10005688,1,"Thursday, August 20, 2009 22:21:04 UTC",61.5223,-151.4903,1.9,79.50,18,"Southern Alaska"
+ci,14500252,1,"Thursday, August 20, 2009 22:19:10 UTC",35.5805,-117.4210,1.7,19.90,19,"Southern California"
+ak,10005687,1,"Thursday, August 20, 2009 22:16:54 UTC",51.5695,-178.3855,1.8,97.80, 4,"Andreanof Islands, Aleutian Islands, Alaska"
+hv,00035093,0,"Thursday, August 20, 2009 22:10:52 UTC",19.3678,-155.4992,1.9,8.20, 0,"Island of Hawaii, Hawaii"
+ci,14500236,1,"Thursday, August 20, 2009 22:10:33 UTC",33.9290,-118.3446,1.8,15.20,21,"Greater Los Angeles area, California"

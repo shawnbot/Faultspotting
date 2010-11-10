@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14473632,C,"Saturday, June 13, 2009 22:37:06 UTC",32.0333,-115.4986,3.6,10.20,14,"Baja California, Mexico"
+us,2009hvb3,6,"Saturday, June 13, 2009 22:07:35 UTC",86.8096,54.2118,4.5,10.20,36,"north of Franz Josef Land"
+ci,14473608,1,"Saturday, June 13, 2009 22:05:02 UTC",33.4650,-116.5841,1.1,12.40,43,"Southern California"

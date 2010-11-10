@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009kia9,6,"Saturday, August 15, 2009 13:22:47 UTC",18.3415,-100.3412,5.3,81.80,157,"Guerrero, Mexico"
+nc,71266041,0,"Saturday, August 15, 2009 13:12:04 UTC",38.7625,-122.7317,1.1,2.90, 9,"Northern California"
+pr,p0922717,1,"Saturday, August 15, 2009 13:10:10 UTC",18.3895,-66.0998,2.9,59.80, 9,"San Juan urban area, Puerto Rico"
+nc,71266036,0,"Saturday, August 15, 2009 13:06:41 UTC",38.7880,-122.7502,1.0,2.70,15,"Northern California"

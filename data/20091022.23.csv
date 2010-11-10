@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+pr,p0929606,1,"Friday, October 23, 2009 05:38:38 UTC",17.9485,-65.4083,3.1,12.60,11,"Puerto Rico region"
+nc,71298335,0,"Friday, October 23, 2009 05:32:35 UTC",38.8200,-122.8112,1.2,2.20,18,"Northern California"
+us,2009ncar,7,"Friday, October 23, 2009 05:05:48 UTC",-12.3410,165.4034,4.9,35.00,17,"Santa Cruz Islands"

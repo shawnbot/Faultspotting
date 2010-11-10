@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71244961,0,"Tuesday, July  7, 2009 11:55:48 UTC",37.7507,-122.5753,1.6,10.10,16,"offshore Northern California"
+hv,00034643,0,"Tuesday, July  7, 2009 11:50:30 UTC",19.3952,-155.2713,1.7,1.10,00,"Island of Hawaii, Hawaii"
+ci,10435545,1,"Tuesday, July  7, 2009 11:40:39 UTC",33.3296,-116.6401,1.3,4.60,29,"Southern California"
+ak,00111678,1,"Tuesday, July  7, 2009 11:24:23 UTC",62.6923,-151.9540,1.6,13.80, 5,"Central Alaska"
+nc,71244946,0,"Tuesday, July  7, 2009 11:07:02 UTC",36.7683,-121.2630,1.4,9.40, 8,"Central California"
+nc,71244951,0,"Tuesday, July  7, 2009 11:06:16 UTC",38.4225,-122.2525,2.6,7.60,52,"Northern California"
+nc,71244941,0,"Tuesday, July  7, 2009 11:05:53 UTC",40.3367,-122.0863,1.8,13.10,14,"Northern California"

@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,40237638,1,"Thursday, June  4, 2009 16:44:12 UTC",38.7550,-122.7138,1.2,2.10,16,"Northern California"
+ak,00107716,1,"Thursday, June  4, 2009 16:22:54 UTC",51.6689,178.4896,2.0,31.70, 7,"Rat Islands, Aleutian Islands, Alaska"
+nn,00285307,1,"Thursday, June  4, 2009 16:22:09 UTC",36.0580,-115.2340,1.6,0.00,33,"Las Vegas urban area, Nevada"

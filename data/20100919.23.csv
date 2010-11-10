@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71457760,0,"Monday, September 20, 2010 05:54:57 UTC",38.7867,-122.7700,1.2,1.60,19,"Northern California"
+nc,71457750,1,"Monday, September 20, 2010 05:49:59 UTC",38.7872,-122.7703,2.0,1.70,29,"Northern California"
+us,2010bkau,6,"Monday, September 20, 2010 05:42:56 UTC",-33.7002,-72.0412,5.4,28.90,130,"offshore Valparaiso, Chile"

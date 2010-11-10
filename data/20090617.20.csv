@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00109429,1,"Thursday, June 18, 2009 02:43:31 UTC",51.1486,-175.7257,3.1,23.00,16,"Andreanof Islands, Aleutian Islands, Alaska"
+ak,00109428,1,"Thursday, June 18, 2009 02:26:35 UTC",64.8292,-150.4187,1.5,2.20, 4,"Central Alaska"
+ak,00109425,1,"Thursday, June 18, 2009 02:20:29 UTC",62.1850,-145.8009,2.1,10.00,11,"Central Alaska"
+ak,00109424,1,"Thursday, June 18, 2009 02:19:30 UTC",61.2681,-148.1278,1.9,9.80,09,"Southern Alaska"

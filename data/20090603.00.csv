@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00107575,1,"Wednesday, June  3, 2009 06:24:08 UTC",63.3536,-145.2332,1.0,7.00,06,"Central Alaska"
+ci,14467552,1,"Wednesday, June  3, 2009 06:22:09 UTC",34.1559,-119.2323,2.0,24.60,35,"Santa Barbara Channel, California"
+ci,14467544,1,"Wednesday, June  3, 2009 06:07:08 UTC",33.2718,-116.7881,1.9,13.60,74,"Southern California"
+ci,14467536,1,"Wednesday, June  3, 2009 06:07:01 UTC",33.3858,-116.7870,1.8,2.60,28,"Southern California"
+ci,14467528,1,"Wednesday, June  3, 2009 06:04:24 UTC",35.7478,-118.0153,2.1,8.40,19,"Central California"

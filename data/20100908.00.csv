@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10076967,1,"Wednesday, September  8, 2010 06:44:24 UTC",60.1679,-140.7951,1.5,13.30,10,"Southern Yukon Territory, Canada"
+nc,71452285,0,"Wednesday, September  8, 2010 06:36:01 UTC",38.8052,-122.8132,1.2,3.70,20,"Northern California"
+ci,10794237,2,"Wednesday, September  8, 2010 06:04:12 UTC",32.3680,-115.5588,2.3,14.40,28,"Baja California, Mexico"
+ci,10794229,2,"Wednesday, September  8, 2010 06:00:41 UTC",32.2087,-115.3535,3.3,0.10,21,"Baja California, Mexico"

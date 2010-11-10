@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10077442,1,"Friday, September 10, 2010 15:42:34 UTC",59.9006,-151.6019,2.1,46.90,22,"Kenai Peninsula, Alaska"
+ak,10077440,1,"Friday, September 10, 2010 15:40:05 UTC",60.0254,-147.9111,2.2,12.30,22,"Southern Alaska"
+nn,00316523,7,"Friday, September 10, 2010 15:31:22 UTC",36.0482,-114.9135,1.9,4.80,12,"Las Vegas urban area, Nevada"
+ak,10077434,1,"Friday, September 10, 2010 15:04:46 UTC",59.9857,-151.9662,2.0,34.90,16,"Kenai Peninsula, Alaska"
+ci,10795493,2,"Friday, September 10, 2010 14:56:52 UTC",33.4978,-116.5002,1.1,16.20,49,"Southern California"

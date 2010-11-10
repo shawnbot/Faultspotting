@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2010ayb5,6,"Wednesday, September  8, 2010 19:26:00 UTC",44.3715,149.8388,5.1,35.00,51,"Kuril Islands"
+ak,10077028,1,"Wednesday, September  8, 2010 19:12:52 UTC",59.9829,-141.6846,1.7,0.10, 8,"Southeastern Alaska"
+ci,10794397,2,"Wednesday, September  8, 2010 19:04:11 UTC",33.9737,-116.6457,1.6,15.20,49,"Southern California"
+ak,10077026,1,"Wednesday, September  8, 2010 18:56:18 UTC",63.3310,-150.4923,1.9,139.60,14,"Central Alaska"

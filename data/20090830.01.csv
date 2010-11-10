@@ -1,0 +1,10 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10456581,1,"Sunday, August 30, 2009 07:36:15 UTC",36.3831,-117.8546,2.0,0.10,29,"Central California"
+ak,10007064,1,"Sunday, August 30, 2009 07:29:59 UTC",67.1333,-145.0478,2.5,19.20,08,"northern Alaska"
+ci,10456565,1,"Sunday, August 30, 2009 07:28:28 UTC",36.3935,-117.8645,2.2,0.50,31,"Central California"
+ak,10007062,1,"Sunday, August 30, 2009 07:21:36 UTC",51.8835,-175.9740,2.0,34.30,08,"Andreanof Islands, Aleutian Islands, Alaska"
+ci,10456541,1,"Sunday, August 30, 2009 07:17:40 UTC",36.3880,-117.8680,2.1,0.00,30,"Central California"
+us,2009kyay,7,"Sunday, August 30, 2009 07:16:02 UTC",16.2026,-115.5656,4.9,10.00,135,"east central Pacific Ocean"
+ci,10456461,1,"Sunday, August 30, 2009 07:09:41 UTC",36.3933,-117.8681,2.6,0.80,33,"Central California"
+us,2009kyax,7,"Sunday, August 30, 2009 07:09:19 UTC",-11.7497,165.6976,4.8,35.00,19,"Santa Cruz Islands"
+ci,10456453,C,"Sunday, August 30, 2009 07:05:57 UTC",36.3893,-117.8575,3.9,1.20,34,"Central California"

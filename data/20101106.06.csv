@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10833909,2,"Saturday, November  6, 2010 12:20:55 UTC",36.3692,-117.8535,2.1,5.10,30,"Central California"
+us,c00006y6,9,"Saturday, November  6, 2010 12:15:42 UTC",-18.8269,-69.2338,5.2,103.20,157,"Tarapaca, Chile"
+nc,71484826,0,"Saturday, November  6, 2010 12:08:54 UTC",37.4760,-118.8458,1.6,7.60,20,"Central California"
+ci,10833901,2,"Saturday, November  6, 2010 12:01:17 UTC",33.9580,-116.9005,1.2,7.20,20,"Southern California"

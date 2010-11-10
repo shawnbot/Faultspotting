@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14489876,1,"Thursday, July 30, 2009 08:48:17 UTC",32.7243,-115.8553,1.5,0.60,26,"Southern California"
+us,2009jsas,7,"Thursday, July 30, 2009 08:34:43 UTC",-23.0760,-13.5606,4.7,10.00,14,"southern Mid-Atlantic Ridge"
+ak,10002325,1,"Thursday, July 30, 2009 08:00:55 UTC",54.0137,-165.9269,2.7,30.10, 4,"Fox Islands, Aleutian Islands, Alaska"
+ak,10002324,1,"Thursday, July 30, 2009 07:56:55 UTC",54.9737,-162.4150,1.9,33.70,05,"Alaska Peninsula"

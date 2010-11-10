@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nn,00295566,1,"Sunday, October 18, 2009 14:38:26 UTC",36.7360,-115.9610,1.0,0.00,31,"Nevada"
+us,2009mxa9,7,"Sunday, October 18, 2009 14:14:04 UTC",-2.9902,68.0966,5.3,10.00,48,"Carlsberg Ridge"
+hv,00035637,0,"Sunday, October 18, 2009 14:08:51 UTC",19.4027,-155.2650,1.8,0.50, 0,"Island of Hawaii, Hawaii"
+ci,10482677,1,"Sunday, October 18, 2009 13:59:40 UTC",33.6763,-117.9910,1.5,12.60,17,"Greater Los Angeles area, California"
+ci,10482669,1,"Sunday, October 18, 2009 13:55:38 UTC",36.3930,-117.8750,1.8,7.70,25,"Central California"

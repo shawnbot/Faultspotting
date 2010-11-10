@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14472040,1,"Thursday, June 11, 2009 10:41:56 UTC",33.2645,-116.1506,1.1,10.00,45,"Southern California"
+uw,06110958,0,"Thursday, June 11, 2009 09:58:15 UTC",47.3600,-122.5925,2.3,22.60,71,"Seattle-Tacoma urban area, Washington"
+nc,40238002,1,"Thursday, June 11, 2009 09:51:49 UTC",38.8308,-122.7670,1.7,1.20,21,"Northern California"
+nc,40238000,1,"Thursday, June 11, 2009 09:50:43 UTC",38.8690,-122.8587,2.2,0.50,14,"Northern California"

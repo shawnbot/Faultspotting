@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14851324,2,"Friday, October  1, 2010 18:49:34 UTC",33.3575,-117.0715,1.2,4.90,14,"Southern California"
+ci,14851316,2,"Friday, October  1, 2010 18:42:58 UTC",32.6140,-116.9680,1.5,3.90,23,"San Diego County urban area, California"
+ak,10091304,1,"Friday, October  1, 2010 18:38:12 UTC",63.8703,-148.7440,2.3,14.60,15,"Central Alaska"
+nm,100110b,A,"Friday, October  1, 2010 18:17:14 UTC",35.3139,-92.3142,2.1,2.30, 7,"Arkansas"
+ci,14851300,2,"Friday, October  1, 2010 18:14:50 UTC",32.7205,-115.9438,1.8,6.10,35,"Southern California"
+nn,00317665,7,"Friday, October  1, 2010 18:14:41 UTC",37.1485,-117.3818,1.4,14.00,12,"Nevada"

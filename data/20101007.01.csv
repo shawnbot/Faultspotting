@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+uu,00004419,1,"Thursday, October  7, 2010 07:50:45 UTC",44.6286,-110.6601,2.0,1.50,27,"Yellowstone National Park, Wyoming"
+uu,00004418,0,"Thursday, October  7, 2010 07:32:15 UTC",44.6240,-110.6560,1.7,2.90,19,"Yellowstone National Park, Wyoming"
+us,2010ccan,6,"Thursday, October  7, 2010 07:25:29 UTC",53.4563,160.3184,4.8,47.10,27,"near the east coast of the Kamchatka Peninsula, Russia"
+ci,14855836,2,"Thursday, October  7, 2010 07:23:05 UTC",32.6998,-115.9530,1.6,3.70,27,"Southern California"
+nc,71465325,1,"Thursday, October  7, 2010 07:22:50 UTC",38.8313,-122.7983,2.4,2.80,54,"Northern California"
+nc,71465330,0,"Thursday, October  7, 2010 07:21:56 UTC",37.6345,-122.0412,1.3,3.30,11,"San Francisco Bay area, California"

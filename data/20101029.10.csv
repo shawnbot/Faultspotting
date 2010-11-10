@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10111234,1,"Friday, October 29, 2010 16:44:11 UTC",64.9263,-148.9936,1.8,21.70,12,"Central Alaska"
+us,a0004621,6,"Friday, October 29, 2010 16:30:27 UTC",23.4225,142.8778,5.2,57.80,57,"Volcano Islands, Japan region"
+ci,14870820,2,"Friday, October 29, 2010 16:20:28 UTC",32.9857,-116.4532,1.3,15.20,20,"Southern California"
+mb,26040,1,"Friday, October 29, 2010 16:19:38 UTC",46.8105,-112.6696,1.7,0.00,21,"western Montana"
+ci,14870812,2,"Friday, October 29, 2010 16:08:02 UTC",36.0393,-117.7705,1.1,3.70, 8,"Central California"
+ci,14870804,2,"Friday, October 29, 2010 16:05:37 UTC",36.0408,-117.7737,1.3,3.50,18,"Central California"

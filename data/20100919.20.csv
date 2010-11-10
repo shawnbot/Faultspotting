@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14844348,2,"Monday, September 20, 2010 02:37:48 UTC",33.3613,-116.9338,1.3,8.30,48,"Southern California"
+ak,10080049,1,"Monday, September 20, 2010 02:24:17 UTC",61.8142,-150.8999,1.4,65.50,11,"Southern Alaska"
+ci,14844332,2,"Monday, September 20, 2010 02:17:49 UTC",32.1480,-115.0472,3.2,0.10,14,"Baja California, Mexico"
+us,2010bkah,6,"Monday, September 20, 2010 02:12:24 UTC",56.3092,162.4041,4.7,24.90,66,"near the east coast of the Kamchatka Peninsula, Russia"

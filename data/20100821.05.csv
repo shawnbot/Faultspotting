@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10783485,2,"Saturday, August 21, 2010 11:48:46 UTC",34.2673,-116.9730,1.4,8.40,39,"Southern California"
+nc,71444600,1,"Saturday, August 21, 2010 11:43:58 UTC",38.7937,-122.7795,1.9,3.90,40,"Northern California"
+us,2010afa3,6,"Saturday, August 21, 2010 11:41:38 UTC",-8.0335,110.3802,4.7,11.10,23,"Java, Indonesia"
+nn,00315466,7,"Saturday, August 21, 2010 10:59:51 UTC",38.5117,-118.3370,2.2,10.50,45,"Nevada"
+pr,10233001,0,"Saturday, August 21, 2010 10:58:38 UTC",18.3649,-67.2760,2.1,21.30, 4,"Mona Passage, Puerto Rico"

@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71294330,0,"Wednesday, October 14, 2009 18:54:20 UTC",38.8210,-122.7613,1.2,4.40, 9,"Northern California"
+ak,10014736,1,"Wednesday, October 14, 2009 18:33:07 UTC",67.5373,-143.7145,3.8,18.00,27,"northern Alaska"
+us,2009mtbr,6,"Wednesday, October 14, 2009 18:00:22 UTC",-14.9678,-174.9191,6.0,10.00,76,"Samoa Islands region"

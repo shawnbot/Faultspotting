@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,51222068,1,"Sunday, May 24, 2009 00:36:56 UTC",40.3087,-124.4873,2.3,7.70,16,"offshore Northern California"
+nc,51222067,1,"Sunday, May 24, 2009 00:32:06 UTC",36.9100,-121.3373,1.4,5.70,21,"Central California"
+ci,14462184,1,"Sunday, May 24, 2009 00:24:36 UTC",36.2098,-117.9410,1.6,8.40,16,"Central California"
+us,2009haab,6,"Sunday, May 24, 2009 00:23:25 UTC",13.2960,-87.6533,4.8,191.50,68,"Golfo de Fonseca, Honduras"
+nc,51222065,1,"Sunday, May 24, 2009 00:18:00 UTC",38.7937,-122.7645,1.6,2.00,29,"Northern California"
+ak,00106209,1,"Sunday, May 24, 2009 00:12:32 UTC",60.5532,-152.5605,1.5,68.20,08,"Southern Alaska"
+ak,00106208,1,"Sunday, May 24, 2009 00:04:50 UTC",64.6977,-147.7372,1.9,13.20,13,"Central Alaska"

@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10440105,1,"Sunday, July 19, 2009 08:45:39 UTC",33.4948,-116.4900,1.0,15.10,51,"Southern California"
+ak,10001140,1,"Sunday, July 19, 2009 08:45:03 UTC",61.8296,-149.6608,2.8,16.90,38,"Southern Alaska"
+us,2009jgap,7,"Sunday, July 19, 2009 08:35:44 UTC",-1.7639,-80.4041,5.4,42.10,167,"near the coast of Ecuador"
+ak,10001137,1,"Sunday, July 19, 2009 08:19:18 UTC",60.5726,-140.8324,1.8,19.80,18,"Southern Yukon Territory, Canada"
+ak,10001136,1,"Sunday, July 19, 2009 08:07:40 UTC",66.7981,-154.0272,2.5,3.00, 8,"northern Alaska"

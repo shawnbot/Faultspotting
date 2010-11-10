@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,51222294,1,"Thursday, May 28, 2009 00:37:08 UTC",36.6825,-120.8810,1.1,2.60, 9,"Central California"
+ci,14464152,1,"Thursday, May 28, 2009 00:36:06 UTC",34.1926,-118.6318,1.7,3.50,11,"Greater Los Angeles area, California"
+ci,14464144,1,"Thursday, May 28, 2009 00:34:08 UTC",33.2900,-116.3890,1.7,16.60,14,"Southern California"
+us,2009head,6,"Thursday, May 28, 2009 00:23:46 UTC",14.5426,-92.2669,4.9,56.10,82,"offshore Chiapas, Mexico"
+ci,14464120,1,"Thursday, May 28, 2009 00:17:51 UTC",33.8731,-116.8303,1.4,13.20,54,"Southern California"
+ak,00106690,1,"Thursday, May 28, 2009 00:13:58 UTC",61.6243,-150.6846,1.2,14.00,06,"Southern Alaska"
+ci,14464112,1,"Thursday, May 28, 2009 00:05:40 UTC",35.7816,-117.7863,2.1,7.20,38,"Southern California"
+ci,14464104,1,"Wednesday, May 27, 2009 23:57:04 UTC",33.4601,-116.5831,1.1,14.30,48,"Southern California"

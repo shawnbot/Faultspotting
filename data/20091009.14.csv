@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71297081,0,"Friday, October  9, 2009 20:50:31 UTC",36.8943,-121.6172,1.9,1.00,14,"Central California"
+nc,71297076,0,"Friday, October  9, 2009 20:47:17 UTC",39.6017,-121.5485,2.5,0.70,10,"Northern California"
+us,2009mncd,6,"Friday, October  9, 2009 20:18:18 UTC",-11.6463,165.8971,5.3,35.00,28,"Santa Cruz Islands"
+nc,71297066,0,"Friday, October  9, 2009 20:12:52 UTC",38.7930,-122.7508,1.2,2.30,17,"Northern California"

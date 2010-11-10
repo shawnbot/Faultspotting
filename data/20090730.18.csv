@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10002492,1,"Friday, July 31, 2009 00:46:38 UTC",60.9619,-150.8026,2.0,30.80, 7,"Kenai Peninsula, Alaska"
+ak,10002490,1,"Friday, July 31, 2009 00:38:27 UTC",59.8434,-151.3144,1.8,51.60, 6,"Kenai Peninsula, Alaska"
+ak,10002488,1,"Friday, July 31, 2009 00:37:50 UTC",50.8398,-177.5601,2.5,1.00,13,"Andreanof Islands, Aleutian Islands, Alaska"
+nc,71256911,0,"Friday, July 31, 2009 00:10:29 UTC",38.8037,-122.8092,1.0,2.00,12,"Northern California"
+us,2009jtab,6,"Friday, July 31, 2009 00:05:30 UTC",-10.1018,118.7832,5.4,52.40,33,"south of Sumbawa, Indonesia"

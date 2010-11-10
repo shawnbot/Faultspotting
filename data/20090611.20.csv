@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14472512,1,"Friday, June 12, 2009 02:58:17 UTC",33.3413,-116.3986,1.9,6.40,72,"Southern California"
+ci,14472504,1,"Friday, June 12, 2009 02:50:37 UTC",33.7141,-116.7551,1.2,16.80,59,"Southern California"
+ci,14472488,1,"Friday, June 12, 2009 02:41:19 UTC",33.6321,-118.4775,1.7,10.30,19,"San Pedro Channel, California"
+ci,14472480,1,"Friday, June 12, 2009 02:32:07 UTC",33.9313,-118.3938,1.8,16.90,28,"Greater Los Angeles area, California"
+nc,40238047,1,"Friday, June 12, 2009 02:13:04 UTC",37.8208,-121.9525,1.3,6.30, 9,"San Francisco Bay area, California"
+ci,14472472,1,"Friday, June 12, 2009 02:12:46 UTC",33.2518,-116.4166,1.1,4.80,38,"Southern California"
+us,2009huag,6,"Friday, June 12, 2009 02:11:50 UTC",0.9008,126.4004,4.7,14.40,11,"Molucca Sea"
+ak,00108720,1,"Friday, June 12, 2009 02:10:43 UTC",53.4239,-167.6895,1.7,79.60,04,"Fox Islands, Aleutian Islands, Alaska"

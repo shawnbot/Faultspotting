@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2010azat,6,"Thursday, September  9, 2010 07:42:36 UTC",-6.0059,125.8419,5.4,517.40,70,"Banda Sea"
+us,2010azar,6,"Thursday, September  9, 2010 07:28:02 UTC",-37.0055,-73.3683,6.1,17.60,212,"offshore Bio-Bio, Chile"
+nc,71452775,0,"Thursday, September  9, 2010 07:13:21 UTC",35.2920,-120.6278,1.5,10.50, 9,"Central California"

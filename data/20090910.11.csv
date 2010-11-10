@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71278856,0,"Thursday, September 10, 2009 17:53:25 UTC",38.8328,-122.8035,1.0,2.50,10,"Northern California"
+nc,71278851,0,"Thursday, September 10, 2009 17:49:13 UTC",38.8308,-122.8017,2.1,2.00,25,"Northern California"
+ak,10008930,1,"Thursday, September 10, 2009 17:42:27 UTC",63.5310,-146.5017,2.1,0.00,20,"Central Alaska"
+uw,09101723,1,"Thursday, September 10, 2009 17:23:46 UTC",47.5461,-122.7941,1.2,0.00, 7,"Puget Sound region, Washington"
+ci,14508868,1,"Thursday, September 10, 2009 17:17:07 UTC",34.3755,-118.3021,1.7,6.30,28,"Southern California"
+ak,10008929,1,"Thursday, September 10, 2009 17:16:20 UTC",57.9315,-154.1899,2.2,36.50, 6,"Kodiak Island region, Alaska"
+ci,14508860,1,"Thursday, September 10, 2009 17:12:41 UTC",35.0470,-118.3230,1.8,2.90,22,"Southern California"

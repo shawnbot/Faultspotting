@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10000250,1,"Saturday, July 11, 2009 01:42:45 UTC",54.7528,-161.6319,1.9,32.80, 4,"Alaska Peninsula"
+ak,10000249,1,"Saturday, July 11, 2009 01:13:13 UTC",61.3233,-152.1992,1.5,0.00,11,"Southern Alaska"
+nc,71246821,0,"Saturday, July 11, 2009 01:08:57 UTC",38.8052,-122.8123,1.2,3.50,22,"Northern California"

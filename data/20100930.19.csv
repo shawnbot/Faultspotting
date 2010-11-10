@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14850820,2,"Friday, October  1, 2010 01:53:21 UTC",34.1705,-117.8230,2.1,13.30,68,"Greater Los Angeles area, California"
+nn,00317569,7,"Friday, October  1, 2010 01:41:52 UTC",37.1415,-117.3715,1.0,8.30,11,"Nevada"
+us,2010bwaf,6,"Friday, October  1, 2010 01:24:28 UTC",-10.9300,113.8141,5.4,34.90,64,"south of Java, Indonesia"
+ak,10090930,1,"Friday, October  1, 2010 01:11:00 UTC",60.3658,-152.0860,1.9,85.40, 9,"Southern Alaska"
+nn,00317567,7,"Friday, October  1, 2010 01:05:27 UTC",37.1363,-117.3982,1.3,9.90,14,"Central California"

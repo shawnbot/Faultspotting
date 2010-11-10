@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14861588,2,"Friday, October 15, 2010 23:57:16 UTC",32.0133,-116.7218,2.2,15.90,18,"Baja California, Mexico"
+ak,10102171,1,"Friday, October 15, 2010 23:37:08 UTC",64.8284,-149.0362,1.2,18.60, 9,"Central Alaska"
+ak,10102167,1,"Friday, October 15, 2010 23:32:47 UTC",63.9376,-148.8660,2.4,4.00,22,"Central Alaska"
+ak,10102145,1,"Friday, October 15, 2010 23:02:28 UTC",65.0008,-147.3409,1.2,0.00, 9,"northern Alaska"

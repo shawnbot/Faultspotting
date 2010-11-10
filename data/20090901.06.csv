@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71274181,0,"Tuesday, September  1, 2009 12:40:54 UTC",39.8158,-123.2220,1.9,4.20, 9,"Northern California"
+ci,10457789,1,"Tuesday, September  1, 2009 12:03:05 UTC",33.1021,-116.2045,1.4,10.60,53,"Southern California"
+us,2009laa1,7,"Tuesday, September  1, 2009 12:02:18 UTC",35.5762,140.9510,4.9,10.00,110,"near the east coast of Honshu, Japan"

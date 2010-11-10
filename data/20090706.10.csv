@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10435145,1,"Monday, July  6, 2009 16:35:57 UTC",32.7916,-116.7848,1.6,4.70,21,"Southern California"
+ak,00111510,1,"Monday, July  6, 2009 16:27:04 UTC",53.9579,-166.3190,1.7,1.60,04,"Fox Islands, Aleutian Islands, Alaska"
+pr,p0918707,1,"Monday, July  6, 2009 16:19:44 UTC",18.1837,-67.1822,2.7,21.70,29,"Mona Passage, Puerto Rico"
+us,2009ita6,6,"Monday, July  6, 2009 16:00:37 UTC",2.9825,93.3694,5.0,30.40,29,"off the west coast of northern Sumatra"

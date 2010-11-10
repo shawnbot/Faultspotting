@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71460390,1,"Sunday, September 26, 2010 11:43:01 UTC",38.8437,-122.8247,1.6,1.80,28,"Northern California"
+ak,10087086,1,"Sunday, September 26, 2010 11:34:55 UTC",61.1442,-151.1136,2.0,34.60,15,"Southern Alaska"
+ci,14848196,2,"Sunday, September 26, 2010 11:16:27 UTC",33.2728,-116.8098,1.3,13.30,67,"Southern California"
+us,2010bra3,Q,"Sunday, September 26, 2010 11:08:44 UTC",-5.5674,146.4690,5.2,96.70,136,"eastern New Guinea region, Papua New Guinea"

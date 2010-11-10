@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+pr,p0917609,1,"Thursday, June 25, 2009 23:37:06 UTC",19.1882,-66.5398,3.0,13.30,18,"Puerto Rico region"
+nc,71238861,0,"Thursday, June 25, 2009 23:35:55 UTC",38.8582,-122.3785,1.8,0.00, 8,"Northern California"
+nc,71238856,0,"Thursday, June 25, 2009 23:35:07 UTC",39.6100,-121.9885,1.8,0.00,12,"Northern California"
+ak,00110314,1,"Thursday, June 25, 2009 23:10:46 UTC",65.0048,-147.3294,1.6,0.00, 6,"northern Alaska"
+ak,00110315,1,"Thursday, June 25, 2009 23:10:19 UTC",62.1037,-150.4469,1.8,16.20, 6,"Central Alaska"

@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00106083,1,"Saturday, May 23, 2009 11:40:03 UTC",60.0490,-141.4628,2.8,0.00,18,"Southern Alaska"
+ci,14461960,1,"Saturday, May 23, 2009 11:37:54 UTC",34.0778,-116.4111,1.4,9.40,56,"Southern California"
+ak,00106082,1,"Saturday, May 23, 2009 11:12:05 UTC",53.7148,-166.4053,1.6,52.80,07,"Fox Islands, Aleutian Islands, Alaska"
+ak,00106080,1,"Saturday, May 23, 2009 11:08:24 UTC",57.4951,-154.0369,2.4,27.60,10,"Kodiak Island region, Alaska"
+ak,00106077,1,"Saturday, May 23, 2009 11:04:54 UTC",64.9114,-147.4778,1.9,0.00,16,"Central Alaska"

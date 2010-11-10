@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00107738,1,"Thursday, June  4, 2009 22:33:06 UTC",60.5421,-151.8927,2.4,49.90,17,"Kenai Peninsula, Alaska"
+nc,40237651,1,"Thursday, June  4, 2009 22:32:17 UTC",38.7992,-122.7693,1.2,4.30,26,"Northern California"
+nn,00285347,1,"Thursday, June  4, 2009 22:26:31 UTC",37.3730,-117.0790,1.2,2.00,12,"Nevada"
+pr,p0915504,1,"Thursday, June  4, 2009 22:16:58 UTC",18.9435,-65.2455,2.8,31.20,09,"Puerto Rico region"
+ci,14468608,1,"Thursday, June  4, 2009 22:14:13 UTC",35.9631,-117.2991,1.5,7.30,19,"Central California"
+ak,00107735,2,"Thursday, June  4, 2009 22:13:07 UTC",52.1922,-170.5439,4.2,25.30,23,"Fox Islands, Aleutian Islands, Alaska"

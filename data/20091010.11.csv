@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10478989,1,"Saturday, October 10, 2009 17:49:10 UTC",33.6800,-116.6960,1.1,17.30,40,"Southern California"
+nc,71297531,0,"Saturday, October 10, 2009 17:34:10 UTC",37.3520,-121.7532,1.6,0.90,17,"San Francisco Bay area, California"
+ak,10013844,1,"Saturday, October 10, 2009 17:20:59 UTC",51.2704,-178.1993,2.8,37.30,16,"Andreanof Islands, Aleutian Islands, Alaska"
+ak,10013840,1,"Saturday, October 10, 2009 17:13:51 UTC",61.6158,-146.6290,2.0,24.70,13,"Southern Alaska"
+us,2009mpbe,6,"Saturday, October 10, 2009 17:10:23 UTC",-25.1225,-70.3932,5.0,50.00,68,"Antofagasta, Chile"
+us,2009mpbf,6,"Saturday, October 10, 2009 17:07:02 UTC",-14.0452,166.5369,4.7,35.00,12,"Vanuatu"

@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2010baaf,6,"Friday, September 10, 2010 07:31:33 UTC",-53.6952,140.4655,4.8,10.10,22,"west of Macquarie Island"
+ci,10795381,2,"Friday, September 10, 2010 07:10:11 UTC",33.4640,-116.4775,1.1,13.70,46,"Southern California"
+ci,10795373,2,"Friday, September 10, 2010 07:01:47 UTC",32.4580,-115.6170,2.2,8.10,26,"Baja California, Mexico"

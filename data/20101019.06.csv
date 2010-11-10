@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14863804,2,"Tuesday, October 19, 2010 12:50:41 UTC",35.3292,-117.4843,1.4,10.00,26,"Southern California"
+ci,14863796,2,"Tuesday, October 19, 2010 12:46:30 UTC",35.7358,-117.4172,1.4,21.70,10,"Southern California"
+nc,71476126,0,"Tuesday, October 19, 2010 12:25:56 UTC",37.4137,-121.7502,1.1,5.60, 7,"San Francisco Bay area, California"
+ci,14863740,2,"Tuesday, October 19, 2010 12:17:03 UTC",36.0358,-117.7743,2.0,2.40,31,"Central California"
+ci,14863732,2,"Tuesday, October 19, 2010 12:16:45 UTC",36.0323,-117.7718,2.0,2.40,18,"Central California"
+ci,14863716,2,"Tuesday, October 19, 2010 12:06:49 UTC",33.9798,-116.6760,1.1,16.00,43,"Southern California"

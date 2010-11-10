@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14516572,1,"Monday, September 28, 2009 21:51:06 UTC",36.1764,-117.9138,1.5,11.40,12,"Central California"
+uw,09282149,0,"Monday, September 28, 2009 21:49:23 UTC",46.1853,-122.2001,2.2,8.20,11,"Mount St. Helens area, Washington"
+nc,71287831,0,"Monday, September 28, 2009 21:27:32 UTC",38.8303,-122.7515,2.3,1.00,33,"Northern California"
+ci,14516532,1,"Monday, September 28, 2009 21:20:30 UTC",33.2933,-116.7386,1.5,14.30,60,"Southern California"

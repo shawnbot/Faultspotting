@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71481706,0,"Sunday, October 31, 2010 07:21:04 UTC",40.6135,-121.7343,1.6,11.90, 5,"Northern California"
+nc,71481701,0,"Sunday, October 31, 2010 07:14:27 UTC",40.6178,-121.7717,2.2,12.10, 5,"Northern California"
+uu,00004632,0,"Sunday, October 31, 2010 07:12:25 UTC",44.3385,-110.7613,1.7,3.80, 8,"Yellowstone National Park, Wyoming"
+us,a00046js,8,"Sunday, October 31, 2010 07:10:40 UTC",-33.6758,-71.9234,5.4,25.60,142,"offshore Valparaiso, Chile"
+nn,00320105,7,"Sunday, October 31, 2010 07:08:40 UTC",37.0618,-116.7442,1.0,7.00,11,"Nevada"
+ak,10112063,1,"Sunday, October 31, 2010 07:06:09 UTC",63.1107,-150.7779,1.4,119.20,11,"Central Alaska"

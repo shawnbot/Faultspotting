@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00106062,1,"Saturday, May 23, 2009 03:31:00 UTC",53.8433,-165.5634,3.2,57.80,16,"Fox Islands, Aleutian Islands, Alaska"
+ak,00106059,1,"Saturday, May 23, 2009 03:13:26 UTC",63.2332,-150.5382,2.1,100.00,18,"Central Alaska"
+us,2009gzae,7,"Saturday, May 23, 2009 02:59:28 UTC",-24.3738,178.7758,5.1,561.40,63,"south of the Fiji Islands"

@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10783317,2,"Saturday, August 21, 2010 05:45:02 UTC",33.7737,-116.1642,1.0,5.00,44,"Southern California"
+at,00236937,0,"Saturday, August 21, 2010 05:42:52 UTC",2.1410,96.4180,6.1,29.00, 9,"Simeulue, Indonesia"
+pr,10233000,0,"Saturday, August 21, 2010 05:01:32 UTC",18.0629,-66.0490,2.5,4.30,09,"Puerto Rico"

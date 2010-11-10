@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+hv,00034457,0,"Monday, June 29, 2009 18:31:49 UTC",19.3993,-155.2860,1.8,1.40,00,"Island of Hawaii, Hawaii"
+pr,p0918023,1,"Monday, June 29, 2009 18:14:39 UTC",19.2900,-66.3347,3.2,24.60,21,"Puerto Rico region"
+ak,00110700,1,"Monday, June 29, 2009 18:08:20 UTC",64.1098,-147.7887,1.4,0.10,08,"Central Alaska"
+nc,71240906,0,"Monday, June 29, 2009 18:06:56 UTC",38.8210,-122.8032,1.3,3.70,19,"Northern California"
+us,2009ilbj,7,"Monday, June 29, 2009 18:03:54 UTC",31.4221,104.0601,5.1,35.00,68,"eastern Sichuan, China"

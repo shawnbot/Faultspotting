@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10009366,1,"Saturday, September 12, 2009 08:39:31 UTC",63.5048,-147.8853,1.9,0.30,20,"Central Alaska"
+ci,14509764,1,"Saturday, September 12, 2009 08:26:07 UTC",34.4373,-116.5103,1.8,6.80,72,"Southern California"
+uw,09120812,0,"Saturday, September 12, 2009 08:12:52 UTC",48.2091,-122.8198,1.8,19.20,11,"Strait of Juan de Fuca, Washington"

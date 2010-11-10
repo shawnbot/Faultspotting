@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14845604,2,"Tuesday, September 21, 2010 20:25:41 UTC",36.5643,-117.9810,2.3,6.80,24,"Central California"
+ak,10081943,1,"Tuesday, September 21, 2010 20:25:24 UTC",64.0486,-147.9734,1.8,109.70,16,"Central Alaska"
+ci,14845596,2,"Tuesday, September 21, 2010 20:22:53 UTC",33.5933,-116.9030,1.1,15.00,25,"Southern California"
+ci,14845588,2,"Tuesday, September 21, 2010 20:17:39 UTC",33.6430,-116.6953,1.2,18.50,42,"Southern California"
+us,2010blbr,6,"Tuesday, September 21, 2010 20:15:10 UTC",40.7543,139.3502,4.7,175.40,44,"near the west coast of Honshu, Japan"
+ci,14845580,2,"Tuesday, September 21, 2010 20:14:39 UTC",32.4118,-115.5722,2.4,1.00,22,"Baja California, Mexico"
+ak,10081930,1,"Tuesday, September 21, 2010 20:07:38 UTC",63.2648,-151.3567,1.6,-2.90, 7,"Central Alaska"
+ci,14845572,2,"Tuesday, September 21, 2010 20:05:49 UTC",32.6347,-115.8207,1.4,6.90,21,"Baja California, Mexico"

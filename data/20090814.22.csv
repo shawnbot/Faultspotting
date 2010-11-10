@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14500656,1,"Saturday, August 15, 2009 04:57:06 UTC",33.8806,-116.8431,1.2,16.00,13,"Southern California"
+ci,14500640,1,"Saturday, August 15, 2009 04:24:50 UTC",33.6688,-116.7710,1.1,16.60,39,"Southern California"
+us,2009kiag,8,"Saturday, August 15, 2009 04:04:32 UTC",4.6543,96.6563,4.9,60.80,62,"northern Sumatra, Indonesia"

@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14851996,2,"Saturday, October  2, 2010 21:48:05 UTC",34.1248,-116.9720,1.4,6.30,51,"Southern California"
+nc,71463280,1,"Saturday, October  2, 2010 21:45:28 UTC",38.7752,-122.7447,2.2,3.00,42,"Northern California"
+us,2010bxb6,6,"Saturday, October  2, 2010 21:28:06 UTC",-11.1007,161.7590,5.2,35.80,59,"Solomon Islands"
+us,2010bxb5,6,"Saturday, October  2, 2010 21:26:02 UTC",76.5148,7.9043,4.9,18.80,63,"Svalbard region"
+ak,10091646,1,"Saturday, October  2, 2010 21:22:27 UTC",61.0502,-151.3833,2.9,59.60,39,"Southern Alaska"
+ci,14851980,2,"Saturday, October  2, 2010 21:19:45 UTC",34.1228,-117.0308,1.0,6.00,20,"Southern California"
+ci,14851972,2,"Saturday, October  2, 2010 21:00:44 UTC",33.7382,-116.1227,1.2,5.80,40,"Southern California"

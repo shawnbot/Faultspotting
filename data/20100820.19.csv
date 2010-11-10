@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10783229,2,"Saturday, August 21, 2010 01:43:12 UTC",32.8970,-116.2570,1.4,7.20,27,"Southern California"
+ci,10783221,2,"Saturday, August 21, 2010 01:38:12 UTC",32.8910,-116.2512,1.5,7.30,54,"Southern California"
+ci,10783213,2,"Saturday, August 21, 2010 01:36:25 UTC",32.6687,-115.8017,2.0,1.90,45,"Southern California"
+ci,10783205,2,"Saturday, August 21, 2010 01:31:12 UTC",32.6458,-115.9387,2.2,5.80,54,"Southern California"
+nc,71444460,0,"Saturday, August 21, 2010 01:15:51 UTC",38.7890,-122.7298,1.3,2.10,17,"Northern California"
+ci,10783197,2,"Saturday, August 21, 2010 01:02:28 UTC",33.0372,-115.6047,1.8,17.30,35,"Southern California"
+ci,10783189,2,"Saturday, August 21, 2010 00:55:17 UTC",32.6760,-115.7947,1.7,6.40,14,"Southern California"
+us,2010afac,6,"Saturday, August 21, 2010 00:54:19 UTC",53.5688,162.9940,5.2,43.20,202,"off the east coast of the Kamchatka Peninsula, Russia"

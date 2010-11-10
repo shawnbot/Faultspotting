@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00108910,1,"Sunday, June 14, 2009 01:36:32 UTC",54.7747,-163.6350,1.7,38.50,04,"Unimak Island region, Alaska"
+pr,p0916501,1,"Sunday, June 14, 2009 01:34:03 UTC",19.1747,-66.5115,3.3,14.90,10,"Puerto Rico region"
+us,2009hwab,7,"Sunday, June 14, 2009 01:31:17 UTC",-7.7790,107.3824,4.6,10.00,17,"Java, Indonesia"
+nc,40238142,1,"Sunday, June 14, 2009 01:13:52 UTC",39.9678,-120.8693,2.1,7.20,22,"Northern California"
+ak,00108909,1,"Sunday, June 14, 2009 01:00:27 UTC",62.2606,-145.8361,1.6,4.50, 4,"Central Alaska"

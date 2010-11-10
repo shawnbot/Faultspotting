@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10005811,1,"Friday, August 21, 2009 15:36:39 UTC",60.9048,-151.0643,1.5,34.60,05,"Kenai Peninsula, Alaska"
+ak,10005810,1,"Friday, August 21, 2009 15:11:08 UTC",52.4087,-175.6269,2.0,81.00,07,"Andreanof Islands, Aleutian Islands, Alaska"
+us,2009kpat,6,"Friday, August 21, 2009 15:07:35 UTC",-22.6508,171.1151,4.9,88.60,20,"southeast of the Loyalty Islands"

@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14481168,C,"Monday, June 29, 2009 21:48:58 UTC",32.0256,-115.4850,3.2,12.10,12,"Baja California, Mexico"
+ci,14481152,C,"Monday, June 29, 2009 21:39:59 UTC",31.9443,-115.5111,4.3,25.80,16,"Baja California, Mexico"
+us,2009ilb3,6,"Monday, June 29, 2009 21:22:03 UTC",43.4803,66.3968,4.7,12.40,29,"central Kazakhstan"
+ci,14481136,1,"Monday, June 29, 2009 21:17:41 UTC",34.1706,-117.9201,1.5,5.50,11,"Greater Los Angeles area, California"
+ak,00110779,1,"Monday, June 29, 2009 21:03:27 UTC",60.7247,-151.9534,1.9,92.20,11,"Kenai Peninsula, Alaska"

@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14848420,2,"Sunday, September 26, 2010 18:56:32 UTC",32.7198,-115.9687,2.0,2.30,58,"Southern California"
+ci,14848396,2,"Sunday, September 26, 2010 18:35:46 UTC",35.7900,-118.0132,2.0,9.20,13,"Central California"
+us,2010brbn,6,"Sunday, September 26, 2010 18:27:58 UTC",52.4890,179.7659,5.7,226.00,183,"Rat Islands, Aleutian Islands, Alaska"
+ak,10087153,1,"Sunday, September 26, 2010 18:15:31 UTC",61.5494,-146.4358,1.7,19.90,13,"Southern Alaska"
+ak,10087150,1,"Sunday, September 26, 2010 18:12:24 UTC",61.3354,-148.9144,2.5,16.80,24,"Southern Alaska"

@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14462472,1,"Sunday, May 24, 2009 14:44:45 UTC",33.4858,-116.4601,1.2,16.20,44,"Southern California"
+ak,00106258,1,"Sunday, May 24, 2009 14:42:04 UTC",51.8169,178.5433,1.6,20.20, 6,"Rat Islands, Aleutian Islands, Alaska"
+ak,00106257,1,"Sunday, May 24, 2009 14:22:29 UTC",61.3601,-150.6744,1.5,39.00, 5,"Southern Alaska"
+hv,00034104,0,"Sunday, May 24, 2009 14:21:19 UTC",19.4190,-155.2802,1.8,2.00, 0,"Island of Hawaii, Hawaii"
+ci,14462464,1,"Sunday, May 24, 2009 14:03:45 UTC",33.6138,-115.8733,1.7,61.80,18,"Southern California"

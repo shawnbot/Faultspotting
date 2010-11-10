@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71295726,0,"Wednesday, October  7, 2009 13:32:44 UTC",40.1562,-123.3092,1.9,31.50,10,"Northern California"
+nc,71295721,0,"Wednesday, October  7, 2009 13:26:14 UTC",40.1548,-123.2838,2.0,34.10,16,"Northern California"
+ci,14524244,1,"Wednesday, October  7, 2009 13:02:43 UTC",36.3995,-117.8575,1.5,5.20,22,"Central California"
+us,2009mla5,6,"Wednesday, October  7, 2009 13:02:13 UTC",-0.4717,132.9049,4.8,51.60,21,"near the north coast of Papua, Indonesia"
+nc,71295716,0,"Wednesday, October  7, 2009 13:01:12 UTC",38.7595,-122.7285,1.9,2.30,31,"Northern California"

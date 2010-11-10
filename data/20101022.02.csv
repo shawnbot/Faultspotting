@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71477441,0,"Friday, October 22, 2010 08:55:43 UTC",38.7898,-122.7275,1.2,2.00, 7,"Northern California"
+nc,71477436,1,"Friday, October 22, 2010 08:38:58 UTC",38.7895,-122.7775,1.6,3.70,28,"Northern California"
+us,a00042xm,7,"Friday, October 22, 2010 08:34:29 UTC",38.1017,48.9763,4.4,57.00,32,"northwestern Iran"
+ak,10106746,1,"Friday, October 22, 2010 08:33:04 UTC",60.3594,-152.0496,1.8,70.50, 8,"Southern Alaska"
+us,a00042xl,6,"Friday, October 22, 2010 08:26:26 UTC",-18.3391,-71.1198,4.7,51.90,28,"off the coast of Tarapaca, Chile"
+ci,10824157,2,"Friday, October 22, 2010 08:11:49 UTC",33.9643,-118.8062,1.7,18.30,26,"Channel Islands region, California"
+nc,71477416,0,"Friday, October 22, 2010 08:01:35 UTC",37.4710,-118.8432,1.4,8.20,13,"Central California"
+us,a00042xk,3,"Friday, October 22, 2010 08:00:39 UTC",38.0587,49.0109,4.5,26.50,34,"Caspian Sea"

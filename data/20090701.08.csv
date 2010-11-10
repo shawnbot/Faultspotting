@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00111093,1,"Wednesday, July  1, 2009 14:39:13 UTC",57.9646,-151.8947,3.2,51.20,31,"Kodiak Island region, Alaska"
+ci,10433361,1,"Wednesday, July  1, 2009 14:30:25 UTC",34.0820,-116.3873,1.4,5.70,25,"Southern California"
+nc,71241861,0,"Wednesday, July  1, 2009 14:25:32 UTC",38.8140,-122.7935,1.8,3.20,27,"Northern California"
+ci,10433353,1,"Wednesday, July  1, 2009 14:12:21 UTC",35.1288,-115.9723,1.8,46.10,14,"Southern California"

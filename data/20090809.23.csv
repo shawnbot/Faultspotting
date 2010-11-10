@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14498256,1,"Monday, August 10, 2009 05:58:47 UTC",35.3331,-118.5195,1.7,5.20,42,"Central California"
+ci,14498248,1,"Monday, August 10, 2009 05:48:51 UTC",33.4536,-116.5438,1.8,0.10,18,"Southern California"
+nn,00289796,1,"Monday, August 10, 2009 05:40:08 UTC",39.8950,-116.5450,2.2,16.00,10,"Nevada"
+us,2009kdap,7,"Monday, August 10, 2009 05:28:16 UTC",-11.4854,166.1508,5.0,45.60,38,"Santa Cruz Islands"
+ci,14498232,1,"Monday, August 10, 2009 05:25:29 UTC",34.2396,-116.7561,1.3,4.20,50,"Southern California"
+ak,10003976,1,"Monday, August 10, 2009 05:24:55 UTC",51.0150,-178.2873,2.9,0.00,19,"Andreanof Islands, Aleutian Islands, Alaska"
+ci,14498224,1,"Monday, August 10, 2009 05:13:42 UTC",34.2828,-116.9498,2.2,9.50,109,"Southern California"

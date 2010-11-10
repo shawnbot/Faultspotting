@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10072598,1,"Thursday, August 19, 2010 00:29:40 UTC",62.4405,-152.0048,2.2,110.90,26,"Central Alaska"
+nc,71443420,0,"Thursday, August 19, 2010 00:25:56 UTC",36.6072,-121.1112,1.1,0.60, 8,"Central California"
+hv,60173081,1,"Thursday, August 19, 2010 00:06:19 UTC",19.3745,-155.2417,1.7,3.30,11,"Island of Hawaii, Hawaii"
+ak,10072595,1,"Thursday, August 19, 2010 00:04:43 UTC",56.2905,-154.2366,4.3,20.80,23,"Kodiak Island region, Alaska"

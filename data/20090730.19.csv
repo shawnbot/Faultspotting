@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nn,00289146,1,"Friday, July 31, 2009 01:35:31 UTC",37.7180,-115.9070,1.1,0.00, 9,"Nevada"
+nn,00289145,1,"Friday, July 31, 2009 01:28:36 UTC",36.7870,-115.5080,1.4,0.00,35,"Nevada"
+ak,10002496,1,"Friday, July 31, 2009 01:22:05 UTC",52.0362,177.2449,3.6,19.50,14,"Rat Islands, Aleutian Islands, Alaska"
+ak,10002493,1,"Friday, July 31, 2009 01:12:35 UTC",51.3967,-179.9697,4.2,61.30,33,"Andreanof Islands, Aleutian Islands, Alaska"
+nc,71256926,0,"Friday, July 31, 2009 01:07:47 UTC",38.7888,-122.7698,1.0,1.50,12,"Northern California"

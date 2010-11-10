@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nn,00288102,1,"Thursday, July 16, 2009 05:45:25 UTC",37.7580,-117.8110,1.4,0.00, 9,"Nevada"
+mb,20486,1,"Thursday, July 16, 2009 05:38:24 UTC",44.8100,-111.5178,1.4,9.40, 9,"western Montana"
+nn,00288100,1,"Thursday, July 16, 2009 05:21:52 UTC",37.2330,-114.9120,1.1,4.00,17,"Nevada"
+nn,00288099,1,"Thursday, July 16, 2009 05:12:24 UTC",37.1940,-114.9390,1.7,8.00,28,"Nevada"

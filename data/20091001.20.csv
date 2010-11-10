@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10012502,1,"Friday, October  2, 2009 02:29:20 UTC",61.7961,-150.6631,2.0,76.10,14,"Southern Alaska"
+us,2009mgat,7,"Friday, October  2, 2009 02:23:14 UTC",-6.3319,130.7943,5.0,84.70,20,"Banda Sea"
+us,2009mgaq,7,"Friday, October  2, 2009 02:13:57 UTC",-15.0120,-172.5036,4.9,10.00,55,"Samoa Islands region"
+ak,10012497,1,"Friday, October  2, 2009 02:11:03 UTC",63.5598,-151.0235,1.4,8.60,10,"Central Alaska"
+ci,14518780,1,"Friday, October  2, 2009 02:06:19 UTC",33.4628,-116.5816,1.0,13.10,37,"Southern California"
+us,2009mgam,7,"Friday, October  2, 2009 01:55:06 UTC",-14.4897,-173.3715,5.1,10.00,58,"Samoa Islands region"

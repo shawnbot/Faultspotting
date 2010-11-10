@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71465650,0,"Thursday, October  7, 2010 23:40:53 UTC",40.4772,-124.3105,1.9,23.70, 6,"Northern California"
+nc,71465640,0,"Thursday, October  7, 2010 23:33:04 UTC",37.6017,-119.0135,1.1,5.30, 9,"Central California"
+nc,71465635,0,"Thursday, October  7, 2010 23:25:11 UTC",38.8375,-122.8098,1.4,2.50,19,"Northern California"
+ne,00001200,a,"Thursday, October  7, 2010 23:10:53 UTC",47.4361,-70.1683,2.3,5.00, 5,"St. Lawrence Valley region, Quebec, Canada"

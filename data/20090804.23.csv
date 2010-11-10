@@ -1,0 +1,11 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71260431,0,"Wednesday, August  5, 2009 05:55:59 UTC",38.8237,-122.7972,1.4,3.50,24,"Northern California"
+ci,14495832,1,"Wednesday, August  5, 2009 05:48:42 UTC",33.4400,-116.6446,1.4,6.70,60,"Southern California"
+nc,71260426,0,"Wednesday, August  5, 2009 05:42:13 UTC",38.8463,-122.7712,1.1,1.50, 9,"Northern California"
+ci,14495824,1,"Wednesday, August  5, 2009 05:40:42 UTC",33.2493,-116.0975,1.4,6.40,56,"Southern California"
+ci,14495816,1,"Wednesday, August  5, 2009 05:39:39 UTC",33.2526,-116.0886,1.9,8.50,103,"Southern California"
+uw,08050536,0,"Wednesday, August  5, 2009 05:36:20 UTC",47.7234,-122.3048,1.8,24.20,12,"Seattle-Tacoma urban area, Washington"
+nc,71260421,0,"Wednesday, August  5, 2009 05:33:15 UTC",37.4548,-118.8237,1.2,9.50,15,"Central California"
+ci,14495808,1,"Wednesday, August  5, 2009 05:26:38 UTC",33.6550,-116.6946,1.0,18.60,46,"Southern California"
+ak,10003315,1,"Wednesday, August  5, 2009 05:21:47 UTC",51.9393,178.2025,2.4,47.60, 8,"Rat Islands, Aleutian Islands, Alaska"
+ak,10003313,1,"Wednesday, August  5, 2009 05:00:32 UTC",53.4121,-166.3284,2.4,30.00,08,"Fox Islands, Aleutian Islands, Alaska"

@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10478869,1,"Saturday, October 10, 2009 11:46:06 UTC",32.9041,-116.2873,1.6,11.20,22,"Southern California"
+nc,71297421,0,"Saturday, October 10, 2009 11:31:00 UTC",35.5852,-121.2267,1.5,0.20, 8,"offshore Central California"
+us,2009mpax,6,"Saturday, October 10, 2009 11:11:10 UTC",-13.7227,166.4171,5.3,10.00,20,"Vanuatu"
+nn,00294933,1,"Saturday, October 10, 2009 11:05:32 UTC",38.4199,-118.3720,1.2,0.00,17,"Nevada"

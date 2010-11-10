@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,40238310,1,"Wednesday, June 17, 2009 18:49:18 UTC",37.3217,-121.7380,1.4,4.80,15,"San Francisco Bay area, California"
+ak,00109355,1,"Wednesday, June 17, 2009 18:43:54 UTC",61.5082,-149.9261,2.0,42.80, 9,"Southern Alaska"
+ak,00109353,1,"Wednesday, June 17, 2009 18:36:37 UTC",51.6251,-179.8310,2.1,15.10,08,"Andreanof Islands, Aleutian Islands, Alaska"
+ak,00109352,1,"Wednesday, June 17, 2009 18:33:14 UTC",54.8141,-160.4682,2.9,23.90,08,"Alaska Peninsula"
+ci,14475696,1,"Wednesday, June 17, 2009 18:25:38 UTC",34.6506,-116.2928,1.5,8.30,25,"Southern California"
+ak,00109350,1,"Wednesday, June 17, 2009 18:06:52 UTC",51.7302,178.5752,2.7,32.60,11,"Rat Islands, Aleutian Islands, Alaska"

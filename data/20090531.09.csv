@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14466048,1,"Sunday, May 31, 2009 15:43:13 UTC",33.8671,-117.1308,1.5,9.40,26,"Greater Los Angeles area, California"
+ak,00107099,1,"Sunday, May 31, 2009 15:40:30 UTC",61.5966,-151.7306,1.8,100.00,06,"Southern Alaska"
+us,2009hhay,6,"Sunday, May 31, 2009 15:33:05 UTC",37.8502,141.5015,4.7,62.60,37,"near the east coast of Honshu, Japan"
+ak,00107097,1,"Sunday, May 31, 2009 15:27:12 UTC",60.0328,-152.0413,1.7,27.50,07,"Southern Alaska"

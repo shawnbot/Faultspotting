@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+uw,05230451,0,"Saturday, May 23, 2009 04:51:08 UTC",47.6581,-122.0496,2.1,2.40,14,"Seattle-Tacoma urban area, Washington"
+nc,51222021,1,"Saturday, May 23, 2009 04:35:05 UTC",39.4898,-122.9877,1.7,0.10,13,"Northern California"
+ak,00106065,1,"Saturday, May 23, 2009 04:31:15 UTC",61.8363,-151.0613,1.6,68.40,04,"Southern Alaska"
+ci,14461864,1,"Saturday, May 23, 2009 04:21:14 UTC",33.5863,-116.7111,1.5,15.10,58,"Southern California"
+ci,14461856,1,"Saturday, May 23, 2009 04:08:53 UTC",33.4631,-116.5831,1.1,13.10,50,"Southern California"

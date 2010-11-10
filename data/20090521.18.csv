@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nn,00284031,1,"Friday, May 22, 2009 00:32:44 UTC",39.6340,-114.6730,2.7,16.00,11,"Nevada"
+ci,14461304,1,"Friday, May 22, 2009 00:25:24 UTC",34.6970,-118.8966,2.6,13.70,71,"Southern California"
+us,2009gyad,7,"Friday, May 22, 2009 00:24:22 UTC",13.9157,-90.7318,5.2,75.70,199,"offshore Guatemala"
+ci,14461296,1,"Friday, May 22, 2009 00:01:36 UTC",34.0000,-117.2035,1.5,14.50,53,"Greater Los Angeles area, California"

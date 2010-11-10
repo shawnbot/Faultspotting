@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10784429,2,"Sunday, August 22, 2010 20:56:36 UTC",32.6670,-115.7482,1.4,5.90,13,"Southern California"
+us,2010agbq,6,"Sunday, August 22, 2010 20:20:31 UTC",-6.4951,154.1783,5.0,83.90,11,"Bougainville region, Papua New Guinea"
+ak,10073371,1,"Sunday, August 22, 2010 20:16:29 UTC",62.7901,-149.4993,2.0,98.70,21,"Central Alaska"

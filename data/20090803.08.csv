@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71259541,0,"Monday, August  3, 2009 14:25:26 UTC",38.8240,-122.8327,1.2,0.30,10,"Northern California"
+us,2009jwa9,6,"Monday, August  3, 2009 14:18:31 UTC",18.9251,145.3905,5.1,246.00,27,"Pagan region, Northern Mariana Islands"
+ak,10002914,1,"Monday, August  3, 2009 14:17:50 UTC",65.7386,-148.2405,2.8,3.40,17,"northern Alaska"
+ci,14495136,1,"Monday, August  3, 2009 14:13:36 UTC",34.0588,-117.2253,1.3,22.50,50,"Greater Los Angeles area, California"

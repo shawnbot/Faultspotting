@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14857852,2,"Sunday, October 10, 2010 02:44:18 UTC",33.4533,-116.4227,1.2,10.00,56,"Southern California"
+us,a0003xtp,1,"Sunday, October 10, 2010 02:27:57 UTC",31.0984,141.5282,5.1,59.80,175,"Izu Islands, Japan region"
+ci,14857836,2,"Sunday, October 10, 2010 02:27:52 UTC",33.8740,-117.7945,1.6,8.40,49,"Greater Los Angeles area, California"
+us,a0003xtl,5,"Sunday, October 10, 2010 02:10:27 UTC",0.9244,-85.1066,4.8,41.20,52,"off the coast of Ecuador"

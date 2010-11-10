@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14499280,1,"Wednesday, August 12, 2009 14:58:42 UTC",33.4535,-116.5828,1.3,11.50,60,"Southern California"
+ak,10004460,1,"Wednesday, August 12, 2009 14:44:25 UTC",54.2654,-163.4999,2.2,33.30, 5,"Unimak Island region, Alaska"
+ci,14499272,1,"Wednesday, August 12, 2009 14:30:39 UTC",33.8175,-116.7408,2.9,16.80,128,"Southern California"
+nc,71264226,0,"Wednesday, August 12, 2009 14:14:46 UTC",38.8238,-122.8010,1.1,3.60,18,"Northern California"

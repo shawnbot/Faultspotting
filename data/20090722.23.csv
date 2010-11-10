@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+uw,07230541,0,"Thursday, July 23, 2009 05:41:48 UTC",46.1901,-122.2311,1.9,7.40,10,"Mount St. Helens area, Washington"
+hv,00034860,0,"Thursday, July 23, 2009 05:40:46 UTC",19.4125,-155.2730,1.9,3.20,00,"Island of Hawaii, Hawaii"
+ci,14490104,1,"Thursday, July 23, 2009 05:37:08 UTC",36.4028,-117.8475,2.5,0.00,30,"Central California"
+uw,07230524,0,"Thursday, July 23, 2009 05:24:08 UTC",46.2768,-122.4448,2.4,16.60,14,"Washington"

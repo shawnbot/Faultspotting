@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009mva3,6,"Friday, October 16, 2009 09:37:35 UTC",-11.8075,165.9227,4.8,35.00,12,"Santa Cruz Islands"
+ci,10481765,1,"Friday, October 16, 2009 09:33:26 UTC",33.9331,-116.8073,1.6,9.30,75,"Southern California"
+ci,10481757,1,"Friday, October 16, 2009 09:32:52 UTC",33.9316,-116.8188,1.4,8.40,60,"Southern California"
+ak,10015068,1,"Friday, October 16, 2009 09:25:22 UTC",63.1358,-149.8443,2.6,102.40,47,"Central Alaska"
+nc,71294970,0,"Friday, October 16, 2009 09:02:42 UTC",38.8198,-122.7868,1.2,1.80,11,"Northern California"

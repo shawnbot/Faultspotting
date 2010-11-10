@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+uw,10081856,0,"Friday, October  8, 2010 18:56:22 UTC",46.9831,-122.2118,2.2,0.00,13,"Puget Sound region, Washington"
+nc,71465940,0,"Friday, October  8, 2010 18:53:26 UTC",37.6317,-119.0540,1.3,2.80,15,"Central California"
+us,a0003xgm,9,"Friday, October  8, 2010 18:28:03 UTC",51.6060,-175.1382,4.7,36.70,141,"Andreanof Islands, Aleutian Islands, Alaska"
+ak,10096093,1,"Friday, October  8, 2010 18:07:02 UTC",63.2974,-151.5600,2.3,0.00,16,"Central Alaska"
+ak,10096030,1,"Friday, October  8, 2010 17:59:38 UTC",62.0519,-147.4998,2.2,29.50,33,"Central Alaska"

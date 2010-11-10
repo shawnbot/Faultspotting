@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10438793,1,"Thursday, July 16, 2009 06:40:09 UTC",35.9245,-117.6780,1.7,2.70,13,"Central California"
+ci,10438785,1,"Thursday, July 16, 2009 06:37:03 UTC",33.3921,-116.8508,1.0,9.40,38,"Southern California"
+ak,10000839,1,"Thursday, July 16, 2009 06:34:30 UTC",54.8859,-162.4453,3.0,14.00,07,"Alaska Peninsula"
+us,2009jdar,7,"Thursday, July 16, 2009 06:30:01 UTC",-45.6542,166.4468,4.7,10.00,14,"off the west coast of the South Island of New Zealand"
+us,2009jdas,7,"Thursday, July 16, 2009 06:29:03 UTC",42.4420,132.9808,5.2,457.40,208,"Primor'ye, Russia"
+nc,71249016,0,"Thursday, July 16, 2009 06:26:15 UTC",36.8503,-121.3087,1.8,6.70,25,"Central California"
+nc,71249011,0,"Thursday, July 16, 2009 06:12:49 UTC",36.4470,-121.0105,2.2,1.30,18,"Central California"

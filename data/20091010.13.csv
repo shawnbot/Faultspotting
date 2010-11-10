@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+pt,09283000,A,"Saturday, October 10, 2009 19:41:23 UTC",-15.5400,-172.3900,6.1,10.00, 8,"Samoa Islands region"
+nn,00294959,1,"Saturday, October 10, 2009 19:31:32 UTC",39.5410,-114.2610,2.6,0.00,13,"Nevada"
+ci,10479021,1,"Saturday, October 10, 2009 19:20:43 UTC",33.2851,-116.6746,1.3,0.10,15,"Southern California"

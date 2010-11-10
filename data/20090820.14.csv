@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71268811,0,"Thursday, August 20, 2009 20:48:22 UTC",36.8203,-121.5487,1.2,4.80,17,"Central California"
+ak,10005681,1,"Thursday, August 20, 2009 20:12:14 UTC",54.2302,-165.1180,2.3,39.90,09,"Fox Islands, Aleutian Islands, Alaska"
+ak,10005680,1,"Thursday, August 20, 2009 20:10:33 UTC",60.0413,-147.3930,2.2,7.90,09,"Southern Alaska"

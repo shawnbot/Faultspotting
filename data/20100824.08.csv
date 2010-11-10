@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10785349,2,"Tuesday, August 24, 2010 14:53:31 UTC",32.9297,-116.2938,1.1,7.50,17,"Southern California"
+ci,10785341,2,"Tuesday, August 24, 2010 14:45:18 UTC",32.9225,-116.2890,1.3,7.00,13,"Southern California"
+ci,10785333,2,"Tuesday, August 24, 2010 14:39:50 UTC",32.7120,-115.9458,1.9,4.20,29,"Southern California"
+uw,08241429,0,"Tuesday, August 24, 2010 14:29:48 UTC",47.3508,-122.7838,2.2,17.60,15,"Puget Sound region, Washington"
+ci,10785325,2,"Tuesday, August 24, 2010 14:22:19 UTC",32.9705,-116.3607,2.3,9.60,72,"Southern California"

@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+uw,06301248,0,"Tuesday, June 30, 2009 12:48:20 UTC",47.5900,-122.7946,2.1,22.40,39,"Puget Sound region, Washington"
+ci,14481360,1,"Tuesday, June 30, 2009 12:36:11 UTC",33.3248,-116.7878,1.1,17.00,49,"Southern California"
+ak,00110889,1,"Tuesday, June 30, 2009 12:22:35 UTC",60.8521,-150.3922,1.3,21.90,06,"Kenai Peninsula, Alaska"

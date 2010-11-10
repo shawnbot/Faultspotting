@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71279786,0,"Saturday, September 12, 2009 10:50:49 UTC",37.9547,-118.6197,2.0,7.60,29,"Central California"
+ak,10009378,1,"Saturday, September 12, 2009 10:32:08 UTC",61.3352,-150.6249,1.1,62.20,06,"Southern Alaska"
+nc,71279761,1,"Saturday, September 12, 2009 10:31:28 UTC",40.4490,-124.6548,3.1,24.00,26,"offshore Northern California"
+ak,10009376,1,"Saturday, September 12, 2009 10:17:55 UTC",54.3611,-163.5612,2.9,56.10,19,"Unimak Island region, Alaska"

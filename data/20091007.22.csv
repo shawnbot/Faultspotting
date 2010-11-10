@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009mmaw,6,"Thursday, October  8, 2009 04:17:54 UTC",-13.0307,165.9828,5.3,35.00,45,"Vanuatu"
+us,2009mmat,6,"Thursday, October  8, 2009 04:10:51 UTC",30.2346,-113.8281,4.0,10.00,19,"Gulf of California"
+ci,14524652,1,"Thursday, October  8, 2009 04:01:06 UTC",34.1516,-116.9526,1.2,9.90,41,"Southern California"

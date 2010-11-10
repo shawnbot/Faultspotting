@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14503068,1,"Thursday, August 27, 2009 20:15:51 UTC",33.4660,-116.5805,1.2,13.70,42,"Southern California"
+nc,71272286,2,"Thursday, August 27, 2009 20:11:54 UTC",38.2322,-122.3747,1.5,7.20,21,"Northern California"
+us,2009kvcb,6,"Thursday, August 27, 2009 20:10:31 UTC",45.4904,153.7411,5.4,2.60,165,"east of the Kuril Islands"

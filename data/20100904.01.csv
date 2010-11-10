@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10792245,2,"Saturday, September  4, 2010 07:52:18 UTC",32.6767,-115.8928,1.2,6.30,20,"Southern California"
+ak,10076286,1,"Saturday, September  4, 2010 07:48:16 UTC",63.9424,-148.9686,1.3,0.30, 9,"Central Alaska"
+ci,10792237,2,"Saturday, September  4, 2010 07:40:10 UTC",35.9437,-117.6717,2.8,3.80,44,"Central California"
+ci,10792229,2,"Saturday, September  4, 2010 07:32:11 UTC",35.9483,-117.6743,2.1,3.80,36,"Central California"
+ci,10792221,2,"Saturday, September  4, 2010 07:30:54 UTC",34.0943,-117.6542,1.2,14.10,32,"Greater Los Angeles area, California"
+mb,25741,1,"Saturday, September  4, 2010 07:16:01 UTC",44.7468,-112.9660,1.1,0.10,11,"western Montana"

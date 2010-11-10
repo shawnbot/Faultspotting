@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14515988,1,"Sunday, September 27, 2009 10:49:28 UTC",33.3115,-116.7096,1.6,4.60,16,"Southern California"
+nn,00293387,1,"Sunday, September 27, 2009 10:20:37 UTC",36.7220,-116.3120,1.4,0.00,32,"Nevada"
+ak,10011567,1,"Sunday, September 27, 2009 10:15:50 UTC",62.7328,-149.2731,1.7,52.80,18,"Central Alaska"
+pr,p0927005,1,"Sunday, September 27, 2009 10:11:17 UTC",19.3388,-65.0322,3.0,73.30,08,"Virgin Islands region"

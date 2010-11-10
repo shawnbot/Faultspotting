@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10478189,1,"Friday, October  9, 2009 09:38:42 UTC",33.4173,-116.8785,1.0,8.00,43,"Southern California"
+ak,10013716,1,"Friday, October  9, 2009 09:24:56 UTC",63.2118,-148.4948,2.6,75.80,33,"Central Alaska"
+ak,10013714,1,"Friday, October  9, 2009 09:17:45 UTC",58.3173,-153.8520,2.1,61.20, 9,"Kodiak Island region, Alaska"
+us,2009mna3,6,"Friday, October  9, 2009 09:14:40 UTC",-11.7145,165.8581,5.4,10.00,20,"Santa Cruz Islands"
+nc,71296811,0,"Friday, October  9, 2009 09:13:53 UTC",37.4152,-121.7642,1.2,6.90,19,"San Francisco Bay area, California"
+pr,p0928202,1,"Friday, October  9, 2009 09:07:03 UTC",18.0218,-65.3245,3.0,13.90,10,"Puerto Rico region"
+nc,71296801,0,"Friday, October  9, 2009 09:06:19 UTC",38.6502,-122.7855,1.4,7.00, 9,"Northern California"

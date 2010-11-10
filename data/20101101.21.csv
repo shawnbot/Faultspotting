@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71482566,0,"Tuesday, November  2, 2010 03:51:30 UTC",38.7967,-122.7357,1.1,2.40,16,"Northern California"
+ci,14872596,2,"Tuesday, November  2, 2010 03:39:03 UTC",33.0308,-117.5530,1.8,12.60,38,"Gulf of Santa Catalina, California"
+us,a0004755,7,"Tuesday, November  2, 2010 03:36:57 UTC",13.5554,-91.4231,4.9,43.30,74,"offshore Guatemala"
+ci,14872588,2,"Tuesday, November  2, 2010 03:33:29 UTC",33.0368,-117.5738,1.9,18.30,50,"Gulf of Santa Catalina, California"
+nc,71482561,0,"Tuesday, November  2, 2010 03:30:42 UTC",38.8055,-122.7958,1.1,1.30,21,"Northern California"

@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71483681,1,"Thursday, November  4, 2010 06:50:22 UTC",38.8228,-122.8137,1.6,1.90,30,"Northern California"
+nn,00320321,7,"Thursday, November  4, 2010 06:39:47 UTC",37.1343,-117.3917,1.6,7.50,15,"Central California"
+ci,14874132,2,"Thursday, November  4, 2010 06:35:16 UTC",32.6402,-115.7640,1.6,2.50,22,"Baja California, Mexico"
+us,b0000afk,4,"Thursday, November  4, 2010 06:23:02 UTC",51.0396,-176.4520,4.6,26.10,39,"Andreanof Islands, Aleutian Islands, Alaska"
+us,b0000aff,5,"Thursday, November  4, 2010 06:16:30 UTC",51.2308,-176.3754,4.6,46.50,30,"Andreanof Islands, Aleutian Islands, Alaska"
+ci,14874116,2,"Thursday, November  4, 2010 06:15:51 UTC",35.8010,-118.0532,2.0,9.60,40,"Central California"
+nc,71483666,0,"Thursday, November  4, 2010 06:15:39 UTC",37.2102,-122.1117,1.6,11.40,15,"Northern California"
+nc,71483661,0,"Thursday, November  4, 2010 06:12:49 UTC",36.8873,-121.4170,1.1,5.10, 7,"Central California"

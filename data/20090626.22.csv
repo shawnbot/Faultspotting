@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14480288,1,"Saturday, June 27, 2009 04:56:32 UTC",33.6451,-116.7380,1.9,15.80,70,"Southern California"
+ak,00110515,1,"Saturday, June 27, 2009 04:33:52 UTC",54.7837,-163.0523,2.5,22.50,15,"Unimak Island region, Alaska"
+ak,00110512,1,"Saturday, June 27, 2009 04:26:51 UTC",61.8597,-150.6339,1.7,38.60, 7,"Southern Alaska"
+ak,00110510,1,"Saturday, June 27, 2009 04:17:43 UTC",53.2673,-168.0717,1.1,0.20,05,"Fox Islands, Aleutian Islands, Alaska"
+ak,00110511,1,"Saturday, June 27, 2009 04:12:41 UTC",60.7487,-151.8760,1.0,40.80, 4,"Kenai Peninsula, Alaska"

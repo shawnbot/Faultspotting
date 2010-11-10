@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10013009,1,"Monday, October  5, 2009 08:34:48 UTC",56.9758,-154.7807,3.2,0.00,21,"Kodiak Island region, Alaska"
+us,2009mjar,6,"Monday, October  5, 2009 08:28:47 UTC",-16.1872,-174.1542,4.7,10.00,33,"Tonga"
+uw,10050821,0,"Monday, October  5, 2009 08:21:47 UTC",48.2760,-122.5684,2.1,19.00,17,"Puget Sound region, Washington"
+ak,10013005,1,"Monday, October  5, 2009 08:12:20 UTC",63.0172,-150.7101,2.3,114.50,35,"Central Alaska"
+nc,71294001,0,"Monday, October  5, 2009 08:11:46 UTC",38.8220,-122.7823,1.1,1.30,16,"Northern California"
+ci,14522788,1,"Monday, October  5, 2009 08:06:55 UTC",36.3775,-117.8538,1.5,6.30,19,"Central California"
+nn,00294265,1,"Monday, October  5, 2009 08:04:51 UTC",39.1120,-119.6940,1.4,0.00,25,"Nevada"

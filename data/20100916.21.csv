@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71456470,0,"Friday, September 17, 2010 03:43:52 UTC",37.9897,-118.7485,1.8,7.60,15,"Central California"
+nc,71456460,0,"Friday, September 17, 2010 03:34:19 UTC",38.8078,-122.8117,1.1,2.50,20,"Northern California"
+nc,71456455,1,"Friday, September 17, 2010 03:28:30 UTC",37.9888,-118.7475,2.3,6.50,36,"Central California"
+us,2010bhag,6,"Friday, September 17, 2010 03:25:28 UTC",-21.6366,-67.0992,5.3,160.80,244,"Potosi, Bolivia"
+nc,71456450,0,"Friday, September 17, 2010 03:23:30 UTC",36.6380,-121.2530,1.4,5.50,15,"Central California"

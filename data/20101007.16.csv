@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14856244,2,"Thursday, October  7, 2010 22:45:09 UTC",33.5225,-116.4978,1.0,14.60,34,"Southern California"
+ci,14856236,2,"Thursday, October  7, 2010 22:39:14 UTC",33.8795,-117.4865,1.7,1.20,11,"Greater Los Angeles area, California"
+us,a0003x4c,4,"Thursday, October  7, 2010 22:17:11 UTC",-5.1050,151.4306,4.9,114.80,28,"New Britain region, Papua New Guinea"
+nn,00318206,7,"Thursday, October  7, 2010 22:13:47 UTC",37.1603,-117.2645,1.0,3.30, 8,"Nevada"

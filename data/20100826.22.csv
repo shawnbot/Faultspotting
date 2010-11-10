@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10787173,2,"Friday, August 27, 2010 04:55:04 UTC",33.1037,-116.2565,1.2,7.90,40,"Southern California"
+nn,00315799,7,"Friday, August 27, 2010 04:51:26 UTC",37.0883,-115.8405,1.3,7.00, 8,"Nevada"
+nn,00315797,7,"Friday, August 27, 2010 04:44:12 UTC",37.2702,-115.4705,1.3,2.10,14,"Nevada"
+us,2010alam,7,"Friday, August 27, 2010 04:40:57 UTC",-7.4662,-75.0912,5.1,133.60,158,"northern Peru"
+ak,10074377,1,"Friday, August 27, 2010 04:09:13 UTC",60.3079,-141.1801,3.0,1.30,23,"Southern Alaska"
+ak,10074374,1,"Friday, August 27, 2010 04:02:39 UTC",63.8695,-149.3423,1.4,119.50,14,"Central Alaska"

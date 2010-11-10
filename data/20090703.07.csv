@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009iqbi,7,"Friday, July  3, 2009 13:27:03 UTC",-3.4788,131.1907,5.0,40.00,27,"Ceram Sea, Indonesia"
+ci,10434233,1,"Friday, July  3, 2009 13:16:32 UTC",35.2536,-118.5880,1.5,9.50,23,"Central California"
+ak,00111275,1,"Friday, July  3, 2009 13:09:15 UTC",53.5043,-167.1843,2.9,96.20,11,"Fox Islands, Aleutian Islands, Alaska"
+ak,00111276,1,"Friday, July  3, 2009 13:06:24 UTC",60.3255,-141.2153,1.9,14.30,04,"Southern Alaska"

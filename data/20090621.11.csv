@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14477880,1,"Sunday, June 21, 2009 17:44:52 UTC",33.4610,-116.5766,1.0,12.20,38,"Southern California"
+nc,40238559,1,"Sunday, June 21, 2009 17:43:01 UTC",37.3807,-121.7375,1.8,7.30,42,"San Francisco Bay area, California"
+nc,40238558,1,"Sunday, June 21, 2009 17:32:26 UTC",38.7958,-122.8065,1.2,3.30,22,"Northern California"
+nc,40238557,1,"Sunday, June 21, 2009 17:30:14 UTC",38.7960,-122.8088,2.0,3.60,35,"Northern California"
+ak,00109767,1,"Sunday, June 21, 2009 17:12:44 UTC",66.0379,-148.2909,1.5,7.70,05,"northern Alaska"
+ak,00109766,1,"Sunday, June 21, 2009 16:52:42 UTC",57.0525,-154.5032,2.6,6.60, 6,"Kodiak Island region, Alaska"

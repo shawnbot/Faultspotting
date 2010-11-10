@@ -1,0 +1,13 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10433033,1,"Tuesday, June 30, 2009 17:51:57 UTC",34.4930,-117.0055,1.7,2.10,17,"Southern California"
+nc,71241441,0,"Tuesday, June 30, 2009 17:48:43 UTC",38.7997,-122.7940,1.2,2.90,16,"Northern California"
+ci,10433017,1,"Tuesday, June 30, 2009 17:47:52 UTC",34.0309,-116.8841,1.8,17.60,81,"Southern California"
+nc,71241436,0,"Tuesday, June 30, 2009 17:46:17 UTC",38.8258,-122.7830,1.2,1.80,12,"Northern California"
+nc,71241416,0,"Tuesday, June 30, 2009 17:36:54 UTC",38.8063,-122.7542,2.1,1.20,19,"Northern California"
+nc,71241411,0,"Tuesday, June 30, 2009 17:36:18 UTC",38.8077,-122.7538,1.5,1.00,13,"Northern California"
+nc,71241406,0,"Tuesday, June 30, 2009 17:33:11 UTC",38.8002,-122.7615,1.0,0.50,10,"Northern California"
+nc,71241391,3,"Tuesday, June 30, 2009 17:27:27 UTC",38.8077,-122.7895,4.0,4.00,61,"Northern California"
+ak,00110896,2,"Tuesday, June 30, 2009 17:25:01 UTC",52.0040,-171.0268,4.1,10.70,22,"Fox Islands, Aleutian Islands, Alaska"
+ak,00110897,1,"Tuesday, June 30, 2009 17:24:03 UTC",62.3489,-150.4280,2.1,0.00,08,"Central Alaska"
+ak,00110895,1,"Tuesday, June 30, 2009 17:16:55 UTC",63.0088,-150.5601,1.8,93.60,10,"Central Alaska"
+nc,71241381,0,"Tuesday, June 30, 2009 17:09:45 UTC",38.8075,-122.7910,2.5,3.20,40,"Northern California"

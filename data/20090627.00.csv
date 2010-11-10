@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00110524,1,"Saturday, June 27, 2009 06:33:54 UTC",60.7899,-150.6999,1.9,46.60,10,"Kenai Peninsula, Alaska"
+us,2009ijan,6,"Saturday, June 27, 2009 06:33:48 UTC",19.0898,121.1256,5.1,2.80,62,"Babuyan Islands region, Philippines"
+ak,00110523,1,"Saturday, June 27, 2009 06:04:58 UTC",54.2749,-164.0027,2.0,0.70, 4,"Unimak Island region, Alaska"
+ak,00110522,1,"Saturday, June 27, 2009 06:03:44 UTC",66.5349,-157.9602,3.5,14.90,13,"northern Alaska"
+ci,14480328,1,"Saturday, June 27, 2009 06:02:26 UTC",34.2678,-118.4271,1.2,10.70,20,"Greater Los Angeles area, California"

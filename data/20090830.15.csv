@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71273591,0,"Sunday, August 30, 2009 21:51:07 UTC",36.6363,-121.2510,2.3,6.70,39,"Central California"
+ak,10007146,1,"Sunday, August 30, 2009 21:50:46 UTC",60.8501,-150.8123,2.0,28.90,07,"Kenai Peninsula, Alaska"
+ak,10007143,1,"Sunday, August 30, 2009 21:17:10 UTC",63.6040,-147.4164,1.7,0.00,10,"Central Alaska"

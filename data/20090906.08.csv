@@ -1,0 +1,10 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14507132,1,"Sunday, September  6, 2009 14:40:35 UTC",33.6961,-116.6906,1.4,8.20,14,"Southern California"
+nc,71272085,0,"Sunday, September  6, 2009 14:26:08 UTC",37.5303,-118.8283,1.3,6.80,16,"Central California"
+nc,71272080,0,"Sunday, September  6, 2009 14:25:15 UTC",37.5328,-118.8293,1.8,7.10,21,"Central California"
+ak,10008327,1,"Sunday, September  6, 2009 14:21:56 UTC",61.2772,-150.1420,2.1,44.30,22,"Southern Alaska"
+nc,71272075,0,"Sunday, September  6, 2009 14:13:13 UTC",37.5332,-118.8293,2.0,7.00,30,"Central California"
+ci,14507108,1,"Sunday, September  6, 2009 14:09:00 UTC",33.7425,-116.6996,1.3,8.30,35,"Southern California"
+nc,71272055,0,"Sunday, September  6, 2009 14:06:04 UTC",35.5552,-120.8072,1.2,7.40,19,"Central California"
+ak,10008326,1,"Sunday, September  6, 2009 14:05:21 UTC",54.6832,-163.0586,2.3,74.10,08,"Unimak Island region, Alaska"
+nc,71272050,0,"Sunday, September  6, 2009 14:04:58 UTC",35.5623,-120.7917,2.9,4.40,58,"Central California"

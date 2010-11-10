@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14514308,M,"Wednesday, September 23, 2009 21:19:14 UTC",33.8445,-117.8716,1.8,14.00,50,"Greater Los Angeles area, California"
+dr,155,1,"Wednesday, September 23, 2009 21:18:50 UTC",20.4988,-71.0362,3.2,23.10, 5,"Dominican Republic region"
+ci,14514300,M,"Wednesday, September 23, 2009 21:15:15 UTC",33.4663,-116.6435,1.1,9.20,49,"Southern California"
+nc,71285491,0,"Wednesday, September 23, 2009 21:10:42 UTC",38.8420,-122.8285,1.2,2.20,15,"Northern California"
+nc,71285481,0,"Wednesday, September 23, 2009 21:09:41 UTC",38.8080,-122.8102,1.2,2.00,14,"Northern California"

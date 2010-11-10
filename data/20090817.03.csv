@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14501168,1,"Monday, August 17, 2009 09:52:51 UTC",33.6428,-116.6980,1.6,19.00,65,"Southern California"
+nc,71266731,0,"Monday, August 17, 2009 09:41:17 UTC",39.2285,-122.8627,2.0,9.70,22,"Northern California"
+us,2009kkaw,7,"Monday, August 17, 2009 09:24:23 UTC",-1.5970,99.4190,4.8,35.00,24,"Kepulauan Mentawai region, Indonesia"
+us,2009kkav,7,"Monday, August 17, 2009 09:07:04 UTC",-1.7122,99.2934,4.7,35.00,26,"Kepulauan Mentawai region, Indonesia"

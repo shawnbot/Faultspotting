@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00108745,1,"Friday, June 12, 2009 11:42:52 UTC",53.0898,172.7658,4.1,15.60,22,"Near Islands, Aleutian Islands, Alaska"
+ak,00108744,1,"Friday, June 12, 2009 11:11:11 UTC",64.6444,-150.8531,1.5,12.30,08,"Central Alaska"
+ci,14472640,1,"Friday, June 12, 2009 11:01:46 UTC",33.5633,-116.7313,1.8,11.20,13,"Southern California"

@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14466016,1,"Sunday, May 31, 2009 13:39:22 UTC",33.2620,-115.9976,2.4,3.50,101,"Southern California"
+ak,00107093,1,"Sunday, May 31, 2009 13:27:33 UTC",61.0043,-140.4293,2.7,0.00,15,"Southern Yukon Territory, Canada"
+nc,51222451,1,"Sunday, May 31, 2009 13:10:19 UTC",38.8350,-122.8048,1.2,2.30,18,"Northern California"
+ci,14465992,1,"Sunday, May 31, 2009 13:01:26 UTC",32.8625,-116.9038,1.2,16.30,15,"San Diego County urban area, California"

@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009mtaj,7,"Wednesday, October 14, 2009 02:35:06 UTC",-20.1513,-177.6944,4.8,406.40,40,"Fiji region"
+ci,10480621,1,"Wednesday, October 14, 2009 02:31:44 UTC",33.6678,-116.7066,1.3,18.00,39,"Southern California"
+nn,00295204,1,"Wednesday, October 14, 2009 02:28:39 UTC",36.7280,-115.5850,1.1,16.00,13,"Nevada"
+hv,00035593,0,"Wednesday, October 14, 2009 02:22:40 UTC",19.5988,-155.2282,1.7,35.70, 0,"Island of Hawaii, Hawaii"
+nc,71299266,0,"Wednesday, October 14, 2009 02:19:17 UTC",38.8328,-122.8097,1.0,2.60,16,"Northern California"

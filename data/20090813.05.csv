@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+hv,00035047,0,"Thursday, August 13, 2009 11:45:22 UTC",19.4342,-156.2925,2.7,5.50,00,"Hawaii region, Hawaii"
+us,2009kga3,6,"Thursday, August 13, 2009 11:17:02 UTC",-21.7367,-174.5085,5.7,14.70,91,"Tonga"
+nc,71264906,0,"Thursday, August 13, 2009 11:00:37 UTC",37.4267,-122.2502,1.1,5.40,10,"San Francisco Bay area, California"

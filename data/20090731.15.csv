@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10002628,1,"Friday, July 31, 2009 21:20:56 UTC",62.4436,-149.1328,1.6,0.50,07,"Central Alaska"
+ci,14493616,1,"Friday, July 31, 2009 21:14:25 UTC",34.0138,-117.2085,1.5,13.90,44,"Greater Los Angeles area, California"
+ak,10002627,1,"Friday, July 31, 2009 21:03:30 UTC",52.0496,-174.3683,3.2,100.00, 4,"Andreanof Islands, Aleutian Islands, Alaska"
+us,2009jtb1,6,"Friday, July 31, 2009 21:00:55 UTC",18.5284,-70.9062,4.7,10.00,40,"Dominican Republic"

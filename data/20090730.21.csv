@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71256996,0,"Friday, July 31, 2009 03:33:21 UTC",38.8005,-122.8115,2.9,3.60,43,"Northern California"
+us,2009jtag,6,"Friday, July 31, 2009 03:19:07 UTC",55.5163,166.2651,4.8,10.00,101,"Komandorskiye Ostrova, Russia region"
+ak,10002507,1,"Friday, July 31, 2009 03:18:19 UTC",64.8038,-147.8020,1.6,6.70, 9,"Central Alaska"
+uw,07310309,0,"Friday, July 31, 2009 03:09:14 UTC",46.3523,-120.2106,1.8,6.40,15,"Washington"

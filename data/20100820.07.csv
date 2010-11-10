@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2010aeay,6,"Friday, August 20, 2010 13:08:54 UTC",-55.7899,-27.7975,5.0,77.40,31,"South Sandwich Islands region"
+ak,10072965,1,"Friday, August 20, 2010 13:08:29 UTC",61.4712,-151.1629,1.7,1.50,19,"Southern Alaska"
+ci,10783029,2,"Friday, August 20, 2010 13:04:41 UTC",32.2937,-115.3838,2.4,13.00,17,"Baja California, Mexico"

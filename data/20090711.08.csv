@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71246976,0,"Saturday, July 11, 2009 14:38:29 UTC",37.8540,-122.2435,1.2,4.70,13,"San Francisco Bay area, California"
+ci,10437169,C,"Saturday, July 11, 2009 14:34:44 UTC",32.7320,-117.5455,4.0,18.50,29,"Channel Islands region, California"
+ak,10000283,1,"Saturday, July 11, 2009 14:08:12 UTC",60.3320,-144.7190,1.8,7.90,13,"Southern Alaska"
+ak,10000282,1,"Saturday, July 11, 2009 14:02:53 UTC",60.5029,-144.2001,1.5,23.50,07,"Southern Alaska"
+nc,71246961,0,"Saturday, July 11, 2009 13:59:13 UTC",38.7767,-122.7128,1.0,2.60, 9,"Northern California"

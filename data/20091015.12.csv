@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009mucu,6,"Thursday, October 15, 2009 18:33:35 UTC",-3.6599,123.2483,6.1,10.00,39,"Sulawesi, Indonesia"
+nn,00295337,1,"Thursday, October 15, 2009 18:14:32 UTC",36.0400,-115.3100,1.9,0.00,22,"Nevada"
+nc,71294730,0,"Thursday, October 15, 2009 18:12:21 UTC",38.7525,-122.7327,1.2,2.20,12,"Northern California"

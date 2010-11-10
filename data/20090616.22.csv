@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14475424,1,"Wednesday, June 17, 2009 04:39:25 UTC",33.4473,-116.4228,1.4,6.80,64,"Southern California"
+us,2009hzag,7,"Wednesday, June 17, 2009 04:29:18 UTC",36.0966,35.9334,4.6,43.80,37,"central Turkey"
+us,2009hzaf,6,"Wednesday, June 17, 2009 04:12:52 UTC",21.7528,61.9560,4.8,10.00,20,"Owen Fracture Zone region"
+ak,00109296,1,"Wednesday, June 17, 2009 03:58:29 UTC",51.5368,-177.5445,2.0,63.90,08,"Andreanof Islands, Aleutian Islands, Alaska"

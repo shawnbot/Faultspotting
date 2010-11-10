@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10792109,2,"Saturday, September  4, 2010 03:42:16 UTC",35.7013,-118.0820,1.5,4.10,24,"Central California"
+us,2010auai,6,"Saturday, September  4, 2010 03:14:34 UTC",-2.4458,138.4854,5.6,40.30,124,"Papua, Indonesia"
+nc,71450575,0,"Saturday, September  4, 2010 03:10:22 UTC",36.7805,-121.4870,1.1,4.60,10,"Central California"
+ci,10792101,2,"Saturday, September  4, 2010 02:58:29 UTC",32.1042,-116.5015,1.9,0.30,11,"Baja California, Mexico"

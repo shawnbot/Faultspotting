@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009hwbv,7,"Sunday, June 14, 2009 20:25:15 UTC",-58.9396,-25.1140,5.5,10.00,21,"South Sandwich Islands region"
+ak,00108968,1,"Sunday, June 14, 2009 20:05:21 UTC",51.3734,-178.0732,3.0,46.40,10,"Andreanof Islands, Aleutian Islands, Alaska"
+pr,p0916510,1,"Sunday, June 14, 2009 20:03:54 UTC",19.2810,-66.3382,3.0,14.70,23,"Puerto Rico region"

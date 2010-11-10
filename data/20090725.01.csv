@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71253836,0,"Saturday, July 25, 2009 07:54:58 UTC",36.6722,-121.4102,1.0,13.60, 8,"Central California"
+ak,10001774,1,"Saturday, July 25, 2009 07:46:05 UTC",61.3728,-147.4673,4.2,5.10,69,"Southern Alaska"
+us,2009jmas,7,"Saturday, July 25, 2009 07:20:28 UTC",-37.3829,-72.9221,4.6,35.00,31,"Bio-Bio, Chile"
+nc,71253826,0,"Saturday, July 25, 2009 07:18:28 UTC",38.8038,-122.8458,1.1,1.50,16,"Northern California"
+pr,p0920603,1,"Saturday, July 25, 2009 07:11:24 UTC",18.2913,-67.1085,2.3,23.40,17,"Puerto Rico"

@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009kwa6,6,"Friday, August 28, 2009 04:28:41 UTC",37.6134,95.6570,4.9,10.00,45,"northern Qinghai, China"
+us,2009kwax,6,"Friday, August 28, 2009 04:08:03 UTC",-16.8805,-174.0496,5.1,139.30,121,"Tonga"
+ci,14503228,1,"Friday, August 28, 2009 04:05:15 UTC",32.3571,-116.2825,2.0,12.00,21,"Baja California, Mexico"

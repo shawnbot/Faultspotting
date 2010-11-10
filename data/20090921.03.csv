@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10010649,1,"Monday, September 21, 2009 09:36:05 UTC",63.2009,-150.1425,2.0,94.30,14,"Central Alaska"
+nc,71284071,0,"Monday, September 21, 2009 09:35:53 UTC",38.7788,-122.7567,1.7,1.60,25,"Northern California"
+us,2009lvau,7,"Monday, September 21, 2009 09:30:25 UTC",-19.7161,-177.5347,4.6,401.60,47,"Fiji region"
+ci,14513236,1,"Monday, September 21, 2009 09:27:04 UTC",33.4951,-116.4605,1.0,15.10,40,"Southern California"
+ci,14513228,1,"Monday, September 21, 2009 09:18:59 UTC",35.7315,-117.6211,2.3,9.60,50,"Southern California"
+nc,71284041,0,"Monday, September 21, 2009 08:57:30 UTC",35.7003,-121.0177,2.7,6.30,55,"Central California"
+us,2009lvap,7,"Monday, September 21, 2009 08:53:05 UTC",27.3517,91.4244,6.3,10.00,134,"Bhutan"

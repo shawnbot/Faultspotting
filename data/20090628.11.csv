@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00110634,1,"Sunday, June 28, 2009 17:24:18 UTC",53.7025,-166.3604,2.0,59.40,14,"Fox Islands, Aleutian Islands, Alaska"
+ak,00110631,1,"Sunday, June 28, 2009 17:09:04 UTC",60.6822,-151.4397,2.8,67.60,29,"Kenai Peninsula, Alaska"
+hv,00034440,0,"Sunday, June 28, 2009 17:06:47 UTC",19.3330,-155.1252,1.7,7.50, 0,"Island of Hawaii, Hawaii"

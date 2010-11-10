@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71485431,1,"Sunday, November  7, 2010 11:44:09 UTC",38.8147,-122.7977,1.4,3.00,27,"Northern California"
+ci,10834925,2,"Sunday, November  7, 2010 11:36:13 UTC",33.6852,-116.8068,1.6,18.10,76,"Southern California"
+us,c000077c,7,"Sunday, November  7, 2010 11:31:21 UTC",-22.3198,-179.6649,4.9,622.50,108,"south of the Fiji Islands"
+nc,71485426,0,"Sunday, November  7, 2010 11:25:42 UTC",38.8063,-122.7392,1.1,2.10,11,"Northern California"
+ci,10834917,2,"Sunday, November  7, 2010 11:14:04 UTC",32.2107,-117.6670,2.9,10.10,16,"offshore Baja California, Mexico"
+nc,71485421,0,"Sunday, November  7, 2010 11:01:37 UTC",38.8158,-122.7987,1.4,2.90,19,"Northern California"

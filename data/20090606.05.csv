@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+uw,06061138,0,"Saturday, June  6, 2009 11:38:51 UTC",47.2876,-121.9413,1.9,10.70,29,"Puget Sound region, Washington"
+ak,00107848,1,"Saturday, June  6, 2009 11:29:27 UTC",61.3800,-146.5666,1.9,27.40,05,"Southern Alaska"
+ci,14469360,1,"Saturday, June  6, 2009 11:20:49 UTC",35.4748,-118.3298,1.5,4.60,29,"Central California"
+us,2009hnbg,7,"Saturday, June  6, 2009 11:17:29 UTC",-14.6942,167.9956,4.9,51.80,29,"Vanuatu"

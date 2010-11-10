@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10482253,1,"Saturday, October 17, 2009 13:37:16 UTC",33.4183,-116.8686,1.0,6.50,36,"Southern California"
+us,2009mwbc,6,"Saturday, October 17, 2009 13:18:43 UTC",-12.9360,166.2501,5.3,68.30,47,"Santa Cruz Islands"
+ci,10482245,1,"Saturday, October 17, 2009 13:17:32 UTC",33.3791,-116.7261,1.1,2.20,21,"Southern California"
+nc,71295625,0,"Saturday, October 17, 2009 12:52:50 UTC",38.8232,-122.8297,1.1,2.10,16,"Northern California"

@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10834685,2,"Sunday, November  7, 2010 04:43:41 UTC",35.2477,-119.3805,2.3,17.30,31,"Central California"
+uw,11070426,0,"Sunday, November  7, 2010 04:26:40 UTC",45.4939,-122.6838,2.2,22.70,10,"Portland urban area, Oregon"
+ci,10834677,2,"Sunday, November  7, 2010 04:25:57 UTC",35.2537,-119.3835,2.1,17.40,33,"Central California"
+uu,00004735,0,"Sunday, November  7, 2010 04:14:10 UTC",44.5538,-110.9965,1.5,10.70,17,"Yellowstone National Park, Wyoming"
+ci,10834669,2,"Sunday, November  7, 2010 04:14:02 UTC",33.2613,-116.2737,1.2,8.40,40,"Southern California"

@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14494576,1,"Sunday, August  2, 2009 14:08:42 UTC",33.2108,-115.7338,1.6,1.30,11,"Southern California"
+ci,14494568,1,"Sunday, August  2, 2009 14:08:12 UTC",33.9763,-118.5251,1.8,10.60,35,"Santa Monica Bay, California"
+ak,10002839,1,"Sunday, August  2, 2009 13:43:29 UTC",53.8853,-165.7404,2.5,100.00,12,"Fox Islands, Aleutian Islands, Alaska"
+ak,10002836,1,"Sunday, August  2, 2009 13:24:50 UTC",64.8823,-150.3056,3.3,26.70,35,"Central Alaska"
+pr,p0921409,1,"Sunday, August  2, 2009 13:23:24 UTC",17.9938,-67.1827,1.7,15.80,13,"Puerto Rico"
+us,2009jva8,6,"Sunday, August  2, 2009 13:21:09 UTC",7.7225,126.4601,4.7,95.50,27,"Mindanao, Philippines"
+nc,71259011,0,"Sunday, August  2, 2009 13:17:12 UTC",38.7758,-122.7183,1.4,2.30,16,"Northern California"

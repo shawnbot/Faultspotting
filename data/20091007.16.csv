@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71296076,0,"Wednesday, October  7, 2009 22:42:21 UTC",38.7873,-122.7657,1.8,0.00,24,"Northern California"
+nc,71296081,0,"Wednesday, October  7, 2009 22:41:21 UTC",38.7880,-122.7618,2.4,0.00,37,"Northern California"
+us,2009mlci,7,"Wednesday, October  7, 2009 22:18:43 UTC",-13.6843,164.7093,7.3,35.00,93,"Vanuatu region"
+ak,10013448,1,"Wednesday, October  7, 2009 22:11:05 UTC",60.0568,-140.6185,3.0,0.10,26,"Southern Yukon Territory, Canada"
+us,2009mlcf,6,"Wednesday, October  7, 2009 22:03:15 UTC",-13.0524,166.1869,7.8,35.00,169,"Vanuatu"
+ci,14524564,1,"Wednesday, October  7, 2009 22:01:36 UTC",36.3816,-117.8156,1.6,4.40,23,"Central California"

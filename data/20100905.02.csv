@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+mb,25751,1,"Sunday, September  5, 2010 08:39:01 UTC",44.7720,-112.9283,1.2,8.20, 6,"western Montana"
+us,2010avaw,6,"Sunday, September  5, 2010 08:20:13 UTC",-6.0254,147.5632,5.6,54.50,32,"eastern New Guinea region, Papua New Guinea"
+pr,10248000,0,"Sunday, September  5, 2010 08:16:19 UTC",18.6030,-65.6340,2.4,25.70, 4,"Puerto Rico region"

@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71461055,1,"Tuesday, September 28, 2010 03:19:19 UTC",35.9200,-120.4767,1.7,4.60,27,"Central California"
+ak,10088172,1,"Tuesday, September 28, 2010 03:17:29 UTC",62.8916,-149.1816,1.9,88.50,17,"Central Alaska"
+us,2010btam,6,"Tuesday, September 28, 2010 03:15:06 UTC",11.9602,143.3518,5.4,22.60,152,"south of the Mariana Islands"

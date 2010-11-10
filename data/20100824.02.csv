@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10785285,2,"Tuesday, August 24, 2010 08:54:32 UTC",33.4600,-116.4345,1.5,0.00,18,"Southern California"
+ci,10785277,2,"Tuesday, August 24, 2010 08:39:14 UTC",33.5035,-116.8467,1.0,14.30,54,"Southern California"
+us,2010aiap,6,"Tuesday, August 24, 2010 08:34:20 UTC",36.5273,71.2461,4.9,230.60,104,"Hindu Kush region, Afghanistan"
+nc,71446060,0,"Tuesday, August 24, 2010 08:32:45 UTC",37.2450,-122.0447,1.4,11.70,15,"San Francisco Bay area, California"
+ci,10785261,2,"Tuesday, August 24, 2010 08:26:32 UTC",33.4952,-116.4867,1.0,15.40,45,"Southern California"
+ak,10073690,1,"Tuesday, August 24, 2010 08:24:47 UTC",63.1101,-150.7509,3.9,122.80,86,"Central Alaska"

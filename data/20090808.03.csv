@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009kban,7,"Saturday, August  8, 2009 09:30:50 UTC",-24.1700,-66.7359,4.2,185.70,26,"Salta, Argentina"
+ak,10003771,1,"Saturday, August  8, 2009 09:20:07 UTC",54.8378,-161.6620,1.8,35.00, 5,"Alaska Peninsula"
+ak,10003770,1,"Saturday, August  8, 2009 09:09:42 UTC",54.7732,-161.7013,2.8,39.40,10,"Alaska Peninsula"

@@ -1,0 +1,12 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14469456,1,"Saturday, June  6, 2009 17:51:51 UTC",36.4078,-117.8410,1.6,3.00,24,"Central California"
+ak,00107892,1,"Saturday, June  6, 2009 17:48:35 UTC",60.1398,-151.6133,1.8,15.90, 7,"Kenai Peninsula, Alaska"
+ak,00107891,1,"Saturday, June  6, 2009 17:45:53 UTC",62.1661,-152.0644,1.8,98.90,12,"Central Alaska"
+uw,06061745,0,"Saturday, June  6, 2009 17:45:10 UTC",45.1315,-120.9600,2.3,16.40,16,"Oregon"
+nc,40237731,1,"Saturday, June  6, 2009 17:42:01 UTC",40.4458,-124.1733,1.9,27.80,16,"Northern California"
+ak,00107890,1,"Saturday, June  6, 2009 17:32:06 UTC",54.7413,-162.7738,2.3,33.80, 6,"Alaska Peninsula"
+nc,40237730,1,"Saturday, June  6, 2009 17:31:32 UTC",38.8015,-122.7377,2.1,1.70,28,"Northern California"
+ak,00107888,1,"Saturday, June  6, 2009 17:16:50 UTC",57.8216,-156.7732,2.9,0.10,10,"Alaska Peninsula"
+nc,40237728,1,"Saturday, June  6, 2009 17:16:40 UTC",36.0122,-120.6160,1.3,3.70,15,"Central California"
+nc,40237727,1,"Saturday, June  6, 2009 17:04:14 UTC",36.7605,-121.2693,1.5,8.00,29,"Central California"
+ci,14469448,1,"Saturday, June  6, 2009 16:59:07 UTC",32.5388,-115.2613,2.5,0.00,16,"Baja California, Mexico"

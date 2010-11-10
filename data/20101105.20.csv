@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71484666,1,"Saturday, November  6, 2010 02:40:26 UTC",38.7902,-122.7910,2.2,1.30,35,"Northern California"
+us,c00006x4,5,"Saturday, November  6, 2010 02:12:46 UTC",36.6624,87.4692,4.9,24.40,52,"Xinjiang-Xizang border region"
+ak,10115654,1,"Saturday, November  6, 2010 02:04:18 UTC",61.1743,-146.9810,1.8,0.00, 7,"Southern Alaska"

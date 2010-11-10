@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10009458,1,"Sunday, September 13, 2009 07:24:40 UTC",54.7547,-163.7547,1.4,50.00,06,"Unimak Island region, Alaska"
+nc,71280331,0,"Sunday, September 13, 2009 07:15:20 UTC",36.4623,-121.0437,1.7,5.10,17,"Central California"
+nn,00292356,1,"Sunday, September 13, 2009 07:07:50 UTC",36.0320,-115.0120,1.8,2.00, 8,"Las Vegas urban area, Nevada"
+us,2009lma3,9,"Sunday, September 13, 2009 07:06:31 UTC",30.1548,-113.2421,4.9,10.00,51,"Gulf of California"

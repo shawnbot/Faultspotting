@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71456840,1,"Friday, September 17, 2010 23:54:51 UTC",36.8567,-121.5912,2.5,5.90,56,"Central California"
+ci,14842932,3,"Friday, September 17, 2010 23:45:17 UTC",32.6158,-115.7153,3.4,2.00,50,"Baja California, Mexico"
+ak,10079681,1,"Friday, September 17, 2010 23:33:43 UTC",60.2258,-140.9627,1.7,9.10,18,"Southern Yukon Territory, Canada"
+ci,14842924,2,"Friday, September 17, 2010 23:22:38 UTC",35.8433,-117.6690,1.4,6.80,25,"Central California"
+ci,14842916,2,"Friday, September 17, 2010 23:21:13 UTC",35.8435,-117.6650,1.2,6.80,14,"Central California"
+us,2010bhcw,6,"Friday, September 17, 2010 23:12:24 UTC",45.3657,150.5027,5.0,41.00,155,"Kuril Islands"
+us,2010bhcx,6,"Friday, September 17, 2010 23:01:33 UTC",18.4724,145.6112,4.5,180.20,32,"Pagan region, Northern Mariana Islands"
+ci,14842908,2,"Friday, September 17, 2010 23:00:29 UTC",32.9970,-116.3555,1.8,10.20,87,"Southern California"

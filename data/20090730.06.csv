@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71256546,0,"Thursday, July 30, 2009 12:47:03 UTC",36.3290,-120.0742,2.1,18.70,13,"Central California"
+us,2009jsa4,7,"Thursday, July 30, 2009 12:27:57 UTC",52.2802,177.9876,4.5,156.90,62,"Rat Islands, Aleutian Islands, Alaska"
+nc,71256536,0,"Thursday, July 30, 2009 12:25:13 UTC",38.8263,-122.7975,1.5,3.30,19,"Northern California"
+ak,10002335,1,"Thursday, July 30, 2009 12:07:27 UTC",58.0374,-155.2716,1.2,100.00, 4,"Alaska Peninsula"
+ak,10002334,1,"Thursday, July 30, 2009 12:02:34 UTC",60.1841,-141.8296,1.4,0.00, 5,"Southern Alaska"
+ak,10002331,1,"Thursday, July 30, 2009 11:56:40 UTC",60.5959,-141.7321,2.6,8.50,33,"Southern Alaska"

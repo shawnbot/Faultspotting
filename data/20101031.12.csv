@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71481866,0,"Sunday, October 31, 2010 18:43:57 UTC",38.3608,-122.5752,1.7,8.20,16,"Northern California"
+ci,14871948,2,"Sunday, October 31, 2010 18:42:36 UTC",33.0018,-116.4620,1.2,11.00,31,"Southern California"
+nn,00320125,7,"Sunday, October 31, 2010 18:25:45 UTC",37.3433,-118.0638,1.7,0.00,12,"Central California"
+hv,60188306,1,"Sunday, October 31, 2010 18:07:36 UTC",19.4032,-155.2810,1.9,1.60, 9,"Island of Hawaii, Hawaii"

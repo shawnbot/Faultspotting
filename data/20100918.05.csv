@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14843212,2,"Saturday, September 18, 2010 11:25:24 UTC",35.8438,-117.6775,1.0,6.00,16,"Central California"
+us,2010bia7,6,"Saturday, September 18, 2010 11:17:18 UTC",-0.6307,-19.5490,4.9,10.00,25,"central Mid-Atlantic Ridge"
+nn,00316841,7,"Saturday, September 18, 2010 11:04:00 UTC",37.4737,-117.1635,1.0,4.60,12,"Nevada"
+ak,10079811,1,"Saturday, September 18, 2010 10:56:27 UTC",62.3081,-150.6410,1.7,25.50,16,"Central Alaska"
+ak,10079808,1,"Saturday, September 18, 2010 10:48:49 UTC",60.6482,-150.3363,1.6,51.30,13,"Kenai Peninsula, Alaska"
+ak,10079805,1,"Saturday, September 18, 2010 10:38:27 UTC",61.2590,-146.9291,1.5,-9.90, 8,"Southern Alaska"

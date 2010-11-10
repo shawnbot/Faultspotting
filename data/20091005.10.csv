@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14522988,1,"Monday, October  5, 2009 16:30:42 UTC",36.3951,-117.8668,1.6,5.70,20,"Central California"
+ak,10013057,1,"Monday, October  5, 2009 16:28:06 UTC",57.6007,-154.5172,3.1,26.10,34,"Kodiak Island region, Alaska"
+ak,10013054,1,"Monday, October  5, 2009 16:26:46 UTC",63.1818,-150.5497,1.7,122.80,21,"Central Alaska"
+ak,10013052,1,"Monday, October  5, 2009 16:24:32 UTC",60.6716,-150.0268,2.2,47.20,21,"Kenai Peninsula, Alaska"
+ci,14522980,1,"Monday, October  5, 2009 16:23:46 UTC",36.4108,-117.8445,2.2,5.40,31,"Central California"
+nc,71294186,0,"Monday, October  5, 2009 16:22:10 UTC",36.1143,-120.1842,1.4,9.20, 8,"Central California"

@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10010488,1,"Saturday, September 19, 2009 15:50:47 UTC",51.2604,178.4701,3.8,23.20,12,"Rat Islands, Aleutian Islands, Alaska"
+ci,14512292,1,"Saturday, September 19, 2009 15:48:36 UTC",36.0245,-117.8110,2.2,3.10,08,"Central California"
+ci,14512268,1,"Saturday, September 19, 2009 15:36:03 UTC",34.3705,-119.7628,2.1,0.00,25,"Santa Barbara Channel, California"
+ci,14512252,1,"Saturday, September 19, 2009 15:06:59 UTC",34.2781,-118.3098,1.5,11.60,31,"Greater Los Angeles area, California"

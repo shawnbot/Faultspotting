@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14513468,1,"Monday, September 21, 2009 19:45:06 UTC",34.0099,-117.1631,1.5,5.60,63,"Greater Los Angeles area, California"
+pt,09264001,A,"Monday, September 21, 2009 19:38:37 UTC",20.3600,94.9300,5.6,33.00,17,"Myanmar"
+hv,00035395,0,"Monday, September 21, 2009 19:31:55 UTC",19.9053,-155.5875,1.9,16.50, 0,"Island of Hawaii, Hawaii"
+nn,00293039,1,"Monday, September 21, 2009 19:20:07 UTC",36.4800,-115.2690,1.2,16.00,10,"Nevada"
+nc,71284341,0,"Monday, September 21, 2009 19:19:45 UTC",35.9960,-120.5688,1.4,4.10,13,"Central California"
+nn,00293038,1,"Monday, September 21, 2009 19:15:00 UTC",38.9180,-117.0830,1.9,0.00,22,"Nevada"
+nc,71284331,0,"Monday, September 21, 2009 19:11:18 UTC",39.8357,-123.4845,2.8,6.60,22,"Northern California"

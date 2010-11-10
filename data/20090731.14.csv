@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+mb,20661,1,"Friday, July 31, 2009 19:18:27 UTC",47.3845,-113.9850,2.1,7.50, 6,"western Montana"
+ci,14493552,1,"Friday, July 31, 2009 19:16:52 UTC",35.4258,-117.7795,1.4,8.00,42,"Southern California"
+ci,14493536,1,"Friday, July 31, 2009 19:11:16 UTC",33.6740,-116.6845,1.0,19.70,37,"Southern California"
+ak,10002580,1,"Friday, July 31, 2009 19:09:14 UTC",51.4877,179.9014,2.5,51.80,08,"Rat Islands, Aleutian Islands, Alaska"
+ak,10002578,1,"Friday, July 31, 2009 19:06:12 UTC",55.9447,-158.9319,2.8,73.90,17,"Alaska Peninsula"
+ci,14493528,1,"Friday, July 31, 2009 19:00:35 UTC",34.0309,-117.5576,1.4,20.20,33,"Greater Los Angeles area, California"

@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71263151,0,"Tuesday, August 11, 2009 01:00:27 UTC",37.3563,-121.7127,1.2,8.70,10,"Northern California"
+ak,10004211,1,"Tuesday, August 11, 2009 00:44:05 UTC",63.3825,-147.7442,2.5,71.90,29,"Central Alaska"
+ak,10004210,1,"Tuesday, August 11, 2009 00:39:35 UTC",61.2295,-151.9655,1.0,24.80,04,"Southern Alaska"
+us,2009keac,6,"Tuesday, August 11, 2009 00:20:11 UTC",14.0287,93.1931,4.8,35.00,17,"Andaman Islands, India region"

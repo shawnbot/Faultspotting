@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71279436,0,"Friday, September 11, 2009 21:41:29 UTC",38.9438,-122.6208,1.8,3.40,11,"Northern California"
+ak,10009258,1,"Friday, September 11, 2009 21:39:51 UTC",65.0669,-149.3852,2.1,11.10,10,"northern Alaska"
+ci,14509388,1,"Friday, September 11, 2009 21:39:01 UTC",32.6268,-116.9650,1.7,2.40,26,"San Diego County urban area, California"
+ci,14509380,1,"Friday, September 11, 2009 21:36:10 UTC",35.7523,-117.7248,1.2,9.20,15,"Southern California"

@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00107758,1,"Friday, June  5, 2009 03:38:16 UTC",60.8176,-152.5660,2.2,33.50, 5,"Southern Alaska"
+ak,00107755,1,"Friday, June  5, 2009 03:35:39 UTC",59.9787,-141.3939,1.9,16.20,14,"Southeastern Alaska"
+us,2009hmai,7,"Friday, June  5, 2009 03:30:34 UTC",41.8582,143.3990,6.3,41.60,185,"Hokkaido, Japan region"
+ci,14468704,1,"Friday, June  5, 2009 03:11:07 UTC",33.7490,-116.0140,1.2,3.00,33,"Southern California"

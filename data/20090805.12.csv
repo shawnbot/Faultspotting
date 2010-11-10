@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+hv,00034971,0,"Wednesday, August  5, 2009 18:51:34 UTC",19.1003,-156.1803,2.7,16.60, 0,"Hawaii region, Hawaii"
+ak,10003368,1,"Wednesday, August  5, 2009 18:13:14 UTC",54.4958,-163.1127,2.2,62.40,05,"Unimak Island region, Alaska"
+ci,14496064,2,"Wednesday, August  5, 2009 18:12:14 UTC",34.8593,-118.7840,1.2,0.00, 4,"Central California"
+ci,14496040,M,"Wednesday, August  5, 2009 18:06:59 UTC",34.3228,-116.8665,1.2,0.00,05,"Southern California"

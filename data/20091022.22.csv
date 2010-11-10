@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009ncak,6,"Friday, October 23, 2009 03:56:30 UTC",35.7248,-97.0084,2.7,5.00,12,"Oklahoma"
+nc,71298305,0,"Friday, October 23, 2009 03:55:13 UTC",38.8255,-122.7627,2.1,1.20,28,"Northern California"
+us,2009ncan,6,"Friday, October 23, 2009 03:52:15 UTC",-11.2412,165.8154,5.1,35.00,18,"Santa Cruz Islands"

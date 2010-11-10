@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10002690,1,"Saturday, August  1, 2009 18:47:06 UTC",51.7169,-177.2069,1.7,45.60,04,"Andreanof Islands, Aleutian Islands, Alaska"
+ci,14494352,1,"Saturday, August  1, 2009 18:35:01 UTC",34.0808,-118.7960,1.6,7.10,17,"Greater Los Angeles area, California"
+nc,71258576,0,"Saturday, August  1, 2009 18:22:26 UTC",38.7555,-122.7085,1.0,0.00,11,"Northern California"
+pr,p0921307,1,"Saturday, August  1, 2009 18:21:45 UTC",19.0283,-66.3387,2.6,13.50,06,"Puerto Rico region"
+nc,71258571,0,"Saturday, August  1, 2009 18:21:43 UTC",38.7593,-122.7218,1.6,2.40,17,"Northern California"
+nc,71258566,0,"Saturday, August  1, 2009 18:05:15 UTC",37.3727,-121.7302,1.1,6.40,12,"San Francisco Bay area, California"

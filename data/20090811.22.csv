@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10004436,1,"Wednesday, August 12, 2009 04:46:27 UTC",62.1814,-145.4086,1.0,33.60, 4,"Central Alaska"
+nc,71263936,0,"Wednesday, August 12, 2009 04:40:23 UTC",38.8085,-122.7860,1.2,1.70,15,"Northern California"
+us,2009kfaq,7,"Wednesday, August 12, 2009 04:33:24 UTC",9.1070,93.7541,4.9,35.00,45,"Nicobar Islands, India region"
+nc,71263926,0,"Wednesday, August 12, 2009 04:26:45 UTC",37.4722,-121.7673,2.8,9.80,84,"San Francisco Bay area, California"
+ci,14499160,1,"Wednesday, August 12, 2009 04:05:00 UTC",32.1435,-117.5630,2.9,10.60,17,"offshore Baja California, Mexico"

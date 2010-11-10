@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10439577,1,"Friday, July 17, 2009 21:45:00 UTC",32.9793,-117.1150,1.6,4.70,13,"San Diego County urban area, California"
+ak,10001010,1,"Friday, July 17, 2009 21:34:47 UTC",53.5953,-168.4684,1.9,11.80, 5,"Fox Islands, Aleutian Islands, Alaska"
+ak,10001009,1,"Friday, July 17, 2009 21:11:12 UTC",62.2886,-149.4790,1.8,27.70, 8,"Central Alaska"
+hv,00034796,0,"Friday, July 17, 2009 21:04:29 UTC",18.8567,-155.4425,1.8,16.60, 0,"Hawaii region, Hawaii"

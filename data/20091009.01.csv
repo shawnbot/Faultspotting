@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10478141,1,"Friday, October  9, 2009 07:39:30 UTC",36.3038,-117.8461,1.4,4.70,10,"Central California"
+ci,10478133,1,"Friday, October  9, 2009 07:37:56 UTC",36.3968,-117.8753,1.9,8.40,28,"Central California"
+us,2009mnat,6,"Friday, October  9, 2009 07:33:28 UTC",-13.2666,166.2865,5.3,35.00,41,"Vanuatu"
+nc,71296756,0,"Friday, October  9, 2009 07:29:24 UTC",37.5012,-118.8425,1.4,9.60,12,"Central California"
+ci,10478117,1,"Friday, October  9, 2009 07:11:48 UTC",36.4055,-117.8851,1.4,5.50,17,"Central California"

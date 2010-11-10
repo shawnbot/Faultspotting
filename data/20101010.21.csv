@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10097129,1,"Monday, October 11, 2010 03:38:15 UTC",62.3735,-151.4999,1.7,89.90, 9,"Central Alaska"
+ci,14858420,2,"Monday, October 11, 2010 03:33:34 UTC",32.9920,-116.4182,1.5,8.30,53,"Southern California"
+us,a0003y2z,2,"Monday, October 11, 2010 03:17:27 UTC",19.1006,144.8665,4.6,608.10,46,"Maug Islands region, Northern Mariana Islands"
+nn,00318373,7,"Monday, October 11, 2010 03:16:23 UTC",37.1948,-117.5960,1.1,8.00, 6,"Central California"

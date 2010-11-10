@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10092025,1,"Monday, October  4, 2010 12:44:25 UTC",63.1017,-151.3587,2.1,0.00,10,"Central Alaska"
+nc,71463805,1,"Monday, October  4, 2010 12:39:37 UTC",38.7887,-122.7462,1.6,1.50,26,"Northern California"
+nc,71463795,0,"Monday, October  4, 2010 12:30:42 UTC",35.5095,-120.8110,1.4,5.00,12,"Central California"
+us,2010bzaq,6,"Monday, October  4, 2010 12:08:27 UTC",19.6712,121.7747,4.9,38.90,37,"Babuyan Islands region, Philippines"

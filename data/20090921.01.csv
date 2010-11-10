@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71284006,0,"Monday, September 21, 2009 07:51:29 UTC",37.3953,-121.7853,1.9,0.00,34,"San Francisco Bay area, California"
+ak,10010629,1,"Monday, September 21, 2009 07:39:01 UTC",60.6150,-151.1890,1.9,31.60,10,"Kenai Peninsula, Alaska"
+ak,10010628,1,"Monday, September 21, 2009 07:35:18 UTC",54.3208,-165.1190,2.8,80.10,17,"Fox Islands, Aleutian Islands, Alaska"
+nc,71284001,0,"Monday, September 21, 2009 07:24:58 UTC",37.3897,-121.7900,2.6,0.00,83,"San Francisco Bay area, California"
+ak,10010626,1,"Monday, September 21, 2009 07:04:16 UTC",54.6489,-164.2438,2.8,100.00,23,"Unimak Island region, Alaska"
+ci,14513196,1,"Monday, September 21, 2009 07:01:02 UTC",33.7566,-116.0531,2.7,0.60,85,"Southern California"

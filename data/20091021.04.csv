@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10483757,1,"Wednesday, October 21, 2009 10:20:56 UTC",32.0780,-115.3556,2.5,13.30,12,"Baja California, Mexico"
+ak,10016642,1,"Wednesday, October 21, 2009 10:08:24 UTC",63.5487,-150.9549,1.7,7.10,12,"Central Alaska"
+pr,p0929401,1,"Wednesday, October 21, 2009 09:45:05 UTC",18.3043,-68.3547,3.2,126.10,27,"Mona Passage, Dominican Republic"

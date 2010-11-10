@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10006085,1,"Sunday, August 23, 2009 19:47:36 UTC",61.3461,-151.6360,1.1,87.10, 8,"Southern Alaska"
+nc,71270071,0,"Sunday, August 23, 2009 19:35:57 UTC",37.7280,-122.5403,1.1,11.60,11,"offshore Northern California"
+ak,10006082,1,"Sunday, August 23, 2009 19:10:18 UTC",62.1317,-141.5094,2.2,21.00,19,"Central Alaska"
+ak,10006079,1,"Sunday, August 23, 2009 19:06:10 UTC",61.4981,-140.6930,2.4,0.10,21,"Southern Yukon Territory, Canada"

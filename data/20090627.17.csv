@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00110588,1,"Saturday, June 27, 2009 23:37:52 UTC",61.5185,-150.0274,3.5,37.50,39,"Southern Alaska"
+nc,71240021,0,"Saturday, June 27, 2009 23:31:29 UTC",36.0095,-120.5792,2.2,4.30,40,"Central California"
+nc,71240016,0,"Saturday, June 27, 2009 23:24:36 UTC",36.0113,-120.5757,2.8,4.80,60,"Central California"
+pr,p0917808,1,"Saturday, June 27, 2009 23:19:50 UTC",19.2453,-64.4373,3.1,10.60,22,"Virgin Islands region"
+ak,00110586,1,"Saturday, June 27, 2009 23:10:21 UTC",54.7556,-162.8027,2.2,11.50,10,"Alaska Peninsula"
+ci,14480456,1,"Saturday, June 27, 2009 23:05:55 UTC",34.3286,-116.7555,1.5,4.10,23,"Southern California"

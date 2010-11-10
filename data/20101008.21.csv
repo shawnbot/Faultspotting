@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,a0003xlc,7,"Saturday, October  9, 2010 03:25:02 UTC",18.2031,146.6028,5.1,55.50,108,"Pagan region, Northern Mariana Islands"
+ci,14857252,2,"Saturday, October  9, 2010 03:18:35 UTC",33.4148,-116.8685,1.0,15.80,41,"Southern California"
+ci,14857244,2,"Saturday, October  9, 2010 03:10:45 UTC",36.0792,-117.8465,2.4,3.80,10,"Central California"

@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10836597,2,"Wednesday, November 10, 2010 03:17:38 UTC",34.3310,-116.9183,1.1,6.10,47,"Southern California"
+ci,10836589,2,"Wednesday, November 10, 2010 03:11:42 UTC",33.3943,-116.4488,1.2,10.30,31,"Southern California"
+us,c00008jh,8,"Wednesday, November 10, 2010 03:09:22 UTC",0.5080,126.0205,5.3,14.20,111,"Molucca Sea"

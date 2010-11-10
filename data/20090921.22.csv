@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14513580,1,"Tuesday, September 22, 2009 04:48:40 UTC",33.6190,-117.3381,1.2,0.40,17,"Southern California"
+us,2009lwac,6,"Tuesday, September 22, 2009 04:38:11 UTC",-3.7456,141.9459,5.5,51.90,56,"New Guinea, Papua New Guinea"
+ci,14513564,1,"Tuesday, September 22, 2009 04:30:00 UTC",33.7103,-116.7665,1.6,17.10,63,"Southern California"
+nc,71284551,0,"Tuesday, September 22, 2009 04:06:06 UTC",36.9727,-121.6175,1.7,4.70,31,"Northern California"

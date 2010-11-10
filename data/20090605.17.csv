@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,40237704,1,"Friday, June  5, 2009 23:49:57 UTC",38.7730,-122.7098,1.4,2.90,17,"Northern California"
+hv,00034255,0,"Friday, June  5, 2009 23:49:36 UTC",19.3747,-155.2640,2.7,6.40, 0,"Island of Hawaii, Hawaii"
+ak,00107810,1,"Friday, June  5, 2009 23:22:14 UTC",60.2063,-141.3161,1.5,13.20, 4,"Southern Alaska"
+ak,00107809,1,"Friday, June  5, 2009 23:09:48 UTC",65.0367,-147.4302,1.1,0.00,07,"northern Alaska"
+ak,00107808,1,"Friday, June  5, 2009 23:01:44 UTC",51.5165,-178.2112,2.0,35.50,09,"Andreanof Islands, Aleutian Islands, Alaska"
+nc,40237703,1,"Friday, June  5, 2009 23:01:37 UTC",35.4928,-120.7743,2.0,6.10,44,"Central California"

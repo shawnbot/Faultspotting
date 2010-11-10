@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+hv,00034698,0,"Saturday, July 11, 2009 18:56:15 UTC",19.6960,-155.7077,1.8,8.00, 0,"Island of Hawaii, Hawaii"
+hv,00034695,0,"Saturday, July 11, 2009 18:48:53 UTC",19.7118,-155.7225,2.2,13.70,00,"Island of Hawaii, Hawaii"
+ak,10000298,1,"Saturday, July 11, 2009 18:26:09 UTC",51.6961,179.8758,2.4,1.50, 8,"Rat Islands, Aleutian Islands, Alaska"

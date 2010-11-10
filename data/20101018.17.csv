@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71475956,0,"Monday, October 18, 2010 23:50:01 UTC",36.5177,-121.1012,1.1,4.60, 6,"Central California"
+nc,71475951,0,"Monday, October 18, 2010 23:43:50 UTC",36.5583,-121.1560,1.5,7.60,15,"Central California"
+nn,00318950,7,"Monday, October 18, 2010 23:35:20 UTC",36.8627,-117.4962,1.0,2.90,10,"Central California"
+ci,14863164,2,"Monday, October 18, 2010 23:29:01 UTC",32.6790,-115.8862,1.7,7.00,27,"Southern California"
+us,a00041mb,6,"Monday, October 18, 2010 23:13:14 UTC",-3.6220,101.3927,4.7,62.40,30,"southern Sumatra, Indonesia"

@@ -1,0 +1,12 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14496904,1,"Friday, August  7, 2009 01:46:36 UTC",33.5120,-116.4455,1.2,10.60,34,"Southern California"
+mb,20765,1,"Friday, August  7, 2009 01:42:29 UTC",45.4288,-111.2776,1.6,6.00, 8,"western Montana"
+uw,08070136,0,"Friday, August  7, 2009 01:36:50 UTC",47.9488,-122.4891,1.9,22.10,45,"Puget Sound region, Washington"
+ci,14496896,1,"Friday, August  7, 2009 01:34:16 UTC",33.4885,-116.4713,1.1,23.70,23,"Southern California"
+ci,14496888,1,"Friday, August  7, 2009 01:23:04 UTC",33.4408,-116.4806,1.1,22.80,29,"Southern California"
+ci,14496880,1,"Friday, August  7, 2009 01:18:29 UTC",33.4970,-116.4976,1.2,14.40,40,"Southern California"
+nc,71261231,0,"Friday, August  7, 2009 01:14:51 UTC",38.7638,-122.7123,1.0,1.80, 9,"Northern California"
+us,2009kaac,7,"Friday, August  7, 2009 01:10:59 UTC",6.8075,-72.8986,4.4,164.40,58,"northern Colombia"
+ak,10003578,1,"Friday, August  7, 2009 01:10:17 UTC",51.1199,-179.5744,2.6,20.40,06,"Andreanof Islands, Aleutian Islands, Alaska"
+ci,14496872,1,"Friday, August  7, 2009 01:08:34 UTC",32.8923,-115.8038,1.5,7.30,14,"Southern California"
+ci,14496864,1,"Friday, August  7, 2009 01:04:55 UTC",33.2771,-115.9918,1.6,5.20,49,"Southern California"

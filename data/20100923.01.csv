@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14846340,2,"Thursday, September 23, 2010 07:22:17 UTC",33.3720,-116.6720,1.0,15.60,41,"Southern California"
+nc,71459075,0,"Thursday, September 23, 2010 07:08:49 UTC",34.8538,-120.8807,2.2,1.90,10,"offshore Central California"
+ak,10085560,1,"Thursday, September 23, 2010 06:40:41 UTC",60.3550,-150.8768,2.2,48.10,25,"Kenai Peninsula, Alaska"
+ak,10085558,2,"Thursday, September 23, 2010 06:39:50 UTC",51.6098,-175.7255,2.3,26.40,10,"Andreanof Islands, Aleutian Islands, Alaska"

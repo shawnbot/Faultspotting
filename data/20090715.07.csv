@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+at,00766584,1,"Wednesday, July 15, 2009 13:50:42 UTC",-45.6680,166.5810,5.6,35.00,07,"off the west coast of the South Island of New Zealand"
+nc,71248666,0,"Wednesday, July 15, 2009 13:45:27 UTC",38.8245,-122.7635,1.8,1.40,12,"Northern California"
+ci,10438617,1,"Wednesday, July 15, 2009 13:40:52 UTC",33.4666,-116.5833,1.2,13.40,43,"Southern California"
+ci,10438609,1,"Wednesday, July 15, 2009 13:29:41 UTC",34.3598,-117.6560,1.6,14.20,28,"Southern California"
+ak,10000747,1,"Wednesday, July 15, 2009 13:24:11 UTC",53.2922,-168.1499,2.5,15.90,13,"Fox Islands, Aleutian Islands, Alaska"
+ak,10000745,1,"Wednesday, July 15, 2009 13:06:59 UTC",60.2918,-141.1500,1.4,23.60, 9,"Southern Alaska"

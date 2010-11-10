@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+uw,09301953,0,"Wednesday, September 30, 2009 19:53:30 UTC",47.6658,-120.6243,1.9,2.00,14,"Washington"
+nc,71289781,0,"Wednesday, September 30, 2009 19:52:47 UTC",36.4538,-120.6192,2.0,12.00,21,"Central California"
+nc,71289771,0,"Wednesday, September 30, 2009 19:45:29 UTC",37.5442,-118.8037,1.9,5.90,27,"Central California"
+ak,10012205,1,"Wednesday, September 30, 2009 19:43:23 UTC",63.6574,-145.6385,1.9,11.30,13,"Central Alaska"
+nc,71289756,0,"Wednesday, September 30, 2009 19:26:16 UTC",38.8130,-122.8293,1.3,2.90,20,"Northern California"
+ak,10012200,2,"Wednesday, September 30, 2009 19:23:31 UTC",63.3039,-150.5474,1.5,130.90,14,"Central Alaska"
+ak,10012195,2,"Wednesday, September 30, 2009 19:21:07 UTC",53.2926,-166.3943,4.1,17.30,31,"Fox Islands, Aleutian Islands, Alaska"
+us,2009medd,6,"Wednesday, September 30, 2009 19:03:16 UTC",-15.5323,-69.2492,5.9,250.20,243,"La Paz, Bolivia"

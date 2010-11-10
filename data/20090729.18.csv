@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10002290,1,"Thursday, July 30, 2009 00:39:41 UTC",53.3640,-167.7036,1.9,53.70, 7,"Fox Islands, Aleutian Islands, Alaska"
+ak,10002288,1,"Thursday, July 30, 2009 00:33:21 UTC",51.4813,-178.4748,3.1,45.90,22,"Andreanof Islands, Aleutian Islands, Alaska"
+ak,10002287,1,"Thursday, July 30, 2009 00:14:42 UTC",63.3582,-149.9960,1.1,0.00, 6,"Central Alaska"

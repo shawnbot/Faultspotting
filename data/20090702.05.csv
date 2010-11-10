@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10433753,1,"Thursday, July  2, 2009 11:42:41 UTC",33.7096,-116.8443,1.6,11.50,77,"Southern California"
+ci,10433745,1,"Thursday, July  2, 2009 11:42:20 UTC",33.7225,-116.8380,1.7,14.60,42,"Southern California"
+us,2009ipa1,7,"Thursday, July  2, 2009 11:29:37 UTC",4.6007,124.4986,5.1,10.00,32,"Celebes Sea"
+ak,00111205,1,"Thursday, July  2, 2009 11:11:08 UTC",60.0118,-151.8534,1.7,15.30,10,"Kenai Peninsula, Alaska"
+ak,00111203,1,"Thursday, July  2, 2009 11:08:54 UTC",60.2998,-141.6096,1.9,9.40,14,"Southern Alaska"

@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00107807,1,"Friday, June  5, 2009 21:39:53 UTC",51.9785,179.7634,1.2,12.80, 4,"Rat Islands, Aleutian Islands, Alaska"
+nn,00285419,1,"Friday, June  5, 2009 21:23:40 UTC",36.5230,-116.4410,1.4,0.00,38,"Nevada"
+us,2009hmb1,7,"Friday, June  5, 2009 21:17:00 UTC",-17.4681,167.6643,5.3,35.90,53,"Vanuatu"

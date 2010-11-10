@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009iaai,7,"Thursday, June 18, 2009 04:26:15 UTC",35.3821,28.4646,4.7,37.60,43,"eastern Mediterranean Sea"
+ci,14475936,1,"Thursday, June 18, 2009 04:06:40 UTC",35.2941,-118.6123,1.8,4.90,25,"Central California"
+ci,14475928,1,"Thursday, June 18, 2009 04:06:11 UTC",35.2936,-118.6128,2.0,2.90,53,"Central California"

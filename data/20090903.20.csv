@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009ldal,7,"Friday, September  4, 2009 02:30:29 UTC",35.6623,139.9555,4.8,34.80,26,"near the south coast of Honshu, Japan"
+ak,10007987,1,"Friday, September  4, 2009 02:19:51 UTC",61.4130,-150.2204,1.6,48.60, 6,"Southern Alaska"
+ak,10007985,1,"Friday, September  4, 2009 02:08:09 UTC",62.5953,-149.9788,1.8,0.10,22,"Central Alaska"
+ak,10007984,1,"Friday, September  4, 2009 02:02:38 UTC",61.5996,-150.1056,1.4,39.80,08,"Southern Alaska"

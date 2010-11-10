@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10004629,1,"Thursday, August 13, 2009 10:36:19 UTC",61.7560,-150.2372,1.8,47.90,12,"Southern Alaska"
+ak,10004630,1,"Thursday, August 13, 2009 10:33:30 UTC",64.1498,-151.2292,1.8,40.00, 4,"Central Alaska"
+ak,10004628,1,"Thursday, August 13, 2009 10:31:49 UTC",58.9329,-153.5777,1.6,25.70, 6,"Kodiak Island region, Alaska"

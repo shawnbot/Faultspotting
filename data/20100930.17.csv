@@ -1,0 +1,10 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14850708,2,"Thursday, September 30, 2010 23:43:20 UTC",35.7568,-117.5972,1.1,13.00,18,"Southern California"
+nc,71462500,1,"Thursday, September 30, 2010 23:42:24 UTC",38.8213,-122.8245,1.7,2.60,35,"Northern California"
+nc,71462505,2,"Thursday, September 30, 2010 23:41:57 UTC",35.5590,-120.7987,1.1,5.40,35,"Central California"
+nc,71462510,2,"Thursday, September 30, 2010 23:39:49 UTC",36.5652,-121.1245,1.1,2.20,12,"Central California"
+us,2010bvde,6,"Thursday, September 30, 2010 23:30:46 UTC",-7.9240,-71.3062,4.9,630.80,242,"Amazonas, Brazil"
+nn,00317556,7,"Thursday, September 30, 2010 23:30:01 UTC",37.1507,-117.3733,1.6,6.80,25,"Nevada"
+nc,71462485,2,"Thursday, September 30, 2010 23:11:18 UTC",37.4255,-118.6173,1.6,9.00,34,"Central California"
+nn,00317552,7,"Thursday, September 30, 2010 23:05:51 UTC",37.1540,-117.2833,1.2,3.80,10,"Nevada"
+ci,14850684,4,"Thursday, September 30, 2010 22:56:53 UTC",32.6830,-115.9618,1.5,3.70,19,"Southern California"

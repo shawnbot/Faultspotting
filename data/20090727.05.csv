@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14491760,1,"Monday, July 27, 2009 11:58:58 UTC",32.9918,-115.8766,1.5,0.10,32,"Southern California"
+nc,71254721,0,"Monday, July 27, 2009 11:49:11 UTC",37.5135,-118.8262,1.1,6.10, 8,"Central California"
+ak,10001922,1,"Monday, July 27, 2009 11:37:48 UTC",63.4536,-147.6576,1.3,0.60,06,"Central Alaska"
+ak,10001919,1,"Monday, July 27, 2009 11:26:39 UTC",60.3224,-151.0512,2.7,34.50,29,"Kenai Peninsula, Alaska"
+ak,10001917,1,"Monday, July 27, 2009 11:18:51 UTC",61.7893,-149.4791,2.0,21.20,19,"Southern Alaska"
+us,2009jpan,6,"Monday, July 27, 2009 11:08:18 UTC",-5.4748,151.7350,5.1,40.70,34,"New Britain region, Papua New Guinea"

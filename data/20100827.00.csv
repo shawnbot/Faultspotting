@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71447175,1,"Friday, August 27, 2010 06:43:39 UTC",35.7517,-120.3052,2.3,9.00,44,"Central California"
+us,2010alat,6,"Friday, August 27, 2010 06:42:22 UTC",-6.2217,146.4078,5.0,114.30,39,"eastern New Guinea region, Papua New Guinea"
+hv,60174886,1,"Friday, August 27, 2010 06:40:15 UTC",19.4190,-155.4062,3.2,11.70,47,"Island of Hawaii, Hawaii"
+ci,10787213,2,"Friday, August 27, 2010 06:30:18 UTC",32.6575,-115.8745,1.6,10.20,30,"Southern California"
+ak,10074396,1,"Friday, August 27, 2010 06:28:30 UTC",61.2695,-147.2943,1.5,9.60,11,"Southern Alaska"
+ak,10074392,1,"Friday, August 27, 2010 06:22:16 UTC",61.3987,-153.0386,2.7,3.20,22,"Southern Alaska"

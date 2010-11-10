@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14849940,2,"Thursday, September 30, 2010 01:26:26 UTC",33.8665,-116.8368,1.2,10.90,52,"Southern California"
+ci,14849948,2,"Thursday, September 30, 2010 01:26:21 UTC",32.7210,-115.9468,1.7,7.30,14,"Southern California"
+us,2010bvaf,6,"Thursday, September 30, 2010 01:07:39 UTC",-5.1671,133.8742,5.4,10.00,47,"Kepulauan Kai, Indonesia"
+nc,71461860,0,"Thursday, September 30, 2010 01:07:00 UTC",38.7543,-122.7173,1.2,2.40,13,"Northern California"
+nc,71461845,2,"Thursday, September 30, 2010 00:44:21 UTC",37.7835,-122.1715,1.0,4.40,18,"San Francisco Bay area, California"

@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10007622,1,"Wednesday, September  2, 2009 02:17:05 UTC",60.6132,-141.8250,1.2,0.00,10,"Southern Alaska"
+ak,10007621,1,"Wednesday, September  2, 2009 02:14:47 UTC",53.2906,-168.5183,2.1,22.00,09,"Fox Islands, Aleutian Islands, Alaska"
+us,2009lbaf,7,"Wednesday, September  2, 2009 02:08:19 UTC",-1.4223,99.5176,4.8,48.90,25,"Kepulauan Mentawai region, Indonesia"
+ak,10007620,1,"Wednesday, September  2, 2009 02:07:24 UTC",51.2809,-179.4954,3.0,26.40,13,"Andreanof Islands, Aleutian Islands, Alaska"
+ak,10007618,1,"Wednesday, September  2, 2009 02:05:23 UTC",63.1279,-150.7727,1.6,100.00,16,"Central Alaska"

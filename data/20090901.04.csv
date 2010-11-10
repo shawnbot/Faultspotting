@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10007334,1,"Tuesday, September  1, 2009 10:50:02 UTC",63.4795,-148.3073,1.4,4.50, 8,"Central Alaska"
+ci,10457749,1,"Tuesday, September  1, 2009 10:41:12 UTC",36.0331,-117.7850,1.8,2.50,31,"Central California"
+ak,10007332,1,"Tuesday, September  1, 2009 10:39:21 UTC",61.8914,-150.6715,1.9,57.30,10,"Southern Alaska"
+ak,10007330,1,"Tuesday, September  1, 2009 10:30:16 UTC",53.0199,-168.5580,2.1,44.70,06,"Fox Islands, Aleutian Islands, Alaska"
+pr,p0924408,1,"Tuesday, September  1, 2009 10:11:19 UTC",19.0790,-66.6527,3.1,50.30,11,"Puerto Rico region"
+us,2009laas,7,"Tuesday, September  1, 2009 10:06:53 UTC",37.7216,95.5528,4.8,10.00,40,"northern Qinghai, China"

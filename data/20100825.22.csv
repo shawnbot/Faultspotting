@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2010akar,6,"Thursday, August 26, 2010 04:21:31 UTC",-6.5570,130.2309,5.1,139.20,32,"Banda Sea"
+nc,71446775,0,"Thursday, August 26, 2010 04:20:52 UTC",38.7972,-122.7298,1.1,1.90, 9,"Northern California"
+ci,10786301,2,"Thursday, August 26, 2010 04:14:03 UTC",32.5860,-115.6895,1.4,9.60,20,"Baja California, Mexico"

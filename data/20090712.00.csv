@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+pr,p0919302,1,"Sunday, July 12, 2009 06:39:14 UTC",19.6328,-68.6142,3.6,70.70,10,"Dominican Republic region"
+ci,10437369,1,"Sunday, July 12, 2009 06:26:26 UTC",34.4698,-117.8620,1.4,0.00,13,"Southern California"
+ak,10000326,1,"Sunday, July 12, 2009 06:23:30 UTC",66.6499,-149.2411,1.8,0.20,09,"northern Alaska"
+us,2009izaj,7,"Sunday, July 12, 2009 06:12:45 UTC",-15.0804,-70.5053,6.0,186.80,87,"southern Peru"

@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14498592,1,"Monday, August 10, 2009 19:56:40 UTC",32.6160,-116.9740,1.8,3.10,23,"San Diego County urban area, California"
+ci,14498584,1,"Monday, August 10, 2009 19:41:20 UTC",34.3423,-116.8798,1.9,0.80,28,"Southern California"
+ak,10004044,1,"Monday, August 10, 2009 19:34:39 UTC",51.7235,-178.6579,1.6,42.40,10,"Andreanof Islands, Aleutian Islands, Alaska"
+ak,10004043,1,"Monday, August 10, 2009 19:16:30 UTC",54.0790,-165.2125,2.7,88.40,05,"Fox Islands, Aleutian Islands, Alaska"

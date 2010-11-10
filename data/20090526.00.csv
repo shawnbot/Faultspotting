@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009hcat,7,"Tuesday, May 26, 2009 06:38:38 UTC",-14.3776,-75.9995,5.1,10.00,125,"near the coast of central Peru"
+ci,14463240,1,"Tuesday, May 26, 2009 06:23:29 UTC",33.5043,-116.5746,1.6,10.10,21,"Southern California"
+ci,14463224,1,"Tuesday, May 26, 2009 06:19:24 UTC",33.7918,-116.9468,1.4,16.90,82,"Southern California"

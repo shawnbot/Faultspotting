@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14845508,2,"Tuesday, September 21, 2010 18:54:46 UTC",32.1832,-115.2612,3.6,1.60,20,"Baja California, Mexico"
+uw,09211845,0,"Tuesday, September 21, 2010 18:45:23 UTC",41.8608,-124.3003,2.8,10.00,17,"offshore Northern California"
+nc,71458470,0,"Tuesday, September 21, 2010 18:35:26 UTC",35.9965,-120.5722,1.2,3.80,13,"Central California"
+ak,10080522,1,"Tuesday, September 21, 2010 18:24:06 UTC",60.9331,-151.7079,1.7,89.90,18,"Kenai Peninsula, Alaska"

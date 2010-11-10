@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71245171,0,"Tuesday, July  7, 2009 19:55:35 UTC",35.4287,-120.5678,1.6,2.10,13,"Central California"
+us,2009iubp,6,"Tuesday, July  7, 2009 19:14:10 UTC",-5.5537,151.9812,5.1,51.10,22,"New Britain region, Papua New Guinea"
+us,2009iubh,6,"Tuesday, July  7, 2009 19:11:45 UTC",75.2753,-72.2013,5.9,10.00,157,"Baffin Bay"

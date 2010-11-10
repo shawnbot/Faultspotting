@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10793101,2,"Sunday, September  5, 2010 12:48:15 UTC",33.3167,-116.2345,1.3,9.80,50,"Southern California"
+ci,10793093,2,"Sunday, September  5, 2010 12:34:46 UTC",33.9807,-116.4525,1.4,5.10,36,"Southern California"
+ci,10793077,2,"Sunday, September  5, 2010 12:28:23 UTC",32.7170,-115.9440,1.4,9.00,18,"Southern California"
+us,2010ava8,6,"Sunday, September  5, 2010 12:19:20 UTC",5.9814,126.6971,5.0,72.90,21,"Mindanao, Philippines"

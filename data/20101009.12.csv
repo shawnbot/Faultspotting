@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,a0003xq4,3,"Saturday, October  9, 2010 18:36:51 UTC",48.2393,154.2115,4.7,61.60,24,"Kuril Islands"
+nc,71466485,1,"Saturday, October  9, 2010 18:30:26 UTC",38.8353,-122.7537,1.6,1.50,22,"Northern California"
+ci,14857668,2,"Saturday, October  9, 2010 18:21:26 UTC",33.1837,-116.0555,1.8,7.30,75,"Southern California"

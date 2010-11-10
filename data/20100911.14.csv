@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10796245,2,"Saturday, September 11, 2010 20:56:43 UTC",32.7495,-116.0417,1.7,10.50,48,"Southern California"
+ak,10077810,1,"Saturday, September 11, 2010 20:43:09 UTC",60.4120,-149.8062,1.2,33.60, 9,"Kenai Peninsula, Alaska"
+ak,10077807,1,"Saturday, September 11, 2010 20:31:16 UTC",63.0511,-147.9080,1.6,0.00, 9,"Central Alaska"
+ak,10077804,1,"Saturday, September 11, 2010 20:30:28 UTC",59.8765,-152.0134,3.0,11.70,21,"Southern Alaska"
+ci,10796221,2,"Saturday, September 11, 2010 20:24:41 UTC",34.4133,-119.7982,1.9,4.50,17,"Santa Barbara Channel, California"
+ci,10796205,2,"Saturday, September 11, 2010 20:14:37 UTC",32.5610,-115.7052,1.7,5.70,18,"Baja California, Mexico"

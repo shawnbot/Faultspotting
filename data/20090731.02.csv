@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10002538,1,"Friday, July 31, 2009 08:25:08 UTC",53.9472,-166.0371,1.5,0.00,06,"Fox Islands, Aleutian Islands, Alaska"
+ci,14493360,1,"Friday, July 31, 2009 08:21:00 UTC",33.9668,-117.7623,1.4,12.90,49,"Greater Los Angeles area, California"
+ak,10002533,1,"Friday, July 31, 2009 08:18:20 UTC",51.1787,-177.4196,2.9,0.50,14,"Andreanof Islands, Aleutian Islands, Alaska"
+us,2009jtas,6,"Friday, July 31, 2009 08:14:39 UTC",-20.9466,14.9284,5.2,10.00,28,"Namibia"
+us,2009jtar,Q,"Friday, July 31, 2009 08:07:12 UTC",-20.7171,-174.1520,5.3,10.00,137,"Tonga"

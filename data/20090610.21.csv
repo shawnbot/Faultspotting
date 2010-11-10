@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009htak,6,"Thursday, June 11, 2009 03:37:52 UTC",-24.1619,-176.9223,5.0,108.40,66,"south of the Fiji Islands"
+ci,14471912,1,"Thursday, June 11, 2009 03:37:16 UTC",33.7271,-116.0910,1.5,5.70,32,"Southern California"
+nc,40237983,1,"Thursday, June 11, 2009 03:23:53 UTC",39.0448,-122.8770,1.8,1.30,11,"Northern California"
+ci,14471904,1,"Thursday, June 11, 2009 03:11:33 UTC",33.4373,-116.9535,1.4,7.30,36,"Southern California"

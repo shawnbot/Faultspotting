@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71278681,0,"Thursday, September 10, 2009 09:30:59 UTC",38.7830,-122.7347,1.0,2.70,14,"Northern California"
+us,2009lja1,7,"Thursday, September 10, 2009 09:29:20 UTC",43.2685,146.1696,4.8,88.00,117,"Kuril Islands"
+ak,10008895,1,"Thursday, September 10, 2009 09:24:26 UTC",63.1004,-150.1738,1.6,100.00, 8,"Central Alaska"
+ak,10008894,1,"Thursday, September 10, 2009 09:21:15 UTC",51.9287,-178.0168,1.6,90.70, 6,"Andreanof Islands, Aleutian Islands, Alaska"
+ci,14508652,1,"Thursday, September 10, 2009 09:19:29 UTC",33.6893,-116.7371,1.6,19.30,72,"Southern California"
+ci,14508636,1,"Thursday, September 10, 2009 09:11:04 UTC",36.4090,-117.8333,1.7,2.30,18,"Central California"
+nc,71278661,0,"Thursday, September 10, 2009 09:08:33 UTC",39.3945,-122.9057,2.0,7.80,23,"Northern California"

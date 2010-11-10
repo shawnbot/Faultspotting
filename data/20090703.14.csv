@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009iqce,7,"Friday, July  3, 2009 20:30:37 UTC",25.3425,-109.7234,4.8,10.00,105,"Gulf of California"
+us,2009iqcf,6,"Friday, July  3, 2009 20:28:19 UTC",-49.8146,-8.1204,5.6,35.00,47,"southern Mid-Atlantic Ridge"
+ak,00111302,1,"Friday, July  3, 2009 20:17:14 UTC",55.3763,-160.4693,2.5,35.00,08,"Alaska Peninsula"
+hv,00034577,0,"Friday, July  3, 2009 19:58:54 UTC",19.7988,-155.5667,2.8,34.60,00,"Island of Hawaii, Hawaii"

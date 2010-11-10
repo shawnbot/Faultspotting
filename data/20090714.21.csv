@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71248501,0,"Wednesday, July 15, 2009 03:48:33 UTC",35.6468,-120.9378,1.2,6.60,14,"Central California"
+ak,10000715,1,"Wednesday, July 15, 2009 03:37:15 UTC",51.5470,178.9055,1.9,8.30, 5,"Rat Islands, Aleutian Islands, Alaska"
+hv,00034748,0,"Wednesday, July 15, 2009 03:37:00 UTC",18.7750,-156.0870,2.4,10.50,00,"Hawaii region, Hawaii"
+ci,10438505,1,"Wednesday, July 15, 2009 03:13:51 UTC",33.3540,-116.4073,1.5,17.20,29,"Southern California"
+nc,71248481,0,"Wednesday, July 15, 2009 03:08:56 UTC",36.9345,-121.8080,1.4,6.00,12,"Northern California"
+hv,00034747,0,"Wednesday, July 15, 2009 03:04:16 UTC",19.2178,-155.3703,1.9,5.00, 0,"Island of Hawaii, Hawaii"
+pr,p0919602,1,"Wednesday, July 15, 2009 03:01:42 UTC",17.9362,-65.3907,2.7,18.00,06,"Puerto Rico region"

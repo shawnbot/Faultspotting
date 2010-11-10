@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nn,00287132,1,"Tuesday, June 30, 2009 16:48:10 UTC",35.9980,-115.2370,1.9,0.00,28,"Nevada"
+nc,71241356,0,"Tuesday, June 30, 2009 16:38:03 UTC",38.8263,-122.8050,2.4,1.30,30,"Northern California"
+ci,14481400,1,"Tuesday, June 30, 2009 16:32:29 UTC",34.9866,-118.8691,2.2,8.60,44,"Central California"
+pr,p0918107,1,"Tuesday, June 30, 2009 16:29:23 UTC",18.3175,-65.1530,2.9,107.80,17,"Puerto Rico region"
+us,2009ima7,6,"Tuesday, June 30, 2009 16:22:33 UTC",15.4878,-86.4426,5.0,25.00,79,"Honduras"

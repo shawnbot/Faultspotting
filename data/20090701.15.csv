@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10433569,1,"Wednesday, July  1, 2009 21:41:21 UTC",33.3240,-116.2573,1.2,0.00,13,"Southern California"
+ak,00111111,1,"Wednesday, July  1, 2009 21:22:16 UTC",62.9469,-148.0775,1.0,3.60,07,"Central Alaska"
+us,2009incm,7,"Wednesday, July  1, 2009 21:10:44 UTC",1.0458,125.9955,5.8,35.00,84,"Molucca Sea"
+hv,00034533,0,"Wednesday, July  1, 2009 21:02:35 UTC",19.4045,-155.2788,1.8,0.40, 0,"Island of Hawaii, Hawaii"

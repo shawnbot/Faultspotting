@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10007155,1,"Sunday, August 30, 2009 22:15:15 UTC",62.5374,-150.6893,1.6,47.70,06,"Central Alaska"
+pr,p0924215,1,"Sunday, August 30, 2009 22:06:34 UTC",18.4678,-64.9472,3.2,91.00,17,"Virgin Islands region"
+ak,10007148,1,"Sunday, August 30, 2009 22:04:59 UTC",64.5628,-149.3819,1.7,19.70, 7,"Central Alaska"
+us,2009kycr,6,"Sunday, August 30, 2009 22:04:34 UTC",2.2073,128.5966,5.4,58.50,29,"Halmahera, Indonesia"
+us,2009kycq,6,"Sunday, August 30, 2009 22:03:09 UTC",2.1635,128.5774,5.2,69.10,31,"Halmahera, Indonesia"
+nc,71273591,0,"Sunday, August 30, 2009 21:51:07 UTC",36.6363,-121.2510,2.3,6.70,39,"Central California"
+ak,10007146,1,"Sunday, August 30, 2009 21:50:46 UTC",60.8464,-150.8155,2.0,27.00, 8,"Kenai Peninsula, Alaska"

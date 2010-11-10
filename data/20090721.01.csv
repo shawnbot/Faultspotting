@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10440921,1,"Tuesday, July 21, 2009 07:57:26 UTC",33.7046,-116.8140,1.2,15.50,56,"Southern California"
+ak,10001314,1,"Tuesday, July 21, 2009 07:36:36 UTC",63.3627,-150.8833,1.5,0.30,04,"Central Alaska"
+ci,10440913,1,"Tuesday, July 21, 2009 07:35:23 UTC",33.0950,-116.2235,1.4,9.20,53,"Southern California"
+ak,10001313,1,"Tuesday, July 21, 2009 07:25:23 UTC",64.1831,-148.5023,1.4,100.00,05,"Central Alaska"
+us,2009jiam,6,"Tuesday, July 21, 2009 07:13:28 UTC",6.0926,126.1317,5.0,119.00,22,"Mindanao, Philippines"

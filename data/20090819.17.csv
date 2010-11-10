@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nn,00290526,1,"Wednesday, August 19, 2009 23:46:04 UTC",39.0000,-117.3400,2.2,16.00,11,"Nevada"
+ci,14499708,1,"Wednesday, August 19, 2009 23:44:52 UTC",33.5381,-116.5256,1.0,13.70,27,"Southern California"
+nc,71268206,0,"Wednesday, August 19, 2009 23:39:04 UTC",38.8267,-122.7910,1.6,2.20,18,"Northern California"
+ci,14499692,1,"Wednesday, August 19, 2009 23:24:28 UTC",34.2205,-117.4058,1.9,6.60,16,"Greater Los Angeles area, California"
+us,2009kmcg,6,"Wednesday, August 19, 2009 23:21:30 UTC",51.6678,-173.5886,4.9,47.70,98,"Andreanof Islands, Aleutian Islands, Alaska"
+nn,00290521,1,"Wednesday, August 19, 2009 23:12:35 UTC",39.1780,-115.7060,2.5,0.00,30,"Nevada"

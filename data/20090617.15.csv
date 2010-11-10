@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14475792,1,"Wednesday, June 17, 2009 21:39:44 UTC",34.3330,-116.4716,1.6,8.20,28,"Southern California"
+nn,00286317,1,"Wednesday, June 17, 2009 21:35:10 UTC",38.7170,-117.1120,1.5,0.00,10,"Nevada"
+uw,06172102,0,"Wednesday, June 17, 2009 21:02:50 UTC",48.9251,-123.8190,2.1,43.00,13,"Vancouver Island, Canada region"
+ci,14475776,1,"Wednesday, June 17, 2009 20:53:13 UTC",35.9575,-117.3311,1.6,6.30,22,"Central California"
+ak,00109359,1,"Wednesday, June 17, 2009 20:52:56 UTC",51.8735,179.7032,2.0,100.00,08,"Rat Islands, Aleutian Islands, Alaska"

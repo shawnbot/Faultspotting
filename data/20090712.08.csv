@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71247426,1,"Sunday, July 12, 2009 14:48:04 UTC",37.4408,-118.5703,2.7,13.80,30,"Central California"
+nc,71247421,0,"Sunday, July 12, 2009 14:47:37 UTC",37.4422,-118.5668,2.3,14.10,28,"Central California"
+us,2009izau,6,"Sunday, July 12, 2009 14:43:50 UTC",-30.6387,-71.0827,4.8,55.30,87,"Coquimbo, Chile"
+nc,71247416,0,"Sunday, July 12, 2009 14:40:10 UTC",38.8245,-122.8100,1.5,3.30,21,"Northern California"
+ci,10437513,1,"Sunday, July 12, 2009 14:24:40 UTC",36.0873,-117.8651,1.5,4.20,18,"Central California"

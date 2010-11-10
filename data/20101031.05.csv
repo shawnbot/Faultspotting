@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71481776,0,"Sunday, October 31, 2010 11:30:35 UTC",40.6888,-122.4188,2.0,23.20, 8,"Northern California"
+ci,14871780,2,"Sunday, October 31, 2010 11:28:28 UTC",33.3752,-117.9977,2.7,2.00,72,"Gulf of Santa Catalina, California"
+ci,14871772,2,"Sunday, October 31, 2010 11:08:41 UTC",36.0985,-117.8603,1.7,5.60,16,"Central California"
+ci,14871764,2,"Sunday, October 31, 2010 11:01:23 UTC",32.8270,-115.9607,1.4,8.30,16,"Southern California"

@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10117698,1,"Wednesday, November 10, 2010 10:31:05 UTC",63.3468,-149.8666,1.4,108.90, 9,"Central Alaska"
+us,c00008kz,8,"Wednesday, November 10, 2010 10:30:20 UTC",14.9562,119.8255,5.2,59.20,83,"Luzon, Philippines"
+ak,10117695,1,"Wednesday, November 10, 2010 10:25:03 UTC",64.7713,-151.4887,1.6,0.00,13,"Central Alaska"
+ci,10836773,2,"Wednesday, November 10, 2010 10:15:13 UTC",34.0877,-117.4395,1.0,0.10,15,"Greater Los Angeles area, California"
+ci,10836765,2,"Wednesday, November 10, 2010 10:12:57 UTC",33.6158,-116.8593,1.4,21.70,43,"Southern California"

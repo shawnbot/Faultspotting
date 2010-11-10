@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009kucf,6,"Wednesday, August 26, 2009 22:44:06 UTC",15.0819,-93.5203,4.8,101.80,96,"offshore Chiapas, Mexico"
+nc,71271896,0,"Wednesday, August 26, 2009 22:37:56 UTC",37.3982,-118.4753,1.3,9.50,11,"Central California"
+ci,14502780,1,"Wednesday, August 26, 2009 22:37:11 UTC",34.3063,-118.1973,1.8,9.10,33,"Southern California"
+ci,14502772,1,"Wednesday, August 26, 2009 22:35:10 UTC",33.4831,-116.8945,1.1,13.30,36,"Southern California"
+ak,10006494,1,"Wednesday, August 26, 2009 22:25:03 UTC",63.3421,-151.1949,2.9,0.00,30,"Central Alaska"
+us,2009kucb,6,"Wednesday, August 26, 2009 22:20:52 UTC",9.3672,124.0365,5.4,569.90,82,"Bohol, Philippines"

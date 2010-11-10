@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10079928,1,"Sunday, September 19, 2010 04:44:27 UTC",60.1066,-141.4248,1.9,-9.90,12,"Southern Alaska"
+ci,14843780,2,"Sunday, September 19, 2010 04:29:03 UTC",35.0907,-117.0013,1.6,2.50,19,"Southern California"
+mb,25861,1,"Sunday, September 19, 2010 04:16:39 UTC",47.8188,-114.2205,1.8,5.90,10,"western Montana"
+ak,10079922,1,"Sunday, September 19, 2010 04:15:41 UTC",60.8284,-150.0439,2.8,35.40,55,"Kenai Peninsula, Alaska"

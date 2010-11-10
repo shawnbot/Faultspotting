@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71463455,0,"Sunday, October  3, 2010 10:54:38 UTC",37.0120,-121.1582,1.2,4.00, 8,"Central California"
+nn,00317781,7,"Sunday, October  3, 2010 10:49:01 UTC",37.1158,-117.3832,1.9,7.00,28,"Central California"
+us,2010bya4,6,"Sunday, October  3, 2010 10:31:51 UTC",16.1338,-100.1210,4.2,35.00,15,"offshore Guerrero, Mexico"
+nn,00317779,7,"Sunday, October  3, 2010 10:01:19 UTC",37.1413,-117.3867,1.8,6.90,27,"Nevada"

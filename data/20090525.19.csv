@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14463120,1,"Tuesday, May 26, 2009 01:51:15 UTC",35.1791,-118.1765,1.6,9.90,28,"Southern California"
+ak,00106340,1,"Tuesday, May 26, 2009 01:48:39 UTC",62.9143,-149.3317,1.7,35.70,13,"Central Alaska"
+us,2009hcad,6,"Tuesday, May 26, 2009 01:18:54 UTC",-34.8824,54.3227,5.0,10.00,20,"Southwest Indian Ridge"
+ak,00106335,1,"Tuesday, May 26, 2009 01:03:48 UTC",60.5664,-152.1250,2.0,90.50,18,"Southern Alaska"
+ci,14463104,1,"Tuesday, May 26, 2009 01:01:41 UTC",36.3828,-117.8363,2.0,6.00,27,"Central California"

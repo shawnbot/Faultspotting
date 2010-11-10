@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+uu,00007301,1,"Wednesday, August 18, 2010 12:53:01 UTC",38.9715,-111.5885,2.9,0.00, 8,"Utah"
+uu,00007300,1,"Wednesday, August 18, 2010 12:51:43 UTC",37.6348,-113.2355,4.1,1.20,23,"Utah"
+ci,10781397,2,"Wednesday, August 18, 2010 12:44:25 UTC",32.3405,-115.5402,2.5,0.40,22,"Baja California, Mexico"

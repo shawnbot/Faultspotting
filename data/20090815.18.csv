@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10004967,1,"Sunday, August 16, 2009 00:42:12 UTC",61.7317,-145.1549,2.0,96.00,05,"Southern Alaska"
+ak,10004966,1,"Sunday, August 16, 2009 00:27:18 UTC",57.3589,-154.5925,2.1,35.00,04,"Kodiak Island region, Alaska"
+nc,71266236,0,"Sunday, August 16, 2009 00:27:06 UTC",38.7927,-122.7995,1.6,4.30,11,"Northern California"
+ak,10004965,1,"Sunday, August 16, 2009 00:08:57 UTC",63.0506,-151.4359,1.8,0.00,06,"Central Alaska"
+pr,p0922801,1,"Sunday, August 16, 2009 00:01:40 UTC",19.1057,-65.9638,3.3,117.00,06,"Puerto Rico region"
+pr,p0922722,1,"Saturday, August 15, 2009 23:59:56 UTC",18.9638,-65.7082,3.3,113.80,14,"Puerto Rico region"

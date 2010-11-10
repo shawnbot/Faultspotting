@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,51222478,1,"Monday, June  1, 2009 04:51:09 UTC",37.5195,-118.8223,1.9,6.80,29,"Central California"
+pt,09152000,A,"Monday, June  1, 2009 04:35:05 UTC",19.8799,-63.2900,5.0,33.00,17,"north of Anguilla, Leeward Islands"
+at,00383083,1,"Monday, June  1, 2009 04:33:50 UTC",19.8760,-63.4040,4.5,35.00,17,"north of Anguilla, Leeward Islands"

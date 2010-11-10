@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10073434,1,"Monday, August 23, 2010 06:12:37 UTC",63.1140,-151.3267,1.5,0.10, 8,"Central Alaska"
+ak,10073432,1,"Monday, August 23, 2010 06:11:13 UTC",61.6935,-149.7424,1.9,33.80,21,"Southern Alaska"
+ci,10784621,2,"Monday, August 23, 2010 06:03:34 UTC",33.4640,-116.5800,1.0,13.30,35,"Southern California"
+ak,10073425,1,"Monday, August 23, 2010 06:02:48 UTC",61.1939,-151.6732,1.7,119.00,28,"Southern Alaska"

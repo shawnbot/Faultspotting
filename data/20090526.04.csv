@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009hca1,7,"Tuesday, May 26, 2009 10:31:21 UTC",42.0428,142.2209,4.7,59.40,55,"Hokkaido, Japan region"
+nc,51222208,1,"Tuesday, May 26, 2009 10:28:21 UTC",39.2248,-120.0928,1.5,6.80,14,"Northern California"
+us,2009hcay,7,"Tuesday, May 26, 2009 10:11:59 UTC",27.6617,140.2482,4.5,479.90,27,"Bonin Islands, Japan region"
+nc,51222206,1,"Tuesday, May 26, 2009 10:00:02 UTC",38.7927,-122.7577,1.4,3.00,25,"Northern California"

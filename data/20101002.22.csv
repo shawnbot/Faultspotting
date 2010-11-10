@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14852140,2,"Sunday, October  3, 2010 04:35:33 UTC",34.1238,-116.9787,1.0,7.70,24,"Southern California"
+us,2010byan,6,"Sunday, October  3, 2010 04:35:12 UTC",53.6093,-163.7632,4.8,34.60,83,"Unimak Island region, Alaska"
+hv,60182671,1,"Sunday, October  3, 2010 04:29:48 UTC",19.3185,-155.1208,2.0,8.30,30,"Island of Hawaii, Hawaii"
+ak,10091742,1,"Sunday, October  3, 2010 04:07:11 UTC",63.2258,-150.5846,2.0,121.00,10,"Central Alaska"
+hv,60182656,1,"Sunday, October  3, 2010 04:02:24 UTC",19.1932,-155.5657,1.7,1.10,17,"Island of Hawaii, Hawaii"

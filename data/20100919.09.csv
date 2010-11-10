@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14844036,2,"Sunday, September 19, 2010 15:48:38 UTC",35.8448,-117.6765,1.9,6.50,17,"Central California"
+ci,14844028,2,"Sunday, September 19, 2010 15:25:05 UTC",33.4590,-116.4708,1.5,7.50,71,"Southern California"
+ak,10079982,1,"Sunday, September 19, 2010 15:24:52 UTC",60.2685,-141.3566,1.7,7.60,15,"Southern Alaska"
+ci,14844020,2,"Sunday, September 19, 2010 15:23:11 UTC",36.0967,-117.8583,1.2,5.60,12,"Central California"
+ak,10079980,1,"Sunday, September 19, 2010 15:06:24 UTC",59.6868,-153.1885,1.8,90.40, 8,"Southern Alaska"
+us,2010bja5,6,"Sunday, September 19, 2010 15:03:29 UTC",-6.3149,147.6746,5.1,54.90,32,"eastern New Guinea region, Papua New Guinea"
+ak,10079979,1,"Sunday, September 19, 2010 15:00:58 UTC",58.7812,-152.1238,2.0,29.00,12,"Kodiak Island region, Alaska"
+ci,14844012,2,"Sunday, September 19, 2010 14:58:49 UTC",36.3808,-117.8487,1.8,0.10,20,"Central California"

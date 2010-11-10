@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+uu,00004701,0,"Saturday, November  6, 2010 07:52:37 UTC",44.5556,-110.9950,1.5,11.10,13,"Yellowstone National Park, Wyoming"
+ci,10833781,2,"Saturday, November  6, 2010 07:06:39 UTC",32.1118,-115.2793,3.0,7.10,15,"Baja California, Mexico"
+nc,71484751,0,"Saturday, November  6, 2010 06:59:47 UTC",38.8148,-122.8000,1.1,1.10,16,"Northern California"

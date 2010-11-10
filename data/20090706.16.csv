@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00111640,1,"Monday, July  6, 2009 22:42:00 UTC",65.5002,-147.9503,3.0,3.40,25,"northern Alaska"
+us,2009itbz,7,"Monday, July  6, 2009 22:35:05 UTC",24.8396,128.0099,5.8,13.90,204,"southeast of the Ryukyu Islands, Japan"
+nc,71244616,0,"Monday, July  6, 2009 22:10:45 UTC",38.8015,-122.8093,1.2,2.80,14,"Northern California"
+nn,00287541,1,"Monday, July  6, 2009 22:08:27 UTC",41.0870,-117.5030,2.6,0.00, 9,"Nevada"
+nn,00287540,1,"Monday, July  6, 2009 22:08:24 UTC",40.4600,-116.9020,2.4,0.00, 8,"Nevada"

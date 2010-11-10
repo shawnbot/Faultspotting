@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71466925,0,"Sunday, October 10, 2010 20:36:27 UTC",38.8210,-122.8287,1.5,0.60,20,"Northern California"
+ak,10097047,1,"Sunday, October 10, 2010 20:35:45 UTC",59.1260,-147.9741,4.4,15.00,25,"Gulf of Alaska"
+nc,71466920,1,"Sunday, October 10, 2010 20:34:12 UTC",38.8302,-122.8013,1.6,2.20,28,"Northern California"
+ak,10097041,1,"Sunday, October 10, 2010 20:15:43 UTC",65.1820,-150.3204,1.7,1.40,11,"northern Alaska"
+nm,101010l,A,"Sunday, October 10, 2010 20:09:49 UTC",35.3051,-92.3108,1.7,6.10, 7,"Arkansas"

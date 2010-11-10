@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10782701,2,"Friday, August 20, 2010 01:54:42 UTC",32.7310,-115.9872,1.7,11.70,29,"Southern California"
+ci,10782685,2,"Friday, August 20, 2010 01:33:49 UTC",33.7660,-116.1383,1.0,4.80,40,"Southern California"
+hv,60173416,1,"Friday, August 20, 2010 01:31:55 UTC",19.4275,-155.3312,2.9,8.70,37,"Island of Hawaii, Hawaii"
+nc,71443985,1,"Friday, August 20, 2010 01:30:07 UTC",36.8375,-121.5742,1.9,6.10,41,"Central California"
+ci,10782677,2,"Friday, August 20, 2010 01:25:37 UTC",33.8803,-116.7308,1.2,15.80,45,"Southern California"
+ci,10782669,2,"Friday, August 20, 2010 01:24:51 UTC",34.0093,-116.7765,1.1,19.40,28,"Southern California"
+us,2010aeac,6,"Friday, August 20, 2010 01:12:05 UTC",18.6742,146.3804,4.9,56.60,58,"Pagan region, Northern Mariana Islands"

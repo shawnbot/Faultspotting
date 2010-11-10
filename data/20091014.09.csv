@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10014722,1,"Wednesday, October 14, 2009 15:32:55 UTC",60.4775,-151.0230,1.6,34.30,14,"Kenai Peninsula, Alaska"
+ci,10480885,1,"Wednesday, October 14, 2009 15:29:35 UTC",33.4199,-116.4526,1.0,8.60,41,"Southern California"
+ak,10014719,1,"Wednesday, October 14, 2009 15:29:27 UTC",59.8611,-149.1713,2.5,0.10,33,"Kenai Peninsula, Alaska"
+nc,71299401,0,"Wednesday, October 14, 2009 15:14:25 UTC",38.7523,-122.7098,1.1,0.90, 8,"Northern California"
+nc,71299396,0,"Wednesday, October 14, 2009 15:11:28 UTC",35.3432,-121.0725,3.0,54.20,10,"offshore Central California"

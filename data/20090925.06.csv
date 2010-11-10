@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71286291,0,"Friday, September 25, 2009 12:47:37 UTC",38.8213,-122.8028,1.7,1.30,26,"Northern California"
+us,2009lzas,7,"Friday, September 25, 2009 12:20:32 UTC",14.0520,-92.0478,4.7,29.00,105,"offshore Guatemala"
+ak,10011342,1,"Friday, September 25, 2009 12:04:41 UTC",55.1468,-162.5303,2.9,111.10,13,"Alaska Peninsula"

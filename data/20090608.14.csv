@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14470552,1,"Monday, June  8, 2009 20:23:29 UTC",34.0781,-118.1903,1.9,24.50,13,"Greater Los Angeles area, California"
+ci,14470544,1,"Monday, June  8, 2009 20:22:09 UTC",33.9535,-118.3696,2.3,15.20,64,"Greater Los Angeles area, California"
+us,2009hqbu,7,"Monday, June  8, 2009 20:20:05 UTC",-8.6407,-71.4221,5.0,538.90,136,"Acre, Brazil"
+ak,00108225,1,"Monday, June  8, 2009 20:12:21 UTC",63.5098,-146.6890,1.5,1.80,13,"Central Alaska"

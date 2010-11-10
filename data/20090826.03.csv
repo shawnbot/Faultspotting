@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14502572,1,"Wednesday, August 26, 2009 09:53:20 UTC",32.7210,-115.8443,1.4,2.60,23,"Southern California"
+ci,14502564,1,"Wednesday, August 26, 2009 09:46:57 UTC",33.2998,-116.0293,1.5,1.50,59,"Southern California"
+nc,71271431,0,"Wednesday, August 26, 2009 09:44:10 UTC",38.8268,-122.8043,2.4,3.30,45,"Northern California"
+ci,14502556,1,"Wednesday, August 26, 2009 09:25:53 UTC",36.0516,-117.8526,1.8,3.30,30,"Central California"
+us,2009kuax,7,"Wednesday, August 26, 2009 09:16:56 UTC",11.3857,124.4308,4.9,56.50,29,"Leyte, Philippines"
+nc,71271421,0,"Wednesday, August 26, 2009 09:15:02 UTC",36.5982,-121.2047,1.2,7.30,10,"Central California"
+pr,p0923808,1,"Wednesday, August 26, 2009 09:11:48 UTC",19.0437,-65.4887,3.2,26.90,32,"Puerto Rico region"

@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14512324,1,"Saturday, September 19, 2009 16:58:22 UTC",35.4036,-118.5450,1.6,7.30,22,"Central California"
+ak,10010498,1,"Saturday, September 19, 2009 16:44:47 UTC",63.3162,-149.3927,1.5,10.00,12,"Central Alaska"
+us,2009ltba,8,"Saturday, September 19, 2009 16:38:07 UTC",51.2677,178.4277,3.9,27.40,11,"Rat Islands, Aleutian Islands, Alaska"
+ci,14512308,1,"Saturday, September 19, 2009 16:27:23 UTC",33.1408,-116.8890,1.1,7.50,20,"Southern California"
+pr,p0926208,1,"Saturday, September 19, 2009 16:20:29 UTC",18.3673,-64.4678,3.0,72.90, 6,"Virgin Islands region"
+pr,p0926206,1,"Saturday, September 19, 2009 16:12:51 UTC",18.2227,-68.9332,3.2,89.20,14,"Dominican Republic region"

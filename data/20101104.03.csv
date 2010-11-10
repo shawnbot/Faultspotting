@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14874228,2,"Thursday, November  4, 2010 09:31:34 UTC",35.8057,-118.0458,1.7,9.40,35,"Central California"
+ci,14874220,2,"Thursday, November  4, 2010 09:28:32 UTC",35.8135,-118.0623,1.4,13.80,22,"Central California"
+ci,14874196,2,"Thursday, November  4, 2010 09:03:22 UTC",34.0067,-116.7532,1.6,11.60,85,"Southern California"
+us,b0000ag1,3,"Thursday, November  4, 2010 08:59:07 UTC",-8.0121,104.6244,4.8,30.70,16,"southwest of Sumatra, Indonesia"
+nc,71483731,0,"Thursday, November  4, 2010 08:54:09 UTC",37.3720,-118.6865,1.4,16.20,11,"Central California"
+nc,71483716,1,"Thursday, November  4, 2010 08:52:56 UTC",38.8210,-122.8102,1.4,3.30,27,"Northern California"

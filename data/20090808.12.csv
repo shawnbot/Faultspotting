@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71262161,0,"Saturday, August  8, 2009 18:41:46 UTC",38.8068,-122.8127,1.1,1.60,12,"Northern California"
+uw,08081841,0,"Saturday, August  8, 2009 18:41:28 UTC",47.5490,-122.3760,1.8,12.20,32,"Seattle-Tacoma urban area, Washington"
+ak,10003815,1,"Saturday, August  8, 2009 18:24:26 UTC",51.5917,178.8974,2.5,26.80,05,"Rat Islands, Aleutian Islands, Alaska"
+ak,10003813,1,"Saturday, August  8, 2009 18:17:49 UTC",56.2698,-151.6669,3.2,36.10,18,"Kodiak Island region, Alaska"

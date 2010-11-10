@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nn,00286901,1,"Friday, June 26, 2009 15:42:44 UTC",37.6839,-114.5370,1.8,0.00,15,"Nevada"
+ci,14480096,1,"Friday, June 26, 2009 15:31:19 UTC",34.6318,-120.7120,2.0,6.00,12,"offshore Central California"
+us,2009iiaw,6,"Friday, June 26, 2009 15:30:17 UTC",-15.2342,-172.1655,5.3,44.70,97,"Samoa Islands region"

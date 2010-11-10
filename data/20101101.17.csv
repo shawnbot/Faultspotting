@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,a000474j,4,"Monday, November  1, 2010 23:16:48 UTC",16.9972,-93.3676,5.3,190.20,238,"Chiapas, Mexico"
+ak,10112671,1,"Monday, November  1, 2010 23:16:16 UTC",62.2644,-149.1878,2.1,26.90,10,"Central Alaska"
+ak,10112664,1,"Monday, November  1, 2010 23:12:39 UTC",62.4896,-151.5797,3.0,0.00,23,"Central Alaska"
+hv,60188516,1,"Monday, November  1, 2010 23:07:55 UTC",19.3003,-155.2105,2.6,9.40,31,"Island of Hawaii, Hawaii"

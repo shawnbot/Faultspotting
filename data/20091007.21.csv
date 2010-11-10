@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14524644,1,"Thursday, October  8, 2009 03:48:03 UTC",33.4355,-116.5480,1.1,7.20,44,"Southern California"
+ci,14524636,1,"Thursday, October  8, 2009 03:44:21 UTC",33.5035,-116.4548,1.2,6.10,48,"Southern California"
+ci,14524628,C,"Thursday, October  8, 2009 03:31:17 UTC",32.7256,-118.2116,3.8,0.20,18,"Channel Islands region, California"

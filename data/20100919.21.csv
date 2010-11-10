@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71457720,1,"Monday, September 20, 2010 03:36:53 UTC",36.1148,-121.6258,2.2,10.40,30,"Central California"
+us,2010bkam,6,"Monday, September 20, 2010 03:25:27 UTC",-28.0006,-66.3997,4.8,136.10,125,"Catamarca, Argentina"
+ci,14844388,2,"Monday, September 20, 2010 03:07:31 UTC",35.8477,-117.6827,1.2,5.20,19,"Central California"

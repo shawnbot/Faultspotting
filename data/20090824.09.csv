@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10006134,1,"Monday, August 24, 2009 15:49:47 UTC",63.1463,-151.3268,1.1,0.10, 5,"Central Alaska"
+nn,00290854,1,"Monday, August 24, 2009 15:40:09 UTC",37.1090,-116.7560,1.0,0.00,29,"Nevada"
+nn,00290853,1,"Monday, August 24, 2009 15:36:39 UTC",35.8700,-114.9440,1.6,0.00, 9,"Nevada"
+ak,10006132,1,"Monday, August 24, 2009 15:33:47 UTC",61.9752,-149.8322,1.7,33.80,16,"Southern Alaska"
+ak,10006131,1,"Monday, August 24, 2009 15:08:35 UTC",62.5539,-151.0896,1.3,44.10, 4,"Central Alaska"

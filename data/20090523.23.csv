@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14462336,1,"Sunday, May 24, 2009 05:54:19 UTC",33.8935,-116.8485,1.5,17.60,66,"Southern California"
+ci,14462328,1,"Sunday, May 24, 2009 05:49:13 UTC",33.3320,-116.2600,1.2,11.10,67,"Southern California"
+ak,00106225,1,"Sunday, May 24, 2009 05:47:57 UTC",54.6364,-161.6005,2.9,31.40,09,"Alaska Peninsula"
+us,2009haaw,7,"Sunday, May 24, 2009 05:14:36 UTC",-7.0961,150.9359,4.9,39.50,30,"New Britain region, Papua New Guinea"
+pr,p0914403,1,"Sunday, May 24, 2009 05:13:23 UTC",18.6810,-64.9468,2.4,73.90, 7,"Virgin Islands region"
+us,2009haau,7,"Sunday, May 24, 2009 05:13:22 UTC",13.3559,-58.8189,4.7,20.00,44,"Barbados region, Windward Islands"
+ci,14462312,1,"Sunday, May 24, 2009 05:09:31 UTC",34.2885,-118.4446,1.4,13.60,24,"Greater Los Angeles area, California"
+nc,51222084,1,"Sunday, May 24, 2009 05:03:15 UTC",35.9925,-120.5877,1.0,4.60,13,"Central California"

@@ -1,0 +1,10 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10825581,2,"Sunday, October 24, 2010 09:52:17 UTC",34.0332,-116.3722,1.6,8.50,57,"Southern California"
+nc,71478211,0,"Sunday, October 24, 2010 09:33:15 UTC",37.8308,-121.9612,1.4,6.70, 8,"San Francisco Bay area, California"
+us,2010cuay,6,"Sunday, October 24, 2010 09:26:27 UTC",-20.1980,-177.6812,4.9,457.60,20,"Fiji region"
+ci,10825541,2,"Sunday, October 24, 2010 09:20:18 UTC",36.1232,-117.8350,2.1,9.60,39,"Central California"
+ci,10825533,2,"Sunday, October 24, 2010 09:11:42 UTC",36.1202,-117.8333,1.8,9.50,36,"Central California"
+us,2010cuaw,6,"Sunday, October 24, 2010 09:11:12 UTC",-19.6723,168.0509,5.1,73.00,19,"Vanuatu"
+ci,10825525,2,"Sunday, October 24, 2010 09:11:08 UTC",36.1183,-117.8358,1.6,10.40,25,"Central California"
+ci,10825517,2,"Sunday, October 24, 2010 09:06:51 UTC",36.1258,-117.8353,2.7,9.50,42,"Central California"
+nc,71478186,0,"Sunday, October 24, 2010 09:04:14 UTC",38.7865,-122.7753,1.0,2.30,14,"Northern California"

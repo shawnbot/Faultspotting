@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,51221962,1,"Thursday, May 21, 2009 23:56:16 UTC",39.2932,-122.9098,1.4,4.40, 8,"Northern California"
+ak,00105918,1,"Thursday, May 21, 2009 23:04:07 UTC",51.9688,-176.2975,4.7,92.10,40,"Andreanof Islands, Aleutian Islands, Alaska"
+ak,00105917,1,"Thursday, May 21, 2009 23:03:51 UTC",65.0255,-147.3520,1.2,1.30,11,"northern Alaska"
+nc,51221961,1,"Thursday, May 21, 2009 23:02:34 UTC",36.3162,-120.8692,1.7,8.60,16,"Central California"

@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10000365,1,"Sunday, July 12, 2009 20:42:07 UTC",59.8775,-152.8546,2.2,94.90,08,"Southern Alaska"
+ak,10000361,1,"Sunday, July 12, 2009 20:40:20 UTC",59.6472,-154.2480,2.6,100.00,14,"Southern Alaska"
+ak,10000364,1,"Sunday, July 12, 2009 20:38:14 UTC",52.9494,-169.2671,2.6,29.60, 5,"Fox Islands, Aleutian Islands, Alaska"
+nm,hnw0712a,A,"Sunday, July 12, 2009 20:28:59 UTC",36.0711,-89.7898,1.9,8.30,20,"southeastern Missouri"
+ak,10000358,1,"Sunday, July 12, 2009 20:25:07 UTC",59.3890,-153.2099,2.3,88.40,23,"Southern Alaska"
+ak,10000357,1,"Sunday, July 12, 2009 20:11:14 UTC",53.0016,-167.7638,2.1,61.40, 7,"Fox Islands, Aleutian Islands, Alaska"
+ak,10000356,1,"Sunday, July 12, 2009 20:00:21 UTC",51.6462,179.7094,2.3,0.40, 7,"Rat Islands, Aleutian Islands, Alaska"

@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+uw,07022240,0,"Thursday, July  2, 2009 22:40:10 UTC",47.8400,-122.5970,2.7,25.30,54,"Seattle-Tacoma urban area, Washington"
+nn,00287384,1,"Thursday, July  2, 2009 22:24:14 UTC",38.9380,-117.0570,1.8,0.00,13,"Nevada"
+ak,00111233,1,"Thursday, July  2, 2009 22:13:16 UTC",51.5638,178.7715,2.1,20.30, 6,"Rat Islands, Aleutian Islands, Alaska"
+ci,10126002,M,"Thursday, July  2, 2009 22:11:34 UTC",33.1605,-115.6436,1.5,1.30,37,"Southern California"
+ak,00111232,1,"Thursday, July  2, 2009 22:04:20 UTC",53.6744,-167.1326,2.4,70.10,06,"Fox Islands, Aleutian Islands, Alaska"

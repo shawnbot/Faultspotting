@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009lpax,7,"Tuesday, September 15, 2009 07:28:14 UTC",-14.3739,98.4481,4.9,10.00,33,"South Indian Ocean"
+us,2009lpaw,6,"Tuesday, September 15, 2009 07:24:23 UTC",-24.0190,-66.5761,4.7,161.50,96,"Jujuy, Argentina"
+nc,71281141,0,"Tuesday, September 15, 2009 06:59:00 UTC",38.8042,-122.7760,1.2,1.80,16,"Northern California"

@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+pt,09226001,B,"Friday, August 14, 2009 19:39:54 UTC",13.9600,93.0600,5.3,55.00,21,"Andaman Islands, India region"
+mb,20883,1,"Friday, August 14, 2009 19:09:42 UTC",46.0801,-113.3818,1.5,0.00, 6,"western Montana"
+nc,71265761,0,"Friday, August 14, 2009 19:09:38 UTC",39.7058,-120.4317,2.2,2.00,14,"Northern California"
+ci,14500488,1,"Friday, August 14, 2009 19:09:01 UTC",32.9880,-116.4601,1.3,11.90,37,"Southern California"
+ak,10004798,1,"Friday, August 14, 2009 19:03:17 UTC",53.1866,-167.0128,2.2,2.00,06,"Fox Islands, Aleutian Islands, Alaska"
+ci,14500480,1,"Friday, August 14, 2009 19:01:19 UTC",32.5718,-116.7846,1.9,3.60,25,"Southern California"

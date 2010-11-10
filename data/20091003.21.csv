@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+pt,09277001,A,"Sunday, October  4, 2009 03:35:57 UTC",-0.3600,133.2800,5.8,27.00,15,"near the north coast of Papua, Indonesia"
+nc,71293221,0,"Sunday, October  4, 2009 03:35:24 UTC",39.0048,-122.3127,2.4,60.10, 8,"Northern California"
+ak,10012876,1,"Sunday, October  4, 2009 03:22:29 UTC",60.9894,-149.0715,1.9,16.50,16,"Kenai Peninsula, Alaska"
+nc,71293211,0,"Sunday, October  4, 2009 03:17:32 UTC",37.8245,-121.9612,1.9,5.80,15,"San Francisco Bay area, California"
+ak,10012875,1,"Sunday, October  4, 2009 03:06:22 UTC",60.3731,-147.7713,2.4,15.40,12,"Southern Alaska"

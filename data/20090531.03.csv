@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14465920,1,"Sunday, May 31, 2009 09:47:05 UTC",33.4591,-117.0886,1.3,9.90,65,"Southern California"
+ak,00107082,1,"Sunday, May 31, 2009 09:43:51 UTC",63.4922,-147.8673,1.0,0.20, 7,"Central Alaska"
+us,2009hhan,7,"Sunday, May 31, 2009 09:27:45 UTC",52.2384,158.9509,4.6,46.90,37,"near the east coast of the Kamchatka Peninsula, Russia"
+ak,00107080,1,"Sunday, May 31, 2009 09:03:25 UTC",54.2089,-164.5255,3.4,83.20,17,"Unimak Island region, Alaska"

@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10792125,2,"Saturday, September  4, 2010 04:53:27 UTC",33.3610,-116.1773,1.7,12.10,21,"Southern California"
+uw,09040452,0,"Saturday, September  4, 2010 04:52:16 UTC",47.4879,-122.0001,2.2,0.00,39,"Seattle-Tacoma urban area, Washington"
+ci,10792117,2,"Saturday, September  4, 2010 04:30:31 UTC",33.9952,-118.7337,2.0,14.80,23,"Santa Monica Bay, California"

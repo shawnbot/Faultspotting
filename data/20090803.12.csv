@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+hv,00034956,0,"Monday, August  3, 2009 18:52:56 UTC",19.5458,-155.6110,2.0,7.10,00,"Island of Hawaii, Hawaii"
+at,00932485,1,"Monday, August  3, 2009 18:40:53 UTC",29.5680,-113.5780,6.0,11.00,60,"Isla Angel de la Guarda, Baja California, Mexico"
+us,2009jwbp,6,"Monday, August  3, 2009 18:33:34 UTC",28.9309,-113.0224,5.0,10.00,65,"Gulf of California"
+pr,p0921504,1,"Monday, August  3, 2009 18:13:46 UTC",19.2045,-65.6275,3.4,80.80,21,"Puerto Rico region"
+nc,71259626,0,"Monday, August  3, 2009 18:10:15 UTC",38.8165,-122.7788,1.9,0.60,11,"Northern California"
+nc,71259621,0,"Monday, August  3, 2009 18:07:35 UTC",38.8195,-122.7950,1.7,0.00,10,"Northern California"
+nc,71259616,0,"Monday, August  3, 2009 18:07:07 UTC",38.7682,-122.7557,2.6,0.00, 8,"Northern California"

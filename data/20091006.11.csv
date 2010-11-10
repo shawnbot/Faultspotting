@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14523660,1,"Tuesday, October  6, 2009 17:40:39 UTC",36.4153,-117.8740,2.1,2.30,20,"Central California"
+ci,14523628,1,"Tuesday, October  6, 2009 17:26:16 UTC",36.4185,-117.8500,2.0,3.00,24,"Central California"
+pt,09279001,A,"Tuesday, October  6, 2009 17:22:54 UTC",19.1000,-107.4000,5.6,10.00,31,"off the coast of Jalisco, Mexico"
+hv,00035530,0,"Tuesday, October  6, 2009 17:20:07 UTC",19.3505,-155.2877,2.7,26.00, 0,"Island of Hawaii, Hawaii"
+ci,14523612,1,"Tuesday, October  6, 2009 17:16:57 UTC",36.3878,-117.8746,2.1,5.20,17,"Central California"
+nc,71295101,0,"Tuesday, October  6, 2009 17:05:33 UTC",36.8850,-121.6225,1.7,7.80,30,"Central California"
+nc,71295096,0,"Tuesday, October  6, 2009 17:04:19 UTC",38.8063,-122.8147,1.8,2.90,29,"Northern California"
+nc,71295091,0,"Tuesday, October  6, 2009 17:02:07 UTC",36.6282,-119.2567,2.8,23.80,37,"Central California"

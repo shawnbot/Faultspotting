@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71485626,0,"Monday, November  8, 2010 00:42:32 UTC",36.4770,-121.0548,1.2,7.50,10,"Central California"
+nc,71485621,0,"Monday, November  8, 2010 00:42:13 UTC",38.7860,-122.7367,1.1,2.50,15,"Northern California"
+ci,10835309,2,"Monday, November  8, 2010 00:30:35 UTC",32.7842,-116.1180,1.4,11.20,27,"Southern California"
+ak,10116144,1,"Monday, November  8, 2010 00:28:34 UTC",64.7110,-149.1511,1.7,17.30, 9,"Central Alaska"
+ci,10835301,2,"Monday, November  8, 2010 00:17:48 UTC",35.0452,-117.6958,1.8,0.00,31,"Southern California"
+ci,10835285,2,"Sunday, November  7, 2010 23:54:29 UTC",32.1963,-115.3658,2.7,20.30,12,"Baja California, Mexico"

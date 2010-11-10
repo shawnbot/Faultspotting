@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71445295,0,"Sunday, August 22, 2010 19:37:43 UTC",37.6438,-118.9453,1.1,8.40,10,"Long Valley area, California"
+nc,71445290,0,"Sunday, August 22, 2010 19:37:25 UTC",37.6438,-118.9495,1.6,7.40,16,"Long Valley area, California"
+nc,71445285,0,"Sunday, August 22, 2010 19:34:53 UTC",37.7105,-119.0200,1.1,26.60, 6,"Long Valley area, California"
+ci,10784397,2,"Sunday, August 22, 2010 19:32:19 UTC",32.9483,-115.7933,1.6,29.10,13,"Southern California"
+ci,10784381,2,"Sunday, August 22, 2010 19:05:28 UTC",33.6817,-116.9580,1.0,8.60,36,"Southern California"

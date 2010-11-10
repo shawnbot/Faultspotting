@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71253301,0,"Friday, July 24, 2009 09:50:47 UTC",38.7790,-122.7577,1.2,1.50,20,"Northern California"
+us,2009jlam,7,"Friday, July 24, 2009 09:19:09 UTC",-3.5822,-81.5964,4.8,19.90,73,"near the coast of northern Peru"
+ci,14490520,1,"Friday, July 24, 2009 09:08:49 UTC",35.6065,-117.6160,1.1,6.60,22,"Southern California"
+ak,10001660,1,"Friday, July 24, 2009 08:57:34 UTC",61.4434,-146.6593,2.2,29.40,10,"Southern Alaska"

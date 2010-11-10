@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009mma3,6,"Thursday, October  8, 2009 05:25:15 UTC",53.2409,159.7082,5.0,43.60,34,"near the east coast of the Kamchatka Peninsula, Russia"
+nc,71296246,0,"Thursday, October  8, 2009 05:18:15 UTC",38.8187,-122.7980,1.1,3.30,18,"Northern California"
+nc,71296241,0,"Thursday, October  8, 2009 05:10:26 UTC",37.2622,-121.6447,1.9,4.30,48,"Northern California"
+ak,10013583,1,"Thursday, October  8, 2009 05:03:33 UTC",63.1969,-151.3432,1.9,1.80,11,"Central Alaska"

@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nn,00319057,7,"Tuesday, October 19, 2010 15:56:38 UTC",37.1655,-117.3170,1.0,10.50, 5,"Nevada"
+ci,14863932,2,"Tuesday, October 19, 2010 15:49:20 UTC",32.3355,-115.1772,3.1,27.10,15,"Baja California, Mexico"
+nn,00319052,7,"Tuesday, October 19, 2010 15:36:04 UTC",37.6463,-114.6440,1.8,4.10, 8,"Nevada"
+ak,10103713,1,"Tuesday, October 19, 2010 15:25:14 UTC",61.4612,-146.5286,1.7,29.60,10,"Southern Alaska"
+ci,14863900,2,"Tuesday, October 19, 2010 15:11:23 UTC",32.2235,-115.3840,2.7,12.70,12,"Baja California, Mexico"

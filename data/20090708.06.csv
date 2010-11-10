@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10436161,1,"Wednesday, July  8, 2009 12:53:55 UTC",34.0668,-116.9843,1.8,3.20,62,"Southern California"
+uw,07081220,0,"Wednesday, July  8, 2009 12:20:29 UTC",45.5113,-122.6445,2.1,15.80,25,"Portland urban area, Oregon"
+us,2009ivaw,7,"Wednesday, July  8, 2009 12:13:51 UTC",-21.6774,-179.0784,4.4,573.50,29,"Fiji region"

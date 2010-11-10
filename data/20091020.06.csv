@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10483437,1,"Tuesday, October 20, 2009 12:35:19 UTC",35.3900,-119.9486,2.7,5.30,29,"Central California"
+us,2009mzat,6,"Tuesday, October 20, 2009 12:28:10 UTC",30.8923,130.1651,4.7,145.90,15,"Kyushu, Japan"
+ci,10483429,1,"Tuesday, October 20, 2009 12:21:11 UTC",36.4063,-117.8486,1.8,4.80,22,"Central California"
+ci,10483413,1,"Tuesday, October 20, 2009 12:01:38 UTC",36.3868,-117.8896,1.4,8.30,15,"Central California"

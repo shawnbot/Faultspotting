@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,40238302,1,"Wednesday, June 17, 2009 11:48:18 UTC",37.4315,-121.7738,1.7,9.10,33,"San Francisco Bay area, California"
+nc,40238300,1,"Wednesday, June 17, 2009 11:24:55 UTC",38.8260,-122.8138,1.3,2.10,14,"Northern California"
+ak,00109318,1,"Wednesday, June 17, 2009 11:22:48 UTC",54.7077,-161.6976,3.0,36.00,10,"Alaska Peninsula"
+us,2009hzav,7,"Wednesday, June 17, 2009 11:12:13 UTC",42.8773,146.1242,4.4,45.30,25,"off the coast of Hokkaido, Japan"

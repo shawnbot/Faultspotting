@@ -1,0 +1,12 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14476784,1,"Friday, June 19, 2009 15:47:37 UTC",33.3803,-116.3866,1.3,12.20,37,"Southern California"
+nc,40238390,1,"Friday, June 19, 2009 15:38:56 UTC",36.6985,-120.9817,1.5,1.00,17,"Central California"
+ci,14476768,1,"Friday, June 19, 2009 15:34:54 UTC",33.3753,-116.4121,2.3,12.20,94,"Southern California"
+ci,14476760,1,"Friday, June 19, 2009 15:33:25 UTC",33.3723,-116.4061,1.8,11.70,68,"Southern California"
+ci,14476752,1,"Friday, June 19, 2009 15:33:15 UTC",33.3838,-116.3986,1.8,12.10,37,"Southern California"
+nc,40238389,1,"Friday, June 19, 2009 15:32:51 UTC",36.1638,-120.2280,1.7,7.20,10,"Central California"
+ci,14476744,1,"Friday, June 19, 2009 15:32:07 UTC",33.3770,-116.4048,1.7,11.80,71,"Southern California"
+ci,14476736,C,"Friday, June 19, 2009 15:30:37 UTC",33.3720,-116.4096,3.2,11.40,115,"Southern California"
+nn,00286445,1,"Friday, June 19, 2009 15:26:03 UTC",39.1800,-117.2870,2.9,0.00,54,"Nevada"
+ak,00109586,1,"Friday, June 19, 2009 15:14:52 UTC",52.0458,-175.7085,2.3,39.80,05,"Andreanof Islands, Aleutian Islands, Alaska"
+us,2009ibaz,7,"Friday, June 19, 2009 15:06:25 UTC",14.0572,145.1387,5.5,113.50,166,"Rota region, Northern Mariana Islands"

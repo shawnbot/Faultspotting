@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10781877,2,"Thursday, August 19, 2010 03:45:57 UTC",32.9488,-117.3922,1.4,0.10,17,"Gulf of Santa Catalina, California"
+us,2010adaq,7,"Thursday, August 19, 2010 03:31:30 UTC",-9.7026,106.9668,4.9,10.00,43,"south of Java, Indonesia"
+nc,71443460,0,"Thursday, August 19, 2010 03:30:44 UTC",36.5358,-121.1122,1.0,8.30, 8,"Central California"
+ci,10781869,2,"Thursday, August 19, 2010 03:18:38 UTC",32.6725,-115.6822,1.8,11.90,17,"Southern California"
+ci,10781861,2,"Thursday, August 19, 2010 03:09:23 UTC",33.4745,-116.4417,1.1,18.50,35,"Southern California"

@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10792333,2,"Saturday, September  4, 2010 11:46:22 UTC",32.5613,-115.9350,1.6,9.90,14,"Baja California, Mexico"
+us,2010aubb,6,"Saturday, September  4, 2010 11:37:20 UTC",-9.0895,150.1918,4.9,10.10,25,"eastern New Guinea region, Papua New Guinea"
+us,2010aua8,6,"Saturday, September  4, 2010 11:30:04 UTC",-14.4643,-76.0107,5.3,34.70,25,"near the coast of central Peru"
+nc,71450725,0,"Saturday, September  4, 2010 11:08:25 UTC",38.7853,-122.7277,1.1,2.70,12,"Northern California"
+ak,10076311,1,"Saturday, September  4, 2010 11:07:44 UTC",62.5697,-149.9944,2.8,18.60, 9,"Central Alaska"
+us,2010aua7,6,"Saturday, September  4, 2010 11:01:39 UTC",47.9589,156.6738,4.8,28.00,57,"east of the Kuril Islands"

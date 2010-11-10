@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10000011,1,"Thursday, July  9, 2009 03:27:55 UTC",54.7113,167.8457,4.0,16.50,19,"Komandorskiye Ostrova, Russia region"
+ci,10436481,1,"Thursday, July  9, 2009 03:22:15 UTC",34.0023,-117.1160,1.3,2.00,46,"Greater Los Angeles area, California"
+ci,10436473,1,"Thursday, July  9, 2009 03:15:43 UTC",33.6303,-116.9958,1.2,10.00,52,"Southern California"

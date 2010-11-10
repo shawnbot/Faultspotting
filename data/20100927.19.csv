@@ -1,0 +1,13 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14848956,2,"Tuesday, September 28, 2010 01:53:54 UTC",33.4227,-116.8535,1.7,14.20,58,"Southern California"
+nc,71461020,0,"Tuesday, September 28, 2010 01:50:35 UTC",35.4260,-120.7315,1.3,9.70, 7,"Central California"
+ak,10088150,1,"Tuesday, September 28, 2010 01:44:30 UTC",61.4085,-150.8776,2.3,58.00,26,"Southern Alaska"
+nn,00317241,7,"Tuesday, September 28, 2010 01:38:22 UTC",37.6658,-114.7292,1.7,0.90, 8,"Nevada"
+ci,14848948,2,"Tuesday, September 28, 2010 01:33:53 UTC",33.4648,-116.5663,1.5,6.40,66,"Southern California"
+ci,14848940,2,"Tuesday, September 28, 2010 01:26:59 UTC",33.4730,-116.5635,1.6,11.60,60,"Southern California"
+ci,14848932,2,"Tuesday, September 28, 2010 01:25:16 UTC",34.0292,-117.5533,2.6,7.30,116,"Greater Los Angeles area, California"
+ak,10088137,1,"Tuesday, September 28, 2010 01:24:20 UTC",60.1737,-141.3942,1.9,-8.70, 9,"Southern Alaska"
+ak,10088133,1,"Tuesday, September 28, 2010 01:21:21 UTC",60.1873,-141.2057,1.6,16.10, 9,"Southern Alaska"
+nc,71461005,1,"Tuesday, September 28, 2010 01:18:00 UTC",38.8093,-122.8112,1.7,3.80,35,"Northern California"
+ak,10088126,1,"Tuesday, September 28, 2010 01:13:50 UTC",63.5545,-151.0869,2.4,11.50,17,"Central Alaska"
+ak,10088123,1,"Tuesday, September 28, 2010 01:07:19 UTC",63.5457,-151.1498,2.6,10.60,21,"Central Alaska"

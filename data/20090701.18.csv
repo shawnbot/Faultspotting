@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71242101,0,"Thursday, July  2, 2009 00:50:13 UTC",36.5700,-121.1633,1.9,2.90,15,"Central California"
+ci,10433633,1,"Thursday, July  2, 2009 00:37:27 UTC",33.4336,-116.6180,1.0,10.50,19,"Southern California"
+ci,10433625,1,"Thursday, July  2, 2009 00:36:16 UTC",34.5103,-118.4256,1.6,4.00,11,"Southern California"
+nn,00287294,1,"Thursday, July  2, 2009 00:15:20 UTC",37.0239,-114.5940,2.9,12.00,43,"Nevada"
+pr,p0918301,1,"Thursday, July  2, 2009 00:12:26 UTC",19.3488,-66.3735,3.4,7.20,26,"Puerto Rico region"

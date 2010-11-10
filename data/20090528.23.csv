@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14464912,1,"Friday, May 29, 2009 05:41:15 UTC",33.4788,-116.4661,1.2,5.80,45,"Southern California"
+ci,14464904,1,"Friday, May 29, 2009 05:37:17 UTC",33.4613,-116.5886,1.2,13.40,51,"Southern California"
+pr,p0914903,1,"Friday, May 29, 2009 05:19:59 UTC",19.0867,-65.9508,3.2,13.20,18,"Puerto Rico region"
+us,2009hfap,7,"Friday, May 29, 2009 05:11:03 UTC",12.6021,-88.4925,4.5,81.50,51,"offshore El Salvador"

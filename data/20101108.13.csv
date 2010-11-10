@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10835773,2,"Monday, November  8, 2010 20:37:17 UTC",33.0037,-116.4582,1.7,9.30,63,"Southern California"
+uw,11082030,0,"Monday, November  8, 2010 20:30:01 UTC",46.2015,-122.1855,2.0,3.00,10,"Mount St. Helens area, Washington"
+ak,10116407,1,"Monday, November  8, 2010 20:22:29 UTC",63.3544,-150.4067,1.7,5.20,16,"Central Alaska"
+nn,00320514,7,"Monday, November  8, 2010 20:13:55 UTC",36.2865,-115.3900,1.7,1.90, 9,"Nevada"
+ak,10116398,1,"Monday, November  8, 2010 20:05:50 UTC",63.5544,-147.6237,1.7,0.00,17,"Central Alaska"

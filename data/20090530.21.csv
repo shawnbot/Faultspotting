@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009hhah,7,"Sunday, May 31, 2009 03:34:32 UTC",1.7127,125.8928,5.1,123.70,50,"Molucca Sea"
+nc,51222440,1,"Sunday, May 31, 2009 03:30:13 UTC",36.6467,-121.2535,1.4,3.60,12,"Central California"
+ak,00107066,1,"Sunday, May 31, 2009 03:14:48 UTC",64.7884,-148.0401,1.4,10.70,12,"Central Alaska"
+nc,51222439,1,"Sunday, May 31, 2009 03:14:38 UTC",38.8038,-122.8110,1.2,1.10,19,"Northern California"

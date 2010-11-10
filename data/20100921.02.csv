@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71458250,1,"Tuesday, September 21, 2010 08:50:45 UTC",36.4675,-121.0450,2.4,7.70,47,"Central California"
+ci,14845212,2,"Tuesday, September 21, 2010 08:36:51 UTC",33.1973,-117.1765,1.4,33.90,25,"San Diego County urban area, California"
+nc,71458245,1,"Tuesday, September 21, 2010 08:29:08 UTC",38.8222,-122.8017,1.1,3.30,22,"Northern California"

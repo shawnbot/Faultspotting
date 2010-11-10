@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10783765,2,"Saturday, August 21, 2010 20:38:28 UTC",33.2877,-116.3928,1.4,0.00,26,"Southern California"
+nc,71444765,1,"Saturday, August 21, 2010 20:31:10 UTC",38.8123,-122.7840,1.6,2.30,30,"Northern California"
+us,2010afb8,6,"Saturday, August 21, 2010 20:30:06 UTC",-9.8427,123.5968,4.9,23.40,38,"Timor region, Indonesia"
+us,2010afb4,6,"Saturday, August 21, 2010 20:20:17 UTC",5.9743,-78.0257,5.4,29.20,186,"south of Panama"
+ci,10783749,2,"Saturday, August 21, 2010 20:05:46 UTC",34.1420,-117.7173,1.4,13.50,33,"Greater Los Angeles area, California"
+ak,10073219,1,"Saturday, August 21, 2010 19:51:48 UTC",60.1713,-152.7428,1.6,116.10,14,"Southern Alaska"

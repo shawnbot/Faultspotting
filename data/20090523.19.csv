@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14462240,1,"Sunday, May 24, 2009 01:57:30 UTC",36.4068,-117.8453,1.5,5.20,24,"Central California"
+ci,14462224,1,"Sunday, May 24, 2009 01:52:47 UTC",33.5110,-116.5571,1.4,16.60,50,"Southern California"
+nc,51222075,1,"Sunday, May 24, 2009 01:52:04 UTC",40.4117,-122.1090,1.6,6.70,19,"Northern California"
+nc,51222072,1,"Sunday, May 24, 2009 01:15:12 UTC",40.3080,-124.5645,2.6,6.30,23,"offshore Northern California"
+nc,51222071,1,"Sunday, May 24, 2009 01:12:24 UTC",38.8072,-122.8120,1.2,2.20,20,"Northern California"
+nc,51222070,1,"Sunday, May 24, 2009 01:11:20 UTC",40.3095,-124.4788,2.7,7.90,22,"offshore Northern California"
+us,2009haaj,6,"Sunday, May 24, 2009 01:06:29 UTC",14.8050,119.7733,5.2,67.50,41,"Luzon, Philippines"
+ak,00106213,1,"Sunday, May 24, 2009 01:03:10 UTC",60.6975,-150.4362,1.5,15.40,04,"Kenai Peninsula, Alaska"

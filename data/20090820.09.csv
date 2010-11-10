@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10005657,1,"Thursday, August 20, 2009 15:51:33 UTC",61.2098,-146.8885,1.1,34.00, 5,"Southern Alaska"
+nc,71268586,0,"Thursday, August 20, 2009 15:19:55 UTC",37.3530,-121.7177,1.9,5.90,44,"San Francisco Bay area, California"
+pr,p0923206,1,"Thursday, August 20, 2009 15:05:00 UTC",18.2068,-67.3870,2.6,13.80,25,"Mona Passage, Puerto Rico"

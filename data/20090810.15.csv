@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71263051,0,"Monday, August 10, 2009 21:42:59 UTC",37.8303,-122.0122,1.7,5.30,15,"San Francisco Bay area, California"
+nn,00289846,1,"Monday, August 10, 2009 21:42:46 UTC",37.0340,-114.9710,1.7,0.00,15,"Nevada"
+nn,00289841,1,"Monday, August 10, 2009 21:07:17 UTC",37.1090,-116.7310,1.5,2.00,35,"Nevada"

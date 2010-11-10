@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009ihap,7,"Thursday, June 25, 2009 12:34:18 UTC",-23.7642,-13.5279,5.2,10.00,19,"southern Mid-Atlantic Ridge"
+ak,00110294,1,"Thursday, June 25, 2009 12:11:11 UTC",60.8330,-143.2237,1.2,11.90, 6,"Southern Alaska"
+ak,00110293,1,"Thursday, June 25, 2009 12:05:58 UTC",51.4917,179.5594,1.3,0.70,04,"Rat Islands, Aleutian Islands, Alaska"
+ak,00110291,1,"Thursday, June 25, 2009 11:55:21 UTC",54.6946,-161.6469,2.4,33.30,07,"Alaska Peninsula"

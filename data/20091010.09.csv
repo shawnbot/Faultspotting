@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009mpa8,6,"Saturday, October 10, 2009 15:35:00 UTC",-14.1325,166.5356,5.3,35.00,36,"Vanuatu"
+us,2009mpa6,6,"Saturday, October 10, 2009 15:26:18 UTC",-24.9172,-70.3080,5.3,10.00,87,"Antofagasta, Chile"
+ci,10478965,1,"Saturday, October 10, 2009 15:12:52 UTC",33.2738,-116.4590,2.3,3.00,81,"Southern California"
+ci,10478957,1,"Saturday, October 10, 2009 15:02:28 UTC",33.5146,-115.4011,1.8,35.70,15,"Southern California"
+ci,10478949,1,"Saturday, October 10, 2009 15:00:37 UTC",35.1916,-118.3976,1.8,10.00,15,"Central California"

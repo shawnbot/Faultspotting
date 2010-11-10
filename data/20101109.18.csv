@@ -1,0 +1,10 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nn,00320648,7,"Wednesday, November 10, 2010 01:30:32 UTC",37.0625,-116.3980,1.3,7.00, 6,"Nevada"
+ci,10836573,2,"Wednesday, November 10, 2010 01:29:02 UTC",32.1323,-115.0165,3.4,0.80,16,"Baja California, Mexico"
+ci,10836565,2,"Wednesday, November 10, 2010 01:25:31 UTC",33.7620,-116.1562,1.2,8.00,28,"Southern California"
+us,c00008i7,5,"Wednesday, November 10, 2010 01:23:33 UTC",-36.3094,-73.1183,5.1,25.60,103,"offshore Bio-Bio, Chile"
+ak,10117434,2,"Wednesday, November 10, 2010 01:18:41 UTC",58.1666,-145.3163,2.4,12.00,11,"Gulf of Alaska"
+ak,10117428,1,"Wednesday, November 10, 2010 01:11:42 UTC",63.9377,-148.7598,1.2,5.60,12,"Central Alaska"
+ci,10836557,2,"Wednesday, November 10, 2010 01:04:59 UTC",34.3995,-117.6892,1.5,9.20,36,"Southern California"
+ak,10117421,1,"Wednesday, November 10, 2010 01:03:33 UTC",61.5962,-147.6862,1.9,22.30, 9,"Southern Alaska"
+ci,10836541,2,"Wednesday, November 10, 2010 01:03:28 UTC",34.0325,-116.8507,2.1,11.30,107,"Southern California"

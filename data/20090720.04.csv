@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009jhar,7,"Monday, July 20, 2009 10:44:58 UTC",19.2226,-109.2175,4.5,10.00,80,"Revilla Gigedo Islands region"
+ak,10001207,1,"Monday, July 20, 2009 10:43:50 UTC",64.8886,-148.1519,1.0,22.90, 8,"Central Alaska"
+ak,10001206,1,"Monday, July 20, 2009 10:41:17 UTC",51.6982,-178.3545,1.8,35.00,04,"Andreanof Islands, Aleutian Islands, Alaska"
+ak,10001205,1,"Monday, July 20, 2009 10:33:51 UTC",51.4738,-176.0319,2.2,47.20,05,"Andreanof Islands, Aleutian Islands, Alaska"

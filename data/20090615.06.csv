@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nn,00286090,1,"Monday, June 15, 2009 12:24:09 UTC",37.6830,-116.1870,1.1,16.00, 8,"Nevada"
+ci,14474656,1,"Monday, June 15, 2009 12:19:07 UTC",33.5063,-116.4955,1.4,15.20,65,"Southern California"
+us,2009hxa4,7,"Monday, June 15, 2009 12:05:26 UTC",9.1026,93.6705,5.4,35.00,56,"Nicobar Islands, India region"

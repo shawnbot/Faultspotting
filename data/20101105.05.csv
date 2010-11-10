@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10833237,2,"Friday, November  5, 2010 11:54:48 UTC",34.2963,-116.4573,1.4,5.80,22,"Southern California"
+ak,10114888,1,"Friday, November  5, 2010 11:34:06 UTC",63.1851,-150.6031,1.7,129.40,17,"Central Alaska"
+ci,10833229,2,"Friday, November  5, 2010 11:24:59 UTC",32.6427,-115.7565,2.0,2.80,30,"Baja California, Mexico"
+us,2010dgbc,6,"Friday, November  5, 2010 11:22:44 UTC",11.5934,-86.3388,4.7,67.30,41,"near the coast of Nicaragua"
+us,2010dga9,6,"Friday, November  5, 2010 11:14:56 UTC",51.5894,178.6474,4.8,35.00,60,"Rat Islands, Aleutian Islands, Alaska"
+nc,71484346,0,"Friday, November  5, 2010 11:05:09 UTC",38.8423,-122.8307,1.0,2.10,19,"Northern California"
+nn,00320402,7,"Friday, November  5, 2010 11:04:44 UTC",37.0938,-116.9787,1.7,7.30,11,"Nevada"

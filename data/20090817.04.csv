@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10005111,1,"Monday, August 17, 2009 10:45:58 UTC",61.3849,-152.0028,1.8,100.00,14,"Southern Alaska"
+ak,10005110,1,"Monday, August 17, 2009 10:37:42 UTC",63.5011,-151.0088,1.4,9.00,06,"Central Alaska"
+us,2009kkay,8,"Monday, August 17, 2009 10:10:55 UTC",23.3980,123.5466,6.4,10.00,55,"southwestern Ryukyu Islands, Japan"
+ak,10005096,1,"Monday, August 17, 2009 10:07:57 UTC",61.4142,-146.7352,2.9,23.70,37,"Southern Alaska"

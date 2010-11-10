@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+hv,00034284,0,"Monday, June  8, 2009 19:43:25 UTC",19.2652,-155.4552,2.5,8.60,00,"Island of Hawaii, Hawaii"
+ak,00108224,1,"Monday, June  8, 2009 19:39:39 UTC",51.1702,-178.2301,2.4,35.00,06,"Andreanof Islands, Aleutian Islands, Alaska"
+nc,40237820,1,"Monday, June  8, 2009 19:17:27 UTC",37.6437,-118.9118,1.8,0.50, 8,"Long Valley area, California"
+ak,00108223,1,"Monday, June  8, 2009 19:16:46 UTC",60.2747,-151.9470,2.2,64.70,12,"Kenai Peninsula, Alaska"
+nn,00285603,1,"Monday, June  8, 2009 19:08:57 UTC",38.9980,-117.0560,1.9,16.00,10,"Nevada"

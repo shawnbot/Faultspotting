@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14848692,2,"Monday, September 27, 2010 10:46:16 UTC",34.2273,-117.5367,1.4,15.60,36,"Southern California"
+ak,10087294,1,"Monday, September 27, 2010 10:29:16 UTC",62.0897,-152.1005,2.3,121.20,17,"Central Alaska"
+ak,10087291,1,"Monday, September 27, 2010 10:23:24 UTC",64.3695,-146.5530,1.6,-9.90,11,"Central Alaska"
+nn,00317201,7,"Monday, September 27, 2010 10:12:13 UTC",36.2003,-115.1672,1.1,4.60,11,"Las Vegas urban area, Nevada"

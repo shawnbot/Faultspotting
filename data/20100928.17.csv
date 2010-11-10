@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14849396,2,"Tuesday, September 28, 2010 23:53:11 UTC",33.4690,-116.0443,1.5,19.30,15,"Southern California"
+ci,14849388,2,"Tuesday, September 28, 2010 23:52:28 UTC",32.5493,-115.7897,1.7,10.00,12,"Baja California, Mexico"
+us,2010btbt,6,"Tuesday, September 28, 2010 23:44:36 UTC",1.9143,96.9506,5.2,19.30,47,"Nias region, Indonesia"
+nc,71461420,0,"Tuesday, September 28, 2010 23:38:57 UTC",36.5348,-121.1272,1.0,7.30, 7,"Central California"
+ci,14849364,2,"Tuesday, September 28, 2010 23:30:13 UTC",32.9973,-116.3548,1.5,7.90,36,"Southern California"
+ci,14849356,2,"Tuesday, September 28, 2010 23:15:03 UTC",33.4855,-116.5538,1.8,0.10,11,"Southern California"
+ci,14849340,2,"Tuesday, September 28, 2010 23:13:35 UTC",35.0122,-117.6692,1.7,1.80,28,"Southern California"
+ak,10088543,1,"Tuesday, September 28, 2010 23:05:29 UTC",58.7576,-152.5027,2.4,43.50,14,"Kodiak Island region, Alaska"

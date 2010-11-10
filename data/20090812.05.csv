@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71264121,0,"Wednesday, August 12, 2009 11:58:10 UTC",36.2283,-120.3837,1.5,8.00, 9,"Central California"
+ci,14499240,1,"Wednesday, August 12, 2009 11:53:53 UTC",34.8615,-119.6016,1.5,0.80,21,"Central California"
+nc,71264111,0,"Wednesday, August 12, 2009 11:51:15 UTC",38.8430,-122.8312,1.0,1.40,10,"Northern California"
+pr,p0922405,1,"Wednesday, August 12, 2009 11:37:22 UTC",18.1463,-67.1903,2.5,19.70,23,"Mona Passage, Puerto Rico"

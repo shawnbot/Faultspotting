@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14874316,2,"Thursday, November  4, 2010 12:38:59 UTC",33.9492,-118.1068,2.0,8.90,17,"Greater Los Angeles area, California"
+ci,14874300,2,"Thursday, November  4, 2010 12:30:42 UTC",32.4752,-115.6640,2.3,0.50,26,"Baja California, Mexico"
+us,b0000ah0,8,"Thursday, November  4, 2010 12:29:31 UTC",12.8361,-44.8754,5.6,10.00,284,"northern Mid-Atlantic Ridge"
+ci,14874284,2,"Thursday, November  4, 2010 12:12:57 UTC",33.1607,-115.6242,2.3,5.20,61,"Southern California"

@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71269871,0,"Sunday, August 23, 2009 04:27:55 UTC",36.9933,-121.8277,1.4,12.30,10,"Northern California"
+ak,10006022,1,"Sunday, August 23, 2009 04:24:12 UTC",62.0357,-149.8848,1.2,1.90,05,"Central Alaska"
+ak,10006020,1,"Sunday, August 23, 2009 04:18:14 UTC",63.4432,-152.3546,2.6,9.60,08,"Central Alaska"
+ak,10006018,1,"Sunday, August 23, 2009 04:17:41 UTC",62.2334,-150.7101,2.3,75.60,21,"Central Alaska"
+us,2009krak,7,"Sunday, August 23, 2009 04:11:21 UTC",-6.6444,154.5710,4.8,42.20,45,"Bougainville region, Papua New Guinea"

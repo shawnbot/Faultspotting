@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nn,00287507,1,"Monday, July  6, 2009 04:25:36 UTC",38.3200,-118.3460,1.8,0.00,23,"Nevada"
+nn,00287504,1,"Monday, July  6, 2009 04:23:29 UTC",38.3400,-118.2690,1.5,0.00,15,"Nevada"
+us,2009itag,7,"Monday, July  6, 2009 04:10:34 UTC",9.5393,-78.8954,5.3,30.90,117,"Panama"

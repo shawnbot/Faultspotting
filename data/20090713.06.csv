@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10000407,1,"Monday, July 13, 2009 12:40:44 UTC",62.1417,-149.6366,2.0,40.50,18,"Central Alaska"
+uw,07131234,0,"Monday, July 13, 2009 12:34:34 UTC",46.2003,-122.1855,1.8,2.80,10,"Mount St. Helens area, Washington"
+ci,10437881,1,"Monday, July 13, 2009 12:30:09 UTC",33.2148,-116.0715,2.3,8.10,92,"Southern California"
+uw,07131226,0,"Monday, July 13, 2009 12:26:24 UTC",46.1993,-122.1863,1.9,2.80,11,"Mount St. Helens area, Washington"
+ak,10000405,1,"Monday, July 13, 2009 12:22:52 UTC",62.8088,-151.0368,1.9,95.60,18,"Central Alaska"
+nc,71247836,0,"Monday, July 13, 2009 12:13:50 UTC",36.2953,-120.8702,1.2,6.90,10,"Central California"
+pr,p0919409,1,"Monday, July 13, 2009 12:06:33 UTC",18.5300,-67.5048,2.4,14.60, 8,"Puerto Rico region"

@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009lhae,6,"Tuesday, September  8, 2009 03:39:51 UTC",5.1666,94.1527,5.1,55.10,58,"northern Sumatra, Indonesia"
+ak,10008482,1,"Tuesday, September  8, 2009 03:19:10 UTC",58.2433,-152.5535,2.2,59.30,06,"Kodiak Island region, Alaska"
+nc,71272880,0,"Tuesday, September  8, 2009 03:17:02 UTC",38.8115,-122.8207,1.2,2.90,16,"Northern California"
+nc,71272875,0,"Tuesday, September  8, 2009 03:13:17 UTC",38.8118,-122.8200,2.2,2.90,31,"Northern California"
+nc,71272870,0,"Tuesday, September  8, 2009 03:12:18 UTC",38.8130,-122.8185,2.0,2.80,25,"Northern California"
+ak,10008480,1,"Tuesday, September  8, 2009 03:03:33 UTC",61.8637,-150.1074,1.8,35.70,17,"Southern Alaska"

@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14490904,1,"Saturday, July 25, 2009 06:30:49 UTC",33.6556,-118.2020,1.6,2.30,14,"San Pedro Channel, California"
+nc,71253811,0,"Saturday, July 25, 2009 06:29:41 UTC",38.8193,-122.8035,1.4,2.10,17,"Northern California"
+ak,10001771,1,"Saturday, July 25, 2009 06:00:14 UTC",53.6434,-166.8057,1.7,98.90,04,"Fox Islands, Aleutian Islands, Alaska"

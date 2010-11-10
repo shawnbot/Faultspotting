@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00111318,1,"Friday, July  3, 2009 22:03:02 UTC",63.5641,-151.3404,2.6,0.10,13,"Central Alaska"
+ak,00111313,1,"Friday, July  3, 2009 22:00:56 UTC",63.5806,-146.2451,2.7,0.10,30,"Central Alaska"
+ak,00111312,1,"Friday, July  3, 2009 22:00:53 UTC",61.4432,-147.9099,1.6,35.50, 9,"Southern Alaska"

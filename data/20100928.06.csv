@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14849116,2,"Tuesday, September 28, 2010 12:51:15 UTC",32.8588,-116.6463,1.5,10.30,18,"Southern California"
+us,2010btay,6,"Tuesday, September 28, 2010 12:31:17 UTC",25.8648,126.2705,5.1,10.30,48,"Ryukyu Islands, Japan"
+ci,14849108,2,"Tuesday, September 28, 2010 12:23:15 UTC",35.0833,-119.0575,2.3,5.30,41,"Central California"
+ak,10088242,1,"Tuesday, September 28, 2010 12:13:38 UTC",63.6227,-150.8778,2.5,9.70,21,"Central Alaska"
+nm,092810a,A,"Tuesday, September 28, 2010 12:09:08 UTC",35.2991,-92.3225,1.4,5.80, 5,"Arkansas"

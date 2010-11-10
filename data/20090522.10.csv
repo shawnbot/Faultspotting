@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00106021,1,"Friday, May 22, 2009 16:44:25 UTC",61.7724,-151.5838,1.1,32.70,04,"Southern Alaska"
+uw,05221642,0,"Friday, May 22, 2009 16:42:41 UTC",46.9408,-121.9823,2.4,12.40,39,"Washington"
+nc,51221996,1,"Friday, May 22, 2009 16:39:30 UTC",38.8355,-122.7748,1.7,2.70,28,"Northern California"
+ak,00106019,1,"Friday, May 22, 2009 16:15:26 UTC",63.5715,-147.3025,2.2,0.00,22,"Central Alaska"

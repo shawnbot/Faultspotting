@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,a000437f,1,"Saturday, October 23, 2010 01:38:15 UTC",-29.5736,-71.0543,5.3,48.30,213,"Coquimbo, Chile"
+ci,10824533,2,"Saturday, October 23, 2010 01:30:37 UTC",36.0193,-117.8005,1.2,3.30,10,"Central California"
+ak,10107142,1,"Saturday, October 23, 2010 01:28:46 UTC",63.2818,-151.4405,2.5,0.00,17,"Central Alaska"
+ci,10824517,2,"Saturday, October 23, 2010 01:01:05 UTC",34.2848,-116.8290,1.4,3.90,33,"Southern California"

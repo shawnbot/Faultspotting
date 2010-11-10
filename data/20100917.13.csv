@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71456750,0,"Friday, September 17, 2010 19:44:24 UTC",40.7478,-122.3163,2.1,2.60,14,"Northern California"
+us,2010bhb3,6,"Friday, September 17, 2010 19:34:09 UTC",3.7274,126.6546,5.2,66.30,75,"Kepulauan Talaud, Indonesia"
+us,2010bhb1,6,"Friday, September 17, 2010 19:21:13 UTC",36.4884,70.8256,6.3,199.70,286,"Hindu Kush region, Afghanistan"
+mb,25853,1,"Friday, September 17, 2010 19:17:11 UTC",44.7945,-111.6551,1.9,0.00, 8,"western Montana"
+ci,14842756,2,"Friday, September 17, 2010 19:14:29 UTC",33.0207,-115.5347,2.2,14.50,38,"Southern California"
+ci,14842748,2,"Friday, September 17, 2010 19:13:01 UTC",33.3607,-116.5217,1.0,21.80,25,"Southern California"
+ak,10079525,1,"Friday, September 17, 2010 19:12:15 UTC",59.9042,-153.0979,2.1,100.00,16,"Southern Alaska"

@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nn,00288797,1,"Sunday, July 26, 2009 23:28:42 UTC",39.4910,-116.3980,3.0,0.00,14,"Nevada"
+nc,71254456,0,"Sunday, July 26, 2009 23:23:15 UTC",38.8055,-122.8028,2.4,2.60,45,"Northern California"
+us,2009jncb,6,"Sunday, July 26, 2009 23:10:27 UTC",-4.7405,102.9945,6.2,66.50,87,"southern Sumatra, Indonesia"

@@ -1,0 +1,3 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,51222293,1,"Wednesday, May 27, 2009 22:24:39 UTC",37.3962,-122.1915,1.0,4.20, 8,"San Francisco Bay area, California"
+pr,p0914706,1,"Wednesday, May 27, 2009 22:03:59 UTC",17.6167,-65.0475,2.8,28.90,09,"Virgin Islands region"

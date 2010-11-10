@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14477272,1,"Saturday, June 20, 2009 14:35:50 UTC",33.5006,-116.4965,1.4,32.90,46,"Southern California"
+uw,06201432,0,"Saturday, June 20, 2009 14:32:16 UTC",47.5241,-123.5273,2.3,30.90,31,"Olympic Peninsula, Washington"
+nc,40238453,1,"Saturday, June 20, 2009 14:17:07 UTC",35.6477,-120.9325,1.3,5.50,20,"Central California"
+nc,40238451,1,"Saturday, June 20, 2009 14:10:35 UTC",35.6418,-120.9455,1.1,5.50, 8,"Central California"

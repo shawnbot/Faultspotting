@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+at,00265895,1,"Friday, September 11, 2009 08:49:12 UTC",47.9520,154.7889,5.8,35.00,23,"Kuril Islands"
+ci,14509100,1,"Friday, September 11, 2009 08:28:29 UTC",36.0385,-117.7731,2.0,3.70,08,"Central California"
+ci,14509092,1,"Friday, September 11, 2009 08:26:20 UTC",33.4076,-116.9276,1.2,11.90,52,"Southern California"
+ci,14509076,1,"Friday, September 11, 2009 08:19:39 UTC",33.9560,-118.4441,1.6,0.00,12,"Greater Los Angeles area, California"
+nc,71279171,0,"Friday, September 11, 2009 08:16:32 UTC",38.7495,-122.7133,1.7,2.30,10,"Northern California"
+us,2009lka2,6,"Friday, September 11, 2009 08:10:08 UTC",-16.5735,-72.9089,4.7,60.40,28,"near the coast of southern Peru"
+ak,10009125,1,"Friday, September 11, 2009 08:07:48 UTC",60.1137,-152.7274,2.3,79.90,05,"Southern Alaska"

@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71297065,0,"Tuesday, October 20, 2009 15:37:17 UTC",37.6352,-121.8798,1.2,7.10, 8,"San Francisco Bay area, California"
+uw,10201532,0,"Tuesday, October 20, 2009 15:32:39 UTC",47.8666,-122.3503,2.0,12.40,13,"Seattle-Tacoma urban area, Washington"
+nc,71297060,0,"Tuesday, October 20, 2009 15:09:51 UTC",36.8885,-121.4047,1.0,7.30,15,"Central California"
+nc,71297055,0,"Tuesday, October 20, 2009 15:07:19 UTC",38.8338,-122.8045,1.7,2.30,22,"Northern California"

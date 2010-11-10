@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14495096,1,"Monday, August  3, 2009 10:45:31 UTC",33.1613,-116.5621,1.2,12.30,56,"Southern California"
+ci,14495088,1,"Monday, August  3, 2009 10:42:49 UTC",33.5225,-116.7953,2.9,14.80,128,"Southern California"
+us,2009jwa4,7,"Monday, August  3, 2009 10:31:25 UTC",0.6021,127.4874,4.9,158.10,38,"Halmahera, Indonesia"
+ci,14495080,1,"Monday, August  3, 2009 10:06:37 UTC",32.9245,-116.3113,1.6,19.20,21,"Southern California"

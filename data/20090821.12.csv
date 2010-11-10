@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14500692,1,"Friday, August 21, 2009 18:54:09 UTC",34.0180,-117.2041,1.2,13.90,50,"Greater Los Angeles area, California"
+ci,14500676,1,"Friday, August 21, 2009 18:37:15 UTC",34.6268,-116.5483,1.8,6.50,45,"Southern California"
+pr,p0923305,1,"Friday, August 21, 2009 18:34:31 UTC",19.1030,-67.4765,2.6,25.20,10,"Puerto Rico region"
+nc,71269186,0,"Friday, August 21, 2009 18:31:21 UTC",35.8533,-120.4017,2.4,4.80,46,"Central California"
+nn,00290681,1,"Friday, August 21, 2009 18:30:23 UTC",36.1640,-114.6830,1.6,12.00,17,"Nevada"
+nc,71269181,0,"Friday, August 21, 2009 18:26:33 UTC",38.8383,-122.8280,1.4,2.20,14,"Northern California"
+ak,10005815,1,"Friday, August 21, 2009 18:22:45 UTC",53.7230,-163.6538,3.8,64.30,29,"Unimak Island region, Alaska"
+us,2009kpbc,6,"Friday, August 21, 2009 18:09:12 UTC",0.9077,97.3338,4.7,6.70,16,"Nias region, Indonesia"

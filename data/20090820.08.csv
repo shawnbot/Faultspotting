@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+us,2009knbd,6,"Thursday, August 20, 2009 14:18:13 UTC",23.3194,123.3152,5.3,35.40,76,"southwestern Ryukyu Islands, Japan"
+ak,10005645,1,"Thursday, August 20, 2009 14:08:06 UTC",66.6422,-158.3495,3.1,20.90,14,"northern Alaska"
+pr,p0923205,1,"Thursday, August 20, 2009 14:01:12 UTC",19.0492,-65.7627,3.4,125.30, 9,"Puerto Rico region"

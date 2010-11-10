@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00108934,1,"Sunday, June 14, 2009 08:40:03 UTC",51.4283,179.2946,3.9,43.00,26,"Rat Islands, Aleutian Islands, Alaska"
+ak,00108932,1,"Sunday, June 14, 2009 08:31:04 UTC",60.2555,-141.8482,1.8,13.60,13,"Southern Alaska"
+us,2009hwaz,7,"Sunday, June 14, 2009 08:20:29 UTC",-24.6196,-176.7197,4.8,100.30,65,"south of the Fiji Islands"
+us,2009hwax,7,"Sunday, June 14, 2009 08:15:56 UTC",5.3639,126.5168,5.1,55.40,34,"Mindanao, Philippines"

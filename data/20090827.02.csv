@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10006550,1,"Thursday, August 27, 2009 08:47:37 UTC",61.8689,-150.6645,1.6,15.10, 5,"Southern Alaska"
+ak,10006549,1,"Thursday, August 27, 2009 08:46:50 UTC",51.5091,178.7369,3.4,32.00, 7,"Rat Islands, Aleutian Islands, Alaska"
+ak,10006546,1,"Thursday, August 27, 2009 08:31:40 UTC",63.5833,-147.5342,2.0,0.10,20,"Central Alaska"
+us,2009kvaz,7,"Thursday, August 27, 2009 08:22:15 UTC",34.9970,-96.5965,3.4,5.00,21,"Oklahoma"
+ci,14502924,1,"Thursday, August 27, 2009 08:05:40 UTC",33.1661,-115.6603,1.6,2.30,33,"Southern California"

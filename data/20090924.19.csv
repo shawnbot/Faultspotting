@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14515020,1,"Friday, September 25, 2009 02:00:24 UTC",34.0276,-117.1140,1.1,9.20,55,"Greater Los Angeles area, California"
+hv,00035415,0,"Friday, September 25, 2009 01:21:38 UTC",19.4807,-155.4438,2.1,9.40, 0,"Island of Hawaii, Hawaii"
+ci,14515012,1,"Friday, September 25, 2009 01:09:37 UTC",34.3223,-117.0001,1.5,6.20,62,"Southern California"
+ak,10011316,1,"Friday, September 25, 2009 01:07:15 UTC",61.2064,-150.8099,1.7,48.20, 8,"Southern Alaska"

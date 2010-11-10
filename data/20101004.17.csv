@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71464175,1,"Monday, October  4, 2010 23:56:00 UTC",37.6213,-118.8120,3.0,8.00,42,"Long Valley area, California"
+ci,14852956,2,"Monday, October  4, 2010 23:43:37 UTC",35.0353,-117.6788,1.8,0.10,22,"Southern California"
+nc,71464165,4,"Monday, October  4, 2010 23:35:39 UTC",40.5545,-122.2957,1.6,18.70,10,"Northern California"
+nc,71464160,0,"Monday, October  4, 2010 23:18:56 UTC",35.8522,-120.3867,1.0,4.10, 8,"Central California"
+ci,14852948,2,"Monday, October  4, 2010 23:15:45 UTC",35.4862,-118.4507,1.6,6.40,30,"Central California"
+hv,60182931,1,"Monday, October  4, 2010 23:14:04 UTC",19.5678,-155.9897,2.4,38.00,23,"Island of Hawaii, Hawaii"

@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10011445,1,"Saturday, September 26, 2009 03:39:15 UTC",60.4488,-151.9482,2.7,100.00,33,"Kenai Peninsula, Alaska"
+us,2009maaj,7,"Saturday, September 26, 2009 03:15:43 UTC",71.8292,-1.4106,4.5,10.00,45,"Jan Mayen Island region"
+ci,14515412,1,"Saturday, September 26, 2009 03:13:40 UTC",32.6130,-115.7631,2.5,1.10,33,"Baja California, Mexico"
+ci,14515404,1,"Saturday, September 26, 2009 03:09:17 UTC",33.9233,-116.8508,1.4,8.20,71,"Southern California"
+ak,10011438,1,"Saturday, September 26, 2009 03:07:33 UTC",54.8311,-160.5370,4.1,72.80,65,"Alaska Peninsula"

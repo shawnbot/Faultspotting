@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14474808,1,"Monday, June 15, 2009 19:26:04 UTC",33.3418,-116.3858,1.1,7.80,38,"Southern California"
+mb,20150,1,"Monday, June 15, 2009 19:07:01 UTC",45.9676,-112.5528,1.0,0.00, 8,"western Montana"
+ci,14474800,1,"Monday, June 15, 2009 19:06:43 UTC",33.3578,-116.2386,1.0,14.90,23,"Southern California"

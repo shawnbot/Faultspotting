@@ -1,0 +1,7 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10437193,1,"Saturday, July 11, 2009 15:51:45 UTC",32.3868,-116.7730,1.9,19.20,25,"Baja California, Mexico"
+nc,71246986,0,"Saturday, July 11, 2009 15:50:01 UTC",37.4405,-118.5918,1.0,11.90, 8,"Central California"
+us,2009iyaz,7,"Saturday, July 11, 2009 15:34:25 UTC",22.8606,-108.1104,4.9,23.50,112,"off the coast of Baja California Sur, Mexico"
+uw,07111530,0,"Saturday, July 11, 2009 15:30:46 UTC",48.4635,-120.1851,2.3,1.30,21,"Washington"
+us,2009iyay,7,"Saturday, July 11, 2009 15:19:34 UTC",9.9258,122.1482,4.9,52.00,26,"Negros, Philippines"
+ak,10000287,1,"Saturday, July 11, 2009 15:11:50 UTC",52.4462,-162.9815,3.1,0.10,15,"south of Alaska"

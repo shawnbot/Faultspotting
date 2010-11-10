@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10000050,1,"Thursday, July  9, 2009 16:47:56 UTC",61.5981,-150.7355,1.3,40.00,05,"Southern Alaska"
+ak,10000052,1,"Thursday, July  9, 2009 16:39:30 UTC",65.3496,-151.3986,1.8,6.60,04,"northern Alaska"
+ak,10000047,1,"Thursday, July  9, 2009 16:22:47 UTC",60.9384,-151.2413,1.6,41.70,11,"Kenai Peninsula, Alaska"
+ak,10000046,1,"Thursday, July  9, 2009 16:07:07 UTC",54.9310,-163.3128,1.4,70.60, 8,"Unimak Island region, Alaska"
+us,2009iwa2,6,"Thursday, July  9, 2009 16:04:27 UTC",-17.7902,167.0166,4.9,50.20,29,"Vanuatu"

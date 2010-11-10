@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nn,00284899,1,"Sunday, May 31, 2009 10:36:27 UTC",37.3490,-114.7550,1.3,16.00,12,"Nevada"
+ak,00107084,1,"Sunday, May 31, 2009 10:10:48 UTC",60.4409,-152.0978,1.7,62.10, 8,"Southern Alaska"
+ak,00107085,1,"Sunday, May 31, 2009 10:10:31 UTC",51.8956,-177.8914,2.5,3.50, 7,"Andreanof Islands, Aleutian Islands, Alaska"

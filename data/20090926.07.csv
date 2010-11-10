@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71286656,0,"Saturday, September 26, 2009 13:56:43 UTC",38.7545,-122.7298,1.0,1.60, 9,"Northern California"
+ci,14515588,1,"Saturday, September 26, 2009 13:50:50 UTC",34.3823,-117.6656,2.8,5.00,107,"Southern California"
+us,2009maa2,6,"Saturday, September 26, 2009 13:26:36 UTC",-7.5918,30.4437,5.3,10.00,40,"Lake Tanganyika region, Dem. Republic of the Congo-Tanzania"
+nc,71286636,0,"Saturday, September 26, 2009 13:11:48 UTC",38.8320,-122.7647,1.4,1.30,18,"Northern California"

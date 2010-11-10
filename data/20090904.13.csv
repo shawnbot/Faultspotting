@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10008061,1,"Friday, September  4, 2009 19:48:29 UTC",52.9166,-169.0998,3.6,70.80,15,"Fox Islands, Aleutian Islands, Alaska"
+uw,09041939,0,"Friday, September  4, 2009 19:39:50 UTC",47.3113,-122.3751,2.3,20.80,70,"Seattle-Tacoma urban area, Washington"
+ci,14506516,1,"Friday, September  4, 2009 19:07:03 UTC",33.9928,-117.0063,1.5,14.60,62,"Southern California"

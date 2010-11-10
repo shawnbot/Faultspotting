@@ -1,0 +1,8 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14495872,1,"Wednesday, August  5, 2009 07:56:19 UTC",33.7048,-116.7068,1.0,17.70,37,"Southern California"
+ci,14495864,1,"Wednesday, August  5, 2009 07:50:58 UTC",33.6951,-116.7271,1.7,20.30,80,"Southern California"
+ci,14495856,1,"Wednesday, August  5, 2009 07:39:21 UTC",34.7121,-116.2741,1.8,3.50,21,"Southern California"
+us,2009jyau,7,"Wednesday, August  5, 2009 07:34:33 UTC",-9.3987,158.8930,4.9,35.00,24,"Solomon Islands"
+ak,10003323,1,"Wednesday, August  5, 2009 07:26:05 UTC",61.3958,-146.8617,2.3,15.60,30,"Southern Alaska"
+ak,10003321,1,"Wednesday, August  5, 2009 07:14:59 UTC",62.8814,-151.0361,2.1,100.00,14,"Central Alaska"
+nc,71260451,0,"Wednesday, August  5, 2009 07:11:31 UTC",38.8512,-122.8520,1.6,1.70,18,"Northern California"

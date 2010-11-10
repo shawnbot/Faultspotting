@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+pt,09228000,A,"Sunday, August 16, 2009 12:49:03 UTC",-1.5300,99.5500,6.0,47.00,09,"Kepulauan Mentawai region, Indonesia"
+us,2009kjbb,6,"Sunday, August 16, 2009 12:28:26 UTC",-1.2507,99.5747,4.7,35.00,21,"Kepulauan Mentawai region, Indonesia"
+ci,14500944,1,"Sunday, August 16, 2009 12:22:17 UTC",32.2578,-115.3760,3.1,37.50,18,"Baja California, Mexico"
+ak,10005008,1,"Sunday, August 16, 2009 12:20:13 UTC",61.8848,-142.7857,1.9,0.10,10,"Southern Alaska"

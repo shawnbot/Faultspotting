@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,10480461,1,"Tuesday, October 13, 2009 19:37:33 UTC",36.3821,-117.8908,1.6,3.30,12,"Central California"
+hv,00035591,0,"Tuesday, October 13, 2009 19:34:22 UTC",19.9122,-155.4188,2.2,14.60,00,"Island of Hawaii, Hawaii"
+ak,10014489,1,"Tuesday, October 13, 2009 19:11:42 UTC",53.3783,-168.0263,2.0,139.80,10,"Fox Islands, Aleutian Islands, Alaska"
+ak,10014487,1,"Tuesday, October 13, 2009 19:02:17 UTC",53.1160,-167.4533,3.2,53.70,16,"Fox Islands, Aleutian Islands, Alaska"
+ak,10014483,1,"Tuesday, October 13, 2009 18:53:41 UTC",60.3377,-142.5236,1.0,0.00,08,"Southern Alaska"

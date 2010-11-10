@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10108494,1,"Tuesday, October 26, 2010 10:43:09 UTC",61.1729,-149.8631,2.6,35.20,44,"Southern Alaska"
+ci,10826765,2,"Tuesday, October 26, 2010 10:37:55 UTC",33.7322,-116.8773,1.1,15.70,25,"Southern California"
+nc,71479461,0,"Tuesday, October 26, 2010 10:08:26 UTC",38.7555,-122.7240,1.8,0.80,11,"Northern California"
+ci,10826757,2,"Tuesday, October 26, 2010 10:04:24 UTC",36.0347,-117.7717,1.3,3.60, 8,"Central California"
+us,a00044m4,5,"Tuesday, October 26, 2010 10:00:10 UTC",-2.7515,99.8891,4.4,12.50,21,"Kepulauan Mentawai region, Indonesia"

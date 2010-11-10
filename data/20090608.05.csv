@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ci,14470256,1,"Monday, June  8, 2009 11:35:20 UTC",33.4896,-116.4903,1.0,15.30,53,"Southern California"
+nc,40237808,1,"Monday, June  8, 2009 11:28:56 UTC",35.6940,-121.0110,1.1,9.20,17,"Central California"
+us,2009hqa2,7,"Monday, June  8, 2009 11:01:42 UTC",-34.8203,-107.9127,4.8,10.00,40,"southern East Pacific Rise"

@@ -1,0 +1,4 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00110582,1,"Saturday, June 27, 2009 19:39:15 UTC",64.6324,-147.9251,1.2,14.50, 5,"Central Alaska"
+nc,71239846,0,"Saturday, June 27, 2009 19:15:11 UTC",38.8458,-122.8280,1.0,1.90,12,"Northern California"
+pr,p0917803,1,"Saturday, June 27, 2009 19:08:00 UTC",19.1878,-64.3883,3.4,44.60,24,"Virgin Islands region"

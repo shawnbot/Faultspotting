@@ -1,0 +1,9 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,00109829,1,"Monday, June 22, 2009 19:46:52 UTC",61.9305,-150.6739,3.0,18.60,25,"Southern Alaska"
+ak,00109823,1,"Monday, June 22, 2009 19:40:12 UTC",61.9701,-150.8810,2.8,36.20,26,"Southern Alaska"
+ak,00109819,1,"Monday, June 22, 2009 19:35:45 UTC",61.9494,-150.6289,3.2,42.90,16,"Southern Alaska"
+ak,00109810,1,"Monday, June 22, 2009 19:28:05 UTC",61.9440,-150.5186,5.7,56.50,120,"Southern Alaska"
+nc,40238626,1,"Monday, June 22, 2009 19:15:23 UTC",38.8135,-122.7933,1.4,3.30,20,"Northern California"
+nn,00286585,1,"Monday, June 22, 2009 19:14:39 UTC",40.1460,-114.3320,2.6,16.00,11,"Nevada"
+us,2009iea7,6,"Monday, June 22, 2009 19:05:17 UTC",76.1813,6.7579,5.1,10.00,83,"Svalbard region"
+ak,00109807,1,"Monday, June 22, 2009 19:04:37 UTC",64.9759,-147.4377,1.5,0.00,12,"Central Alaska"

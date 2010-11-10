@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71238256,0,"Wednesday, June 24, 2009 17:45:26 UTC",38.8477,-122.7737,1.0,1.60, 9,"Northern California"
+nc,71238236,0,"Wednesday, June 24, 2009 17:32:09 UTC",38.8280,-122.8110,1.0,2.10,11,"Northern California"
+ak,00110192,1,"Wednesday, June 24, 2009 17:29:59 UTC",53.5525,-164.2551,2.8,4.00,15,"Unimak Island region, Alaska"
+pr,p0917504,1,"Wednesday, June 24, 2009 17:24:07 UTC",17.7532,-64.6017,2.3,21.40,06,"Saint Croix, U.S. Virgin Islands"
+nn,00286734,1,"Wednesday, June 24, 2009 17:18:56 UTC",36.0810,-115.3330,1.6,0.00,28,"Nevada"

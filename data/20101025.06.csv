@@ -1,0 +1,6 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10107763,1,"Monday, October 25, 2010 12:44:13 UTC",60.1926,-141.3329,1.3,0.00, 9,"Southern Alaska"
+ci,10826229,2,"Monday, October 25, 2010 12:37:09 UTC",32.8207,-116.6582,1.6,7.00,17,"Southern California"
+ci,10826213,2,"Monday, October 25, 2010 12:33:28 UTC",33.9937,-117.0025,2.3,16.20,114,"Southern California"
+ci,10826205,2,"Monday, October 25, 2010 12:16:26 UTC",33.8410,-118.2840,1.7,3.80,12,"Greater Los Angeles area, California"
+us,a00043lz,9,"Monday, October 25, 2010 12:05:28 UTC",-0.0810,125.0876,6.1,32.00,158,"Molucca Sea"

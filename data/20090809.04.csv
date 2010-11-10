@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+ak,10003877,1,"Sunday, August  9, 2009 10:40:54 UTC",56.3019,-152.2481,3.3,0.00,25,"Kodiak Island region, Alaska"
+nc,71262461,0,"Sunday, August  9, 2009 10:36:51 UTC",37.8333,-122.0227,1.6,7.60,15,"San Francisco Bay area, California"
+ak,10003875,1,"Sunday, August  9, 2009 10:28:43 UTC",64.7327,-150.4666,2.5,14.20,17,"Central Alaska"
+ak,10003874,1,"Sunday, August  9, 2009 10:06:29 UTC",62.1548,-150.6028,1.4,9.00, 6,"Central Alaska"

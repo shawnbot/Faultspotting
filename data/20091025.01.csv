@@ -1,0 +1,5 @@
+Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
+nc,71299555,0,"Sunday, October 25, 2009 07:47:01 UTC",36.1587,-121.6108,2.0,17.20,19,"Central California"
+ci,10485301,1,"Sunday, October 25, 2009 07:03:15 UTC",33.9066,-116.8331,1.1,4.30,43,"Southern California"
+us,2009near,6,"Sunday, October 25, 2009 07:01:53 UTC",-23.4578,-179.8117,4.6,552.80,40,"south of the Fiji Islands"
+ci,10485293,1,"Sunday, October 25, 2009 07:01:13 UTC",35.9888,-117.6835,1.9,3.30,31,"Central California"
