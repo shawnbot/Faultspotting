@@ -1,0 +1,20 @@
+Faultspotting: U.S. Earthquakes on maps
+
+All this does is get data right now. To update automatically, add the following
+line to your crontab:
+
+0 * * * * cd {PATH_TO_FAULTSPOTTING} && ./update.sh 2>&1 >> log.txt
+
+replacing, obviously, {PATH_TO_FAULTSPOTTING} with the full path to your
+faultspotting checkout.
+
+This will do a few things every hour:
+
+1. Pull the latest set of hourly US quake data from
+   earthquake.usgs.gov, and place it in a CSV file named
+   according to the current (system) date and time:
+   "data/%Y%m%d.%H.csv"
+2. Symlink the latest CSV to "data/latest.csv"
+3. Append latest hourly data to a master CSV file: "data/all.csv"
+4. Generate GeoJSON versions of the latest and master sets:
+   "data/latest.json" and "data/all.json"
