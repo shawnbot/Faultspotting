@@ -14,7 +14,7 @@ This will do a few things every hour:
    earthquake.usgs.gov, and place it in a CSV file named
    according to the current (system) date and time:
    "data/%Y%m%d.%H.csv"
-2. Symlink the latest CSV to "data/latest.csv"
+2. Copy the latest dated CSV to "data/latest.csv"
 3. Append latest hourly data to a master CSV file: "data/all.csv"
 4. Generate GeoJSON versions of the latest and master sets:
    "data/latest.json" and "data/all.json"
