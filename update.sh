@@ -5,7 +5,7 @@ mkdir -p data
 if [ ! -e $FILE ]
 then
     curl --silent --max-redirs 4 "http://earthquake.usgs.gov/earthquakes/catalogs/eqs1hour-M1.txt" > $FILE
-		rm -f data/latest.csv
+    rm -f data/latest.csv
     cp $FILE data/latest.csv
     cat $FILE | egrep -v "^Src" >> data/all.csv
     python geojson.py data/latest.csv > data/latest.json

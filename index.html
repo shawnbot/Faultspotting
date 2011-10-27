@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Earthquakes!</title>
+        <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.6.4.min.js"></script>
+        <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js"></script>
+        <script type="text/javascript" src="https://raw.github.com/shawnbot/HTMAPL/redux/lib/modestmaps.js"></script>
+        <script type="text/javascript" src="https://raw.github.com/shawnbot/HTMAPL/redux/lib/modestmaps.markers.js"></script>
+        <script type="text/javascript" src="https://raw.github.com/shawnbot/HTMAPL/redux/src/htmapl.js"></script>
+        <style type="text/css">
+            html, body {
+                padding: 0;
+                margin: 0;
+            }
+
+            body {
+                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+                font-size: 16px;
+                line-height: 1.2em;
+                padding: 1em;
+            }
+
+            a.quake {
+                width: 26px;
+                height: 26px;
+                margin: -13px 0 0 -13px;
+                text-align: center;
+                text-decoration: none;
+            }
+
+            a.quake span { display: none; }
+
+            a.quake .magnitude {
+                display: block;
+                width: 100%;
+                height: 100%;
+                color: white;
+                font-size: 12px;
+                line-height: 26px;
+                border-radius: 13px;
+            }
+
+            a.quake.m1 .magnitude { background: #06c; }
+            a.quake.m2 .magnitude { background: #f90; }
+            a.quake.m3 .magnitude { background: #f60; }
+            a.quake.m4 .magnitude { background: #f30; }
+            a.quake.m5 .magnitude { background: #f00; }
+            a.quake.m6 .magnitude { background: #f00; font-weight: bold; }
+        </style>
+    </head>
+    <body>
+
+        <h2>Latest</h2>
+        <div class="map">
+            <div class="layer quakes" data-url="data/latest.json"></div>
+        </div>
+
+        <h2>October 20, 2011</h2>
+        <div class="map">
+            <div class="layer quakes" data-url="data/20111020-all.json"></div>
+        </div>
+
+        <script id="quake-marker" type="text/x-jquery-tmpl">
+            <a class="quake m${~~properties.Magnitude}"
+                id="${properties.Eqid}"
+                href="http://earthquake.usgs.gov/earthquakes/recenteqsus/Quakes/${properties.Src}${properties.Eqid}.php"
+                data-magnitude="${properties.Magnitude}" data-depth="${properties.Depth}">
+                <span class="magnitude">${properties.Magnitude}</span>
+                <span class="region">in ${properties.Region}</span>
+                <span class="date">on ${properties.Datetime}</span>
+            </a>
+        </script>
+
+        <script type="text/javascript">
+        $(function() {
+            // default options for all quake marker layers
+            $("div.map .quakes").data({
+                "type":     "geojson",
+                "url-type": "json",
+                "template": "#quake-marker",
+                "set-extent": true
+            });
+            // set the provider default to bing
+            $("div.map").htmapl({
+                "provider": "toner"
+            });
+        });
+        </script>
+    </body>
+</html>

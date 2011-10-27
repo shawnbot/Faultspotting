@@ -16,6 +16,7 @@ def row2feature(row):
                'properties': {},
                'geometry': {'type': 'Point',
                             'coordinates': [float(row[lon_field]), float(row[lat_field])]}}
+    non_props = [lat_field, lon_field]
     for k in row.keys():
         if not (k in non_props):
             feature['properties'][k] = number(row[k])
@@ -27,12 +28,11 @@ if __name__ == '__main__':
     parser = optparse.OptionParser()
     opts, args = parser.parse_args()
 
-    input_filename = args.pop(0)
-    input = csv.DictReader(open(input_filename))
+    features = []
+    for filename in args:
+        input = csv.DictReader(open(filename))
+        features.extend(map(row2feature, input))
 
-    non_props = [lat_field, lon_field]
-
-    features = map(row2feature, input)
     collection = {'type': 'FeatureCollection',
                   'features': features}
     print simplejson.dumps(collection)
