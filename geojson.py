@@ -7,7 +7,10 @@ lon_field = 'Lon'
 num_pat = re.compile('^-?[0-9]*(\.?[0-9]+)?([eE]-?[0-9]+)?$')
 def number(value):
     if num_pat.match(value):
-        return float(value)
+        if "." in value:
+            return float(value)
+        else:
+            return int(value)
     return value
 
 def row2feature(row):
@@ -32,6 +35,8 @@ if __name__ == '__main__':
     for filename in args:
         input = csv.DictReader(open(filename))
         features.extend(map(row2feature, input))
+
+    features = sorted(features, key=lambda row: row['properties']['Magnitude'])
 
     collection = {'type': 'FeatureCollection',
                   'features': features}
