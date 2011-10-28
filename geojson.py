@@ -26,7 +26,11 @@ def row2feature(row):
     return feature
 
 if __name__ == '__main__':
-    import simplejson, csv, optparse
+    try:
+        import json
+    except ImportError:
+        import simplejson as json
+    import csv, optparse
 
     parser = optparse.OptionParser()
     opts, args = parser.parse_args()
@@ -40,4 +44,4 @@ if __name__ == '__main__':
 
     collection = {'type': 'FeatureCollection',
                   'features': features}
-    print simplejson.dumps(collection)
+    print json.dumps(collection)
