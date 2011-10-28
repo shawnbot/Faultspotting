@@ -6,7 +6,7 @@
         <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js"></script>
         <script type="text/javascript" src="https://raw.github.com/shawnbot/HTMAPL/redux/lib/modestmaps.js"></script>
         <script type="text/javascript" src="https://raw.github.com/shawnbot/HTMAPL/redux/lib/modestmaps.markers.js"></script>
-        <script type="text/javascript" src="https://raw.github.com/shawnbot/HTMAPL/redux/src/htmapl.js"></script>
+        <script type="text/javascript" src="https://raw.github.com/shawnbot/HTMAPL/redux/src/htmapl-native.js"></script>
         <style type="text/css">
             html, body {
                 padding: 0;
@@ -73,17 +73,25 @@
 
         <script type="text/javascript">
         $(function() {
-            // default options for all quake marker layers
-            $("div.map .quakes").data({
-                "type":     "geojson",
-                "url-type": "json",
-                "template": "#quake-marker",
-                "set-extent": true
-            });
-            // set the provider default to bing
-            $("div.map").htmapl({
+            // set the default provider to toner
+            $.extend(HTMAPL.defaults.map, {
                 "provider": "toner"
             });
+
+            var marker = $("#quake-marker").template();
+            function markerTemplate(feature) {
+                return $.tmpl(marker, feature).get(0);
+            }
+
+            // default options for all marker layers
+            $.extend(HTMAPL.defaults.layer, {
+                "type":     "geojson",
+                "dataType": "json",
+                "template": markerTemplate,
+                "setExtent": true
+            });
+
+            $("div.map").htmapl();
         });
         </script>
     </body>
