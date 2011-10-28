@@ -18,6 +18,3 @@ This will do a few things every hour:
 3. Append latest hourly data to a master CSV file: "data/all.csv"
 4. Generate GeoJSON versions of the latest and master sets:
    "data/latest.json" and "data/all.json"
-
-Note:
-geojson.py requires simplejson. You should be able to easy_install it.
